@@ -1,37 +1,37 @@
 Locations
 --
-id
-city
-country
+id PK int
+city varchar(50)
+country varchar(50)
 
 MemberTypes
 --
-id
-member_type
-location_id
+id PK int
+member_type varchar(50)
+location_id int fk >- Locations.id
 
 Stations
 --
-station_id
-station_name
-latitude
-longitude
-location_id
+station_id PK int
+station_name varchar(255)
+latitude numeric(11,8)
+longitude numeric(11,8)
+location_id int fk >- Locations.id
 
 Bikes
 --
-id
-bike_id
-location_id
+id PK int
+bike_id int
+location_id int fk >- Locations.id
 
 Ridership
 --
-id
-trip_id
-start_station_id
-end_station_id
-start_date
-end_date
-bike_id
-member_type_id
-location_id
+id PK int
+trip_id int
+start_station_id int fk >- Stations.station_id
+end_station_id int fk >- Stations.station_id
+start_date datetime
+end_date datetime
+bike_id int fk >- Bikes.id
+member_type_id int fk >- MemberTypes.id
+location_id int
