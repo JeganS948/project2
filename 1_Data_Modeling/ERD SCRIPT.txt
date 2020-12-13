@@ -35,3 +35,11 @@ end_date datetime
 bike_id int fk >- Bikes.id
 member_type_id int fk >- MemberTypes.id
 location_id int
+
+Pricing
+--
+price_id PK int
+location_id int fk >- Locations.id
+membertype_id int fk - MemberTypes.id
+plan varchar(50)
+amount numeric(10,2)
