@@ -26,13 +26,31 @@ CREATE table Locations (
     PRIMARY KEY (id)
 );
 
-CREATE table MemberTypes {
+-- create table MemberTypes
+CREATE table MemberTypes (
     id int not null,
     member_type varchar(50) not null,
     location_id int,
     PRIMARY KEY (id)
-    CONSTRAINT fk_membertypes_location
+    CONSTRAINT fk_membertypes_locations
         FOREIGN KEY (location_id)
-        REFERENCES Locations(location_id)
-}
+        REFERENCES Locations (location_id)
+);
+
+-- create table Pricing
+CREATE table Pricing (
+    price_id int not null,
+    location_id int not null,
+    membertype_id int not null,
+    plan varchar(50) not null,
+    amount numeric(10,2) not null,
+    PRIMARY KEY (price_id),
+    CONSTRAINT Fk_pricing_locations
+        FOREIGN KEY (location_id)
+        REFERENCES Locations(location_id),
+    CONSTRAINT fk_pricing_membertypes
+        FOREIGN KEY (membertype_id)
+        REFERENCES MemberTypes (id)
+);
+
 
