@@ -45,7 +45,7 @@ CREATE table Pricing (
     plan varchar(50) not null,
     amount numeric(10,2) not null,
     PRIMARY KEY (price_id),
-    CONSTRAINT Fk_pricing_locations
+    CONSTRAINT fk_pricing_locations
         FOREIGN KEY (location_id)
         REFERENCES Locations(location_id),
     CONSTRAINT fk_pricing_membertypes
@@ -57,6 +57,14 @@ CREATE table Pricing (
 CREATE table Stations (
     id int not null,
     station_id int not null,
-    station_name varchar(255)not null
-
+    station_name varchar(255) not null,
+    latitude numeric(11,8) not null,
+    longitude numeric(11,8) not null,
+    location_id int not null,
+    PRIMARY KEY (station_id, location_id),
+    CONSTRAINT fk_stations_locations
+        FOREIGN KEY (location_id)
+        REFERENCES Locations (location_id)
 );
+
+
