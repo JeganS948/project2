@@ -21,9 +21,9 @@ location_id PK int fk >- Locations.id
 
 Bikes
 --
-id PK int
-bike_id int
-location_id int fk >- Locations.id
+id int
+bike_id PK int
+location_id PK int fk >- Locations.id
 
 Ridership
 --
@@ -34,8 +34,8 @@ end_station_id int fk >- Stations.station_id
 start_date datetime
 end_date datetime
 bike_id int fk >- Bikes.id
-member_type_id int fk >- MemberTypes.id
-location_id int
+membertype_id int fk >- MemberTypes.id
+location_id int fk >- Locations.id
 
 Pricing
 --

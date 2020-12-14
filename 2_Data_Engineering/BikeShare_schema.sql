@@ -67,4 +67,16 @@ CREATE table Stations (
         REFERENCES Locations (location_id)
 );
 
+-- create table Bikes
+CREATE table Bikes (
+    id int not null,
+    bike_id int not null,
+    location_id int not null,
+    PRIMARY KEY (bike_id, location_id),
+    CONSTRAINT fk_bikes_locations
+        FOREIGN KEY (location_id)
+        REFERENCES Locations (location_id)
+);
+
+-- create table Ridership
 
