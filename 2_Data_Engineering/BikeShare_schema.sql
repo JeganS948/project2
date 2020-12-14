@@ -31,7 +31,7 @@ CREATE table Locations (
 CREATE table MemberTypes (
     member_type varchar(50) not null,
     location_id int not null,
-    PRIMARY KEY (member_type, location_id)
+    PRIMARY KEY (member_type, location_id),
     CONSTRAINT fk_membertypes_locations
         FOREIGN KEY (location_id)
         REFERENCES Locations (location_id)
@@ -82,8 +82,8 @@ CREATE table Ridership (
     start_date timestamp not null,
     end_date timestamp not null,
     bike_id int not null,
-    membertype_id int not null,
     location_id int not null,
+    member_type varchar(50) not null,
     PRIMARY KEY (id),
     CONSTRAINT fk_rides_bikes
         FOREIGN KEY (bike_id, location_id)
@@ -97,4 +97,4 @@ CREATE table Ridership (
     CONSTRAINT fk_rides_stations_end
         FOREIGN KEY (end_station_id, location_id)
         REFERENCES Stations (station_id, location_id)
-)
+);
