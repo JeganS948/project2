@@ -53,4 +53,10 @@ CREATE table Pricing (
         REFERENCES MemberTypes (id)
 );
 
+-- create table stations
+CREATE table Stations (
+    id int not null,
+    station_id int not null,
+    station_name varchar(255)not null
 
+);
