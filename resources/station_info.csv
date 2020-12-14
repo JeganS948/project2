@@ -1,0 +1,2402 @@
+,station_id,station_name,lat,lon,location_id
+0,7000,Fort York  Blvd / Capreol Ct,43.639832,-79.395954,1
+1,7001,Lower Jarvis St / The Esplanade,43.64783,-79.370698,1
+2,7002,St. George St / Bloor St W,43.667333,-79.399429,1
+3,7003,Madison Ave / Bloor St W,43.667158,-79.402761,1
+4,7004,University Ave / Elm St,43.656518,-79.389099,1
+5,7005,King St W / York St,43.6480008,-79.383177,1
+6,7006,Bay St / College St (East Side),43.660439,-79.385525,1
+7,7007,College St / Huron St,43.658148,-79.398167,1
+8,7008,Wellesley St / Queen's Park Cres,43.663376,-79.392125,1
+9,7009,King St E / Jarvis St,43.650325,-79.372287,1
+10,7010,King St W / Spadina Ave,43.645323,-79.395003,1
+11,7011,Wellington St W / Portland St,43.642982,-79.399256,1
+12,7012,Elizabeth St / Edward St (Bus Terminal),43.656026,-79.385327,1
+13,7013,Scott St / The Esplanade,43.64656,-79.375274,1
+14,7014,Sherbourne St / Carlton St (Allan Gardens),43.663102,-79.373181,1
+15,7015,King St W / Bay St (West Side),43.64852,-79.380576,1
+16,7016,Bay St / Queens Quay W (Ferry Terminal),43.640823,-79.376265,1
+17,7017,Widmer St / Adelaide St W,43.6475076,-79.3914841,1
+18,7018,Bremner Blvd / Rees St,43.641529,-79.386741,1
+19,7019,Temperance St. Station,43.6507021,-79.3800546,1
+20,7020,Phoebe St / Spadina Ave,43.650033,-79.396555,1
+21,7021,Bay St / Albert St,43.653264,-79.382458,1
+22,7022,Simcoe St / Queen St W,43.650858,-79.387582,1
+23,7023,College St / Borden St,43.6571,-79.4056,1
+24,7024,Dundonald St / Church St,43.66663,-79.38148,1
+25,7025,Ted Rogers Way / Bloor St E,43.671293,-79.380471,1
+26,7026,Bay St / St. Joseph St,43.665527,-79.387499,1
+27,7027,Beverley  St / Dundas St W,43.652823,-79.393388,1
+28,7028,Gould St / Mutual St,43.6582,-79.3768,1
+29,7029,Bay St / Bloor St W (East Side),43.66943,-79.38915,1
+30,7030,Bay St / Wellesley St W,43.664088,-79.387095,1
+31,7031,Jarvis St / Isabella St,43.668991,-79.379385,1
+32,7032,Augusta Ave / Dundas St W,43.652473,-79.401456,1
+33,7033,Union Station,43.645609,-79.380386,1
+34,7034,Church St / Bloor St E,43.671389,-79.382919,1
+35,7035,Queen St W / Ossington Ave,43.643975,-79.419576,1
+36,7036,Trinity St /Front St E,43.651318,-79.36023,1
+37,7037,Bathurst St / Dundas St W,43.6523,-79.4058,1
+38,7038,Dundas St W / Yonge St,43.656094,-79.381484,1
+39,7039,Simcoe St / Michael Sweet Ave - SMART,43.652327224103,-79.3882538196087,1
+40,7040,Euclid Ave / Bloor St W - SMART,43.664467,-79.414783,1
+41,7041,Edward St / Yonge St,43.656729,-79.382736,1
+42,7042,Sherbourne St / Wellesley St E,43.6673,-79.374,1
+43,7043,Queens Quay W / Lower Simcoe St,43.63951,-79.383717,1
+44,7044,Church St / Alexander St,43.663722,-79.380288,1
+45,7045,Bond St / Queen St E,43.653236,-79.376716,1
+46,7046,Niagara St / Richmond St W,43.64534,-79.409597,1
+47,7047,University Ave / Gerrard St W (East Side),43.657763,-79.389165,1
+48,7048,Front St W / Yonge St (Hockey Hall of Fame),43.646144,-79.377962,1
+49,7049,Queen St W / Portland St,43.6476,-79.4015,1
+50,7050,Richmond St E / Jarvis St Green P,43.652634,-79.374222,1
+51,7051,Mutual St / Shuter St,43.6548789,-79.37509070000002,1
+52,7052,Wellington St W / Bay St,43.647259,-79.379878,1
+53,7053,Metro Hall Plaza,43.645859,-79.38783,1
+54,7054,Navy Wharf Ct. / Bremner Blvd.,43.640722,-79.391051,1
+55,7055,Jarvis St / Carlton St,43.66207,-79.37617,1
+56,7056,Parliament St / Gerrard St,43.662132,-79.3656796,1
+57,7057,Simcoe St / Wellington St South,43.6458569,-79.3853654,1
+58,7058,Huron/ Harbord St,43.6637,-79.400053,1
+59,7059,Front St W / Blue Jays Way,43.643473,-79.390477,1
+60,7060,Princess St / Adelaide St E,43.652123,-79.367139,1
+61,7061,Dalton Rd / Bloor St W - SMART,43.6662942,-79.4066433,1
+62,7062,University Ave / College St (West),43.659226,-79.390213,1
+63,7063,Queen's Park / Bloor St W,43.668456,-79.393899,1
+64,7064,51 Parliament St,43.65205,-79.362198,1
+65,7065,Dundas St E / Parliament St,43.659575,-79.365769,1
+66,7066,Willcocks St / St. George St - SMART,43.662085,-79.397735,1
+67,7067,Yonge St / Harbour St,43.643795,-79.375413,1
+68,7068,Blantyre Park,43.68306889999999,-79.279682,1
+69,7069,Queen St W / Spadina Ave,43.649147,-79.395504,1
+70,7070,25 York St – Union Station South,43.643667,-79.380414,1
+71,7071,161 Bleecker St (South of Wellesley),43.666233,-79.373327,1
+72,7072,Fleet St / Bathurst St,43.636611,-79.400042,1
+73,7073,Spadina Ave / Fort York Blvd,43.640114,-79.393249,1
+74,7074,King St E / Church St,43.65003919999999,-79.3733541,1
+75,7075,Queens Quay W / Dan Leckie Way,43.636533,-79.395854,1
+76,7076,York St / Queens Quay W,43.640132,-79.380464,1
+77,7077,College Park South,43.659777,-79.382767,1
+78,7078,College St / Major St,43.6576,-79.4032,1
+79,7079,McGill St / Church St,43.660694,-79.379052,1
+80,7083,Danforth Ave / Barrington Ave,43.688325,-79.300463,1
+81,7084,High Park - Grenadier Cafe,43.645599,-79.4657123,1
+82,7085,Danforth Ave / Westlake Ave,43.687323,-79.304848,1
+83,7086,High Park - West Rd,43.6525077,-79.4654233,1
+84,7087,Danforth Ave / Aldridge Ave,43.684758,-79.316767,1
+85,7088,Danforth Ave / Coxwell Ave,43.683378,-79.322961,1
+86,7089,Church St  / Wood St,43.662712,-79.379903,1
+87,7090,Danforth Ave / Lamb Ave,43.681991,-79.329455,1
+88,7091,Donlands Station,43.681114,-79.3373885,1
+89,7092,Pape Subway Green P,43.680223,-79.344062,1
+90,7093,Danforth Ave / Gough Ave,43.678401,-79.346289,1
+91,7094,Chester Station (Green P),43.6784556,-79.351014,1
+92,7095,Danforth Ave / Ellerbeck St,43.677076,-79.35667,1
+93,7096,Boston Ave / Queen St E,43.661508,-79.338931,1
+94,7097,Riverdale Park North (Broadview Ave),43.671172,-79.354704,1
+95,7098,Riverdale Park South (Broadview Ave),43.667819,-79.35347,1
+96,7099,Cherry St / Mill St,43.651248,-79.357848,1
+97,7100,Dundas St E / Regent Park Blvd,43.660207,-79.361275,1
+98,7101,Lower Sherbourne St / The Esplanade,43.648655,-79.367061,1
+99,7102,Nelson St / Duncan St,43.648711,-79.389728,1
+100,7103,Jimmie Simpson Park (Queen St E),43.6605603,-79.3437663,1
+101,7104,King St E / River St,43.657071,-79.356598,1
+102,7105,Queen St E / Sackville St,43.6561111,-79.36138888888888,1
+103,7106,Mill St / Tannery Rd,43.652219,-79.354455,1
+104,7107,Cherry St / Distillery Ln,43.650279,-79.356832,1
+105,7108,Front St E / Cherry St,43.652686,-79.358395,1
+106,7109,Seaton St / Dundas St E - SMART,43.658777,-79.369596,1
+107,7110,Queen St E / Berkeley St,43.6552778,-79.36583333333333,1
+108,7111,King St W / Douro St,43.640885,-79.416379,1
+109,7112,Liberty St / Fraser Ave Green P,43.637981,-79.424146,1
+110,7113,Parliament St / Aberdeen Ave,43.665278,-79.368333,1
+111,7114,Carlton St / Parliament St,43.664524,-79.36793,1
+112,7115,Howard St / Sherbourne St,43.6712581,-79.376367,1
+113,7116,Parliament St / Bloor St E,43.671827,-79.371849,1
+114,7117,Castle Frank Station,43.674083,-79.368579,1
+115,7118,King St W / Bay St (East Side),43.648575,-79.380042,1
+116,7119,Sumach St / Carlton St. (Riverdale Farm),43.665867,-79.362506,1
+117,7120,Gerrard St E / River St,43.663993,-79.358534,1
+118,7121,Jarvis St / Dundas St E,43.657266,-79.374756,1
+119,7122,Niagara St / Tecumseth St,43.641389,-79.404444,1
+120,7123,424 Wellington St W - SMART,43.643834,-79.396649,1
+121,7124,Dundas St E / Broadview Ave,43.662365,-79.351104,1
+122,7126,Yonge St / Yorkville Ave,43.671944,-79.387778,1
+123,7127,Bay St / Scollard St,43.672152,-79.39018,1
+124,7128,Yonge St / Aylmer Ave,43.675492,-79.388858,1
+125,7129,Davenport Rd / Avenue Rd,43.674991,-79.396273,1
+126,7130,Davenport Rd / Bedford Rd,43.6743985,-79.3986601,1
+127,7131,Taddle Creek Park,43.66986,-79.398443,1
+128,7132,Kendal Ave / Spadina Rd,43.670318,-79.405181,1
+129,7133,Summerhill Station,43.681944,-79.390556,1
+130,7134,Marlborough Ave / Yonge St,43.68,-79.391111,1
+131,7135,Hanna Ave / Liberty St,43.638333,-79.419722,1
+132,7136,Queen St W / Close Ave,43.640634,-79.435841,1
+133,7137,Davenport Rd / Bathurst St - SMART,43.676667,-79.416111,1
+134,7138,Davenport Rd / Christie St - SMART,43.675278,-79.423889,1
+135,7139,Glen Edyth Dr / Davenport Rd,43.677778,-79.405556,1
+136,7140,Macpherson Ave / Spadina Rd - SMART,43.675791,-79.40698,1
+137,7141,Bridgeman Ave / Kendal Ave - SMART,43.675556,-79.410278,1
+138,7142,Bridgeman Ave / Bathurst St - SMART,43.674444,-79.414722,1
+139,7143,Kendal Ave / Bernard Ave,43.671513,-79.408317,1
+140,7144,Palmerston Ave / Vermont Ave - SMART,43.671389,-79.416389,1
+141,7146,Christie St / Benson Ave (Wychwood Barns),43.68,-79.42500000000001,1
+142,7147,King St W / Fraser Ave,43.6394444,-79.42527777777778,1
+143,7148,King St W / Joe Shuster Way,43.639444,-79.423611,1
+144,7149,Yarmouth Rd / Christie St - SMART,43.67,-79.42083333333333,1
+145,7150,Dufferin St / Sylvan Av (Dufferin Grove Park),43.6555556,-79.43361111111112,1
+146,7151,Essex St / Christie St - SMART,43.6686111,-79.42027777777778,1
+147,7152,Ossington Ave / Bloor St W - SMART,43.661705,-79.425734,1
+148,7153,Bloor St W / Christie St - SMART,43.6638889,-79.41888888888889,1
+149,7154,Bathurst Subway Station - SMART,43.6666667,-79.41166666666668,1
+150,7155,Bathurst St / Lennox St - SMART,43.663808,-79.410491,1
+151,7156,Salem Ave / Bloor St W - SMART,43.6608333,-79.43166666666667,1
+152,7157,Dufferin St / Bloor St- SMART,43.66083333333333,-79.43583333333333,1
+153,7158,King St W / Stafford St,43.6422222,-79.41111111111111,1
+154,7160,King St W / Tecumseth St,43.64333333333333,-79.40555555555557,1
+155,7161,Beverley St / College St,43.6575,-79.39527777777778,1
+156,7162,Hayter St / Laplante Ave,43.6591666666667,-79.3855555555556,1
+157,7163,Yonge St / Wood St,43.6622222,-79.3825,1
+158,7164,Gould St / Yonge St (Ryerson University),43.657424,-79.381019,1
+159,7167,Queen St E / George St (Moss Park),43.6544444,-79.3711111111111,1
+160,7168,Queens Quay / Yonge St,43.641646,-79.375308,1
+161,7169,Front St W / Bay St (North Side),43.646162,-79.378912,1
+162,7170,Spadina Ave / Willcocks St,43.6616667,-79.40138888888889,1
+163,7171,Ontario Place Blvd / Lake Shore Blvd W (East),43.6322445,-79.4108105,1
+164,7172,Strachan Ave / Princes' Blvd,43.635,-79.4088888888889,1
+165,7173,Cariboo St / Rail Path,43.66666667,-79.45833333333334,1
+166,7174,Bloor St W / Dundas St W,43.6563889,-79.45166666666667,1
+167,7175,HTO Park (Queens Quay W),43.63796,-79.387502,1
+168,7176,Bathurst St / Fort York Blvd,43.639179,-79.399595,1
+169,7177,East Liberty St / Pirandello St,43.6386111111111,-79.4147222222222,1
+170,7178,Dundas St W / Edna Ave,43.657192,-79.452559,1
+171,7179,Bloor GO / UP Station (West Toronto Railpath),43.6575,-79.4502777777778,1
+172,7180,Lansdowne Subway Station,43.6587734,-79.443054,1
+173,7181,Lansdowne Ave / Whytock Ave,43.6538888888889,-79.4413888888889,1
+174,7182,Sterling Rd / Dundas St W - SMART,43.6508333333333,-79.4430555555556,1
+175,7183,St Clarens Ave / College St,43.651238,-79.43868,1
+176,7184,Ossington Ave / College St,43.6544915,-79.422634,1
+177,7188,Exhibition GO (Atlantic Ave),43.6366666666667,-79.4197222222222,1
+178,7189,Augusta Ave / Denison Sq,43.653766,-79.4016759,1
+179,7190,St. George St / Hoskin Ave,43.6637403,-79.39806449999999,1
+180,7191,Central Tech  (Harbord St),43.661975,-79.407896,1
+181,7192,Harbord St / Clinton St - SMART,43.660414,-79.415646,1
+182,7193,Queen St W / Gladstone Ave,43.6430555555556,-79.4275,1
+183,7194,Mortimer Ave / Coxwell Ave,43.690564,-79.326319,1
+184,7195,Ulster St / Bathurst St,43.66,-79.4088888888889,1
+185,7196,Roxton Rd / Harbord St - SMART,43.65905,-79.422988,1
+186,7197,Queen St W / Dovercourt Rd,43.6436111111111,-79.4225,1
+187,7198,Queen St W / Cowan Ave,43.6409,-79.432837,1
+188,7199,College St / Markham St,43.6563888888889,-79.4091666666667,1
+189,7202,Queen St W / York St (City Hall),43.651667,-79.384167,1
+190,7203,Bathurst St/Queens Quay(Billy Bishop Airport),43.635492,-79.398253,1
+191,7204,College St / Crawford St,43.655,-79.418889,1
+192,7205,Rusholme Park Cres / College St,43.65277778,-79.42972222,1
+193,7206,Claremont St / Dundas St W,43.651281,-79.411717,1
+194,7207,Dundas St W / Crawford St,43.649722,-79.416944,1
+195,7208,80 Clinton St (North of College) - SMART,43.656296,-79.414663,1
+196,7209,Ossington Ave / Harrison St,43.651111111111106,-79.4213888888889,1
+197,7210,Mary McCormick Rec Centre (Sheridan Ave),43.6475,-79.43305555555555,1
+198,7211,Fort York Blvd / Garrison Rd,43.6375,-79.40611111111112,1
+199,7216,Wellington St W / Stafford St,43.641281,-79.409339,1
+200,7217,Soho St / Queen St W,43.6494896,-79.393535,1
+201,7220,Lake Shore Blvd W / Ellis Ave,43.635932,-79.465083,1
+202,7221,High Park Subway Station,43.6543604,-79.4655296,1
+203,7222,Sunnyside - Gus Ryder Pool,43.637894,-79.454823,1
+204,7223,Parkside Dr / Bloor St W - SMART,43.654501,-79.460053,1
+205,7224,Bloor St W / High Park Ave (High Park),43.6535269,-79.4650569,1
+206,7225,Lake Shore Blvd W / Windermere Ave,43.634896,-79.467763,1
+207,7226,Lake Shore Blvd W / The Boulevard Club,43.636731,-79.444966,1
+208,7227,Martin Goodman Trail (Marilyn Bell Park),43.6314,-79.4304,1
+209,7228,Queen St W / Roncesvalles Ave,43.638399,-79.4464436,1
+210,7229,Dundas St W / Roncesvalles Green P - SMART,43.6534268,-79.4512787,1
+211,7230,Garden Ave / Roncesvalles Ave,43.643769,-79.447915,1
+212,7231,Wright / Sorauren (Sorauren Park) - SMART,43.646677,-79.442741,1
+213,7232,Queen St W  /  Fuller Ave - SMART,43.640255,-79.439223,1
+214,7233,King / Cowan Ave - SMART,43.637922,-79.431734,1
+215,7234,Roncesvalles Ave / Marmaduke St,43.650492,-79.450842,1
+216,7235,Bay St / College St (West Side) - SMART,43.660087,-79.385655,1
+217,7236,Thompson St / Broadview Ave - SMART,43.659471,-79.350325,1
+218,7237,Ward Ave / Wallace Ave - SMART,43.662251,-79.446036,1
+219,7238,Sorauren/Geoffrey (Sorauren Park) - SMART,43.649172,-79.4445087,1
+220,7239,Bloor St W / Manning Ave - SMART,43.663912,-79.416124,1
+221,7240,Bloor St W / Shaw Ave - SMART,43.662403,-79.423098,1
+222,7241,519 Church St - SMART,43.666805,-79.381288,1
+223,7242,Lake Shore Blvd W / Ontario Dr,43.630254,-79.420317,1
+224,7243,Exhibition GO Station,43.6356551,-79.4184785,1
+225,7244,Dufferin Gate - SMART,43.633473,-79.425679,1
+226,7245,Tecumseth St / Queen St W - SMART,43.646552,-79.406468,1
+227,7246,Yonge St / Bloor St,43.669969,-79.386532,1
+228,7247,Howard Park Ave / Dundas St W - SMART,43.6521,-79.4486,1
+229,7248,Baldwin Ave / Spadina Ave - SMART,43.654905,-79.398448,1
+230,7249,Dovercourt Rd / Harrison St (Green P) - SMART,43.651145,-79.423742,1
+231,7250,St. George St / Russell St - SMART,43.660296,-79.397107,1
+232,7251,The Royal Ontario Museum (Bloor St Entrance),43.668561,-79.394403,1
+233,7252,Robert St / Bloor St W - SMART,43.665846,-79.404998,1
+234,7253,John St  / Mercer St - SMART,43.6461,-79.3895,1
+235,7254,Borden St / Bloor St W - SMART,43.665461,-79.40848,1
+236,7255,Stewart St / Bathurst St  - SMART,43.643307,-79.402176,1
+237,7256,Vanauley St / Queen St W - SMART,43.648437,-79.39838,1
+238,7257,Dundas St W / St. Patrick St,43.6545174,-79.3895315,1
+239,7258,Queen St E / Rushbrooke Ave,43.6626628,-79.3323698,1
+240,7259,Lower Spadina Ave / Lake Shore Blvd,43.638497,-79.39192,1
+241,7260,Spadina Ave / Adelaide St W,43.646688,-79.395267,1
+242,7261,Queens Quay E / Lower Sherbourne St,43.645215,-79.364898,1
+243,7262,Wychwood Ave / Benson Ave - SMART,43.6809164,-79.4229684,1
+244,7263,Walton St / Elizabeth St - SMART,43.657838,-79.38631,1
+245,7264,Bloor St E / Huntley St - SMART,43.671535,-79.379173,1
+246,7265,Wallace Ave / Symington Ave - SMART,43.661324,-79.449534,1
+247,7266,Victoria Park Subway Station - SMART,43.6940155,-79.2889842,1
+248,7267,Dundas St E / Pembroke St - SMART,43.658295,-79.372346,1
+249,7268,111 Bond St (North of Dundas St E)  - SMART,43.656927,-79.378497,1
+250,7269,Toronto Eaton Centre (Yonge St),43.655431,-79.380653,1
+251,7270,Church St / Dundas St E - SMART,43.657024,-79.377257,1
+252,7271,Yonge St / Alexander St - SMART,43.662862,-79.383572,1
+253,7272,Yonge St / Dundonald St - SMART,43.665801,-79.384796,1
+254,7273,Bay St / Charles St - SMART,43.668153,-79.38891,1
+255,7274,Queen's Park Cres E / Grosvenor St - SMART,43.661803,-79.389682,1
+256,7275,Queen St W / James St,43.652276,-79.380701,1
+257,7276,Bloor St W / Balmuto St,43.669903,-79.387802,1
+258,7277,Chorley Park - SMART,43.6856,-79.3718,1
+259,7278,Mallon Ave / Jones Ave -SMART,43.66587,-79.33443,1
+260,7279,Rosehill Ave / Avoca Ave - SMART,43.687999,-79.38906,1
+261,7280,Charles St E / Jarvis St - SMART,43.669604,-79.381171,1
+262,7281,Charles St W / Balmuto St - SMART,43.668427,-79.38725,1
+263,7282,Adelaide St W / Bay St - SMART,43.650152,-79.379856,1
+264,7283,Front St W / Bay St (South Side),43.64595,-79.378761,1
+265,7284,University Ave / King St W - SMART,43.6477785,-79.3847928,1
+266,7285,Spadina Ave / Harbord St - SMART,43.6629228,-79.4018451,1
+267,7286,Gerrard St E / Broadview - SMART,43.665656,-79.352055,1
+268,7287,Queen St E / Pape Ave - SMART,43.661673,-79.337789,1
+269,7288,Humber Bay Shores Park West,43.6224434,-79.480284,1
+270,7289,Humber Bay Shores Park East,43.6308933,-79.4722622,1
+271,7291,190 Queens Quay E,43.6451308,-79.36536439999999,1
+272,7292,Granby St / Church St - SMART,43.6605302,-79.3787235,1
+273,7293,College St / McCaul St,43.65906,-79.393771,1
+274,7296,Westmoreland Ave / Fernbank Ave - SMART,43.665327,-79.43235,1
+275,7297,Havelock St / Dufferin Park - SMART,43.657343,-79.43112,1
+276,7298,Bathurst St / Adelaide St W,43.645324,-79.40345,1
+277,7299,Mill St / Parliament St,43.650256,-79.36163,1
+278,7301,Primrose Ave / Davenport Rd - SMART,43.67142,-79.445947,1
+279,7302,Winona Dr / Davenport Rd - SMART,43.674923,-79.430465,1
+280,7303,Queen St E / Woodward Ave,43.665269,-79.319796,1
+281,7309,Queen St. E / Rhodes Ave.,43.666224,-79.317693,1
+282,7311,Sherbourne St / Isabella St,43.669576,-79.375961,1
+283,7312,Amelia St. / Sumach St.,43.66852,-79.363525,1
+284,7313,Coxwell Ave /  Lake Shore Blvd E,43.662771,-79.315223,1
+285,7314,Queen St. E / Eastern Ave,43.667208,-79.312315,1
+286,7315,Queen St E / Hammersmith Ave,43.671349,-79.29451,1
+287,7316,Queen St. E / Spruce Hill Rd.,43.672571,-79.289,1
+288,7317,Hubbard Blvd / Balsam Av,43.669328,-79.288949,1
+289,7318,Hubbard Blvd. / Glen Manor Dr.,43.668633,-79.291162,1
+290,7319,Lake Shore Blvd E / Knox Ave,43.660206,-79.3244,1
+291,7320,Front St W / University Ave (1),43.6451635,-79.3831757,1
+292,7321,Front St W / University Ave (2),43.6452972,-79.3827914,1
+293,7322,King St W / Brant St,43.645062,-79.397345,1
+294,7323,457 King St. W. at Spadina,43.6452091,-79.3960744,1
+295,7324,King St W / Charlotte St (West),43.645572,-79.39399,1
+296,7326,Davenport Rd / Lansdowne Ave. - SMART,43.671526,-79.44874,1
+297,7327,Davenport Rd / Oakwood Rd - SMART,43.6741219,-79.4352208,1
+298,7328,Roxborough St W / Yonge St,43.678077,-79.390328,1
+299,7329,Crawford St / Queen St W,43.645665,-79.415345,1
+300,7330,Lee Ave / Queen St E,43.669863,-79.297786,1
+301,7331,Coxwell Ave / Plains Rd,43.69595,-79.328535,1
+302,7332,200 Bloor St. E.,43.671561,-79.38117,1
+303,7333,King St E / Victoria St,43.6495789,-79.3762096,1
+304,7334,Simcoe St / Wellington St North,43.6462176,-79.3855048,1
+305,7335,Bay St / Bloor St W (West Side),43.669244,-79.3894,1
+306,7336,Queen St E / Alton Av,43.663912,-79.327987,1
+307,7337,Gerrard Square Mall (1010 Gerrard St E),43.668553,-79.338673,1
+308,7338,Logan Ave / Bain Ave,43.6720273,-79.3470557,1
+309,7339,Carlaw Ave / Strathcona Ave,43.6753188,-79.3462789,1
+310,7340,Blake St / Boultbee Ave - SMART,43.672453,-79.338259,1
+311,7341,Eastern Ave / Winnifred Ave,43.6592088,-79.3348396,1
+312,7342,Morse St / Eastern Ave,43.657991,-79.340075,1
+313,7343,Alton Ave / Dundas St E (Greenwood Park),43.66745,-79.329408,1
+314,7344,Cherry Beach,43.637764,-79.345359,1
+315,7345,Cherry Beach Sports Field (55 Unwin Ave),43.640757,-79.343144,1
+316,7346,Logan Av / Gerrard St E,43.6672144,-79.3452697,1
+317,7347,Regal Rd / Dufferin St - SMART,43.673939,-79.441159,1
+318,7348,Pape Ave / Gamble Ave,43.690237,-79.350119,1
+319,7349,Gamble Ave / Broadview Ave,43.689211,-79.35438,1
+320,7350,Broadview Ave / Westwood Ave,43.6848652,-79.356602,1
+321,7351,Pretoria Av / Broadview Av,43.6783213,-79.35822,1
+322,7352,Cosburn Ave / Donlands Ave,43.690537,-79.341307,1
+323,7353,Fulton Ave / Pape Ave,43.68395,-79.347046,1
+324,7354,Tommy Thompson Park (Leslie Street Spit),43.651737,-79.32325,1
+325,7355,Beltline Trail / Chaplin Cres.,43.704461,-79.423122,1
+326,7356,King St E / Ontario St.,43.651885,-79.3649,1
+327,7357,Lake Shore Blvd E / Leslie St,43.659195,-79.329196,1
+328,7358,Gailbraith Rd / King’s College Cr. (U of T),43.660382,-79.3954,1
+329,7359,Rosedale Park (20 Schofield Ave),43.682645,-79.377557,1
+330,7360,Concord Av / Dewson St - SMART,43.656945,-79.424911,1
+331,7361,Hocken Ave./Vaughan Rd.,43.6817346,-79.4184725,1
+332,7362,St Clair Ave W / Bathurst St.,43.683296,-79.418734,1
+333,7363,Wells Hill Ave / St Clair Ave W,43.683351,-79.41562,1
+334,7364,Queen St E / Nursewood Rd (Neville Park Loop),43.673831,-79.281455,1
+335,7365,Kew Beach Ave / Kenilworth Ave,43.666325,-79.3014,1
+336,7366,Fort York Blvd / Bathurst St SMART,43.639052,-79.399792,1
+337,7367,Alma Ave / Gladstone Ave SMART,43.6448617,-79.42822,1
+338,7368,Lisgar St / Dundas St SMART,43.6493472,-79.42668,1
+339,7369,Dupont St / Emerson Ave SMART,43.667266,-79.443946,1
+340,7371,Eglinton Ave W / Henning Ave SMART,43.7063473,-79.40161,1
+341,7372,King St W / Portland St,43.6448257,-79.3993258,1
+342,7373,George St / King St E,43.6509552,-79.3707,1
+343,7374,Frederick St / The Esplanade,43.6487245,-79.36839,1
+344,7375,Front St E / Scott St,43.6476616,-79.37549,1
+345,7376,Frobisher Ave / Lascelles Blvd,43.696708,-79.40045,1
+346,7377,Balliol St / Yonge St  SMART,43.6978701,-79.39419,1
+347,7378,Yonge St / Davisville Ave,43.6975969,-79.39654,1
+348,7379,Lawton Blvd / Yonge St,43.6910667,-79.39535,1
+349,7380,Erskine Ave / Yonge St SMART,43.7112153,-79.39894,1
+350,7381,Roehampton Ave / Yonge St,43.7080145,-79.39826,1
+351,7382,Simcoe St / Adelaide St W,43.6481303,-79.38632,1
+352,7383,12 Harbour St,43.6425636,-79.3762,1
+353,7384,Cumberland Ave / Bay St SMART,43.6704537,-79.39014,1
+354,7385,20 Charles St E - SMART,43.6691099,-79.38551,1
+355,7386,D'Arcy St. /McCaul St. SMART,43.655227,-79.39201,1
+356,7387,Mortimer Ave / Carlaw Ave SMART,43.685167,-79.34962,1
+357,7388,Broadview Ave / Danforth Ave,43.6772,-79.35858,1
+358,7389,College Park- Gerrard Entrance,43.658938,-79.383518,1
+359,7391,Yonge St / Dundas Sq,43.655766,-79.3802,1
+360,7392,Woodbine Subway Green P SMART,43.686829,-79.311073,1
+361,7395,Dentonia Park,43.694341,-79.291416,1
+362,7398,York St / Harbour St,43.64116,-79.37979,1
+363,7399,Lower Jarvis / Queens Quay E,43.64422,-79.36927,1
+364,7400,Polson Pier,43.641675,-79.354006,1
+365,7402,Wellington St W / Bathurst St,43.6426245,-79.4024594,1
+366,7403,Lascelles Blvd / Eglinton Ave W,43.70547,-79.40355,1
+367,7404,Roehampton Ave / Mount Pleasant Rd,43.70942,-79.39139,1
+368,7406,Victoria St / Queen St E,43.652822,-79.378208,1
+369,7407,University Ave / Queen St W,43.65158,-79.38655,1
+370,7408,University Ave / Armoury St - SMART,43.65263,-79.38766,1
+371,7409,Isabella St / Church St,43.66834,-79.38235,1
+372,7410,Howard St / Rose Ave - SMART,43.671278,-79.372127,1
+373,7411,Little Norway Park,43.635023,-79.399505,1
+374,7412,King St W / Crawford St - SMART,43.6417852,-79.4131148,1
+375,7413,Dundas St W / Watkinson Ave,43.66478,-79.45991,1
+376,7414,Keele St / Annette St,43.66402,-79.46418,1
+377,7415,Keele St / Vine Ave,43.66686,-79.46526,1
+378,7417,King St W / Jordan St,43.648928,-79.378623,1
+379,7418,College Park - Yonge St Entrance,43.65988,-79.38279,1
+380,7419,Bloor St W / Huron St,43.667023,-79.401805,1
+381,7420,Barton St / Howland St - SMART,43.66842,-79.410585,1
+382,7422,Tyndall Ave / King St W - SMART,43.638426,-79.429142,1
+383,7423,Merton St / Al Green Ln,43.696479,-79.394855,1
+384,7424,Merton St / Mount Pleasant Rd,43.697819,-79.38786,1
+385,7425,The Queensway at South Kingsway,43.63632,-79.47307,1
+386,7426,Fleet St / Garrison Rd (Fort York),43.636804,-79.408832,1
+387,7427,Northern Dancer Blvd / Lake Shore Blvd E,43.663162,-79.309765,1
+388,7428,Woodbine Ave / Lake Shore Blvd E,43.665645,-79.304711,1
+389,7429,Woodbine Subway Station - SMART,43.686442,-79.313404,1
+390,7430,Marilyn Bell Park Tennis Court,43.633537,-79.437461,1
+391,7431,Gerrard St E / Leslie St,43.669813,-79.3335,1
+392,7432,Frederick St / King St E,43.651118,-79.369411,1
+393,7433,Dundas St E / Boulton Ave - SMART,43.663148,-79.347938,1
+394,7434,Via Italia / Mackay Ave,43.676697,-79.445029,1
+395,7435,Rushton Rd / St Clair Ave W,43.68114,-79.4277,1
+396,7436,Shaw St / Dupont St - SMART,43.67072,-79.42677,1
+397,7437,Concord Ave / Bloor St W - SMART,43.66189,-79.42679,1
+398,7438,High Park Subway,43.65389,-79.4675,1
+399,7440,Martin Goodman Trail / Ontario Dr,43.63121,-79.41414,1
+400,7441,Pacific Ave / Glenlake Ave,43.65716,-79.46478,1
+401,7442,Lonsdale Rd / Spadina Rd,43.688526,-79.412903,1
+402,7443,Dundas St E / George St,43.6574766,-79.373446,1
+403,7444,Clendenan Ave / Rowland St - SMART,43.66073,-79.47149,1
+404,7445,Eastwood Rd / Coxwell Ave,43.673118,-79.318651,1
+405,7446,Orchard Park,43.66908,-79.3149,1
+406,7447,Trent Ave / Danforth Ave,43.689293,-79.295895,1
+407,7448,Goodwood Park Ct / Dentonia Park,43.694826,-79.295208,1
+408,7449,Cosburn Ave / Cedarvale Ave,43.697139,-79.31469,1
+409,7450,Carlaw Ave / Danforth Ave,43.678285,-79.347346,1
+410,7451,Western Battery Rd / Pirandello St - SMART,43.640075,-79.414156,1
+411,7452,Bleecker St / St James Ave,43.669232,-79.374495,1
+412,7453,Jarvis St / Maitland Pl,43.664736,-79.377579,1
+413,7454,Pottery Rd / Lower Don River Trail,43.688148,-79.362101,1
+414,7455,E.T. Seton Park (Eglinton Ave E / Leslie St),43.715951,-79.351246,1
+415,7456,Belmont St / Davenport Rd - SMART,43.6743811,-79.3924893,1
+416,7457,Queen's Park Cres W / Hoskin Ave,43.665221,-79.394009,1
+417,7458,Church St / Lombard St,43.651678,-79.375233,1
+418,7459,St Clair Ave W / Winona Ave,43.680466,-79.432522,1
+419,7460,High Park Outdoor Pool,43.649217,-79.465319,1
+420,7461,High Park Amphitheatre,43.645653,-79.464366,1
+421,7462,Richmond St E / Yonge St,43.651838,-79.378743,1
+422,7463,Adelaide St W / Brant St,43.6462574,-79.3973381,1
+423,7465,Russell Hill Rd / St Clair Ave W,43.685569,-79.408019,1
+424,7466,Glendonwynne Ave / Bloor St W,43.65182,-79.47421,1
+425,7467,Lower Simcoe St / Bremner Blvd - SMART,43.64283,-79.38409,1
+426,7468,Front St / Simcoe St,43.6442,-79.38702,1
+427,7469,Wellington St W / York St,43.646734,-79.38301,1
+428,7470,York St / Lake Shore Blvd W,43.64196,-79.380806,1
+429,7471,Lake Shore Blvd W / Louisa St,43.61868,-79.48674,1
+430,7472,Dundas St E / Victoria St,43.656311,-79.379158,1
+431,7473,Adelaide St W / Strachan Ave,43.643253094827294,-79.41230469904167,1
+432,7474,Clarence Square,43.64407,-79.3929,1
+433,7475,Jarvis St / Richmond St E,43.652777,-79.372637,1
+434,7476,Symington Ave / Dupont St - SMART,43.665538,-79.451263,1
+435,7477,Antler St / Campbell Ave - SMART,43.664182,-79.449066,1
+436,7478,Ellis Ave / The Queensway,43.63855,-79.46693,1
+437,7479,Jane St / Bloor St W (Jane Subway Station),43.64976,-79.48477,1
+438,7480,Neil McLellan Park,43.65143,-79.47779,1
+439,7481,Westmount Ave / St Clair Ave W - SMART,43.67851,-79.44215,1
+440,7482,Danforth Ave / Sibley Ave,43.690111,-79.292634,1
+441,7483,Southwood Dr / Kingston Rd - SMART,43.678685,-79.297974,1
+442,7484,Briar Hill Ave / Yonge St - SMART,43.713524,-79.400162,1
+443,7485,Blythwood Rd / Yonge St - SMART,43.716652,-79.399993,1
+444,7486,Gerrard St E / Ted Reeve Dr,43.684261,-79.299332,1
+445,7487,Eastwood Rd / Woodbine Ave - SMART,43.676216,-79.309395,1
+446,7488,Summerhill Ave / Maclennan Ave,43.685924,-79.376304,1
+447,7489,Sumach St  / Queen St E,43.656638,-79.358749,1
+448,7491,D'Arcy St / Spadina Ave - SMART,43.654074,-79.398115,1
+449,7492,Lake Shore Blvd E / Cherry St,43.6482995,-79.3552533,1
+450,7493,Sackville St / Eastern Ave - SMART,43.653809,-79.3595,1
+451,7494,Davenport Rd / McAlpine St - SMART,43.673768,-79.391253,1
+452,7496,Sunnyside Ave / The Queensway - SMART,43.6397,-79.44865,1
+453,7497,128 Sterling Ave - SMART,43.654004,-79.444792,1
+454,7501,Humberside Grounds - SMART,43.65917,-79.46997,1
+455,7502,University Ave / College St (East),43.65995,-79.38964,1
+456,7503,Gerrard St E / Malvern Ave - SMART,43.685221,-79.294766,1
+457,7504,Gerrard St E / Victoria Park Ave,43.686962,-79.286864,1
+458,7505,Ontario St / Adelaide St E -SMART,43.652458,-79.366433,1
+459,7506,Berkeley St / Adelaide St E - SMART,43.653359,-79.365023,1
+460,7508,Berkeley St / Dundas St E - SMART,43.658816,-79.367318,1
+461,7509,Ontario St / King St E,43.651814,-79.366194,1
+462,7510,Princes Gate / Nunavut Dr,43.6334636,-79.4143057,1
+463,7514,Humber Bay Shores Park / Marine Parade Dr,43.626265,-79.476723,1
+464,7515,Amos Waites Park,43.613606,-79.4883535,1
+465,7516,Superior Ave / Lake Shore Blvd W,43.6146692,-79.4873148,1
+466,7517,Ripley Ave / Ormskirk Ave,43.6390437,-79.4760109,1
+467,7518,Lake Shore Blvd W / Colborne Lodge Dr - SMART,43.63771,-79.458173,1
+468,7519,Sheridan Ave / Dundas St W,43.650365,-79.4338668,1
+469,7520,St Clarens Ave / Shirley Ave,43.6486599,-79.4376413,1
+470,7521,Emerson Ave / Bloor St W - SMART,43.65904,-79.44088,1
+471,7522,Wallace Ave / Pauline Ave - SMART,43.6632257,-79.4397052,1
+472,7523,Lynn Williams St / East Liberty St,43.638925,-79.4168659,1
+473,7524,Lisgar Park,43.6423847,-79.4240277,1
+474,7525,Fennings St / Queen St W - SMART,43.643945,-79.421189,1
+475,7526,Bartlett Parkette - SMART,43.6702236,-79.4360232,1
+476,7527,Joseph J Piccininni Community Centre,43.675648,-79.4527619,1
+477,7528,Spadina Rd / Austin Terrace - SMART,43.67883,-79.408723,1
+478,7529,Symington Ave / Davenport Rd - SMART,43.6704403,-79.45328549999999,1
+479,7530,Sherbourne St N / Elm Ave,43.6752732,-79.3778458,1
+480,7531,541 Huron St - SMART,43.670206,-79.402643,1
+481,7533,Housey St / Dan Leckie Way,43.6380413,-79.39783469999999,1
+482,7534,Walnut Ave / Queen St W,43.645469,-79.411084,1
+483,7535,Wolsley St / Palmerston Ave - SMART,43.647497,-79.406691,1
+484,7536,Palmerston Ave / Dundas St W - SMART,43.651603,-79.408346,1
+485,7537,Euclid Ave / Herrick St - SMART,43.661559,-79.413845,1
+486,7538,Vaughan Rd /Wychwood Ave,43.6882821,-79.4253856,1
+487,7539,Davisville Ave / Pailton Cres,43.69933,-79.39199,1
+488,7540,Alvin Ave / St Clair Ave E - SMART,43.68871,-79.39264,1
+489,7541,Bellwoods Ave / Treford Pl - SMART,43.65246,-79.413528,1
+490,7542,Queen St W / John St,43.650077,-79.391291,1
+491,7543,Nassau St / Bellevue Ave,43.6550458,-79.4034475,1
+492,7544,Foster Pl / Elizabeth St - SMART,43.654565,-79.384679,1
+493,7545,Baldwin St / Henry St - SMART,43.6560758,-79.393259,1
+494,7546,Ross St / Cecil St - SMART,43.6568254,-79.3966159,1
+495,7547,Orde St / McCaul St - SMART,43.6580442,-79.3927404,1
+496,7548,St Joseph St / Bay St - SMART,43.6657049,-79.3873183,1
+497,7549,439 Sherbourne St - SMART,43.666051,-79.374161,1
+498,7551,The Esplanade / Hahn Pl - SMART,43.649709,-79.364184,1
+499,7552,Lake Shore Blvd W / Thirty Ninth Street,43.5927419,-79.54033009999999,1
+500,7553,Lake Shore Blvd W / Twenty Fourth St,43.597082,-79.522768,1
+501,7554,Humber College,43.5961692,-79.5160575,1
+502,7555,Royal York Rd / Mimico Ave,43.612063,-79.496573,1
+503,7556,Windsor St / Newcastle St,43.6171635,-79.4971065,1
+504,7557,The Queensway / High St,43.630874,-79.482407,1
+505,7558,Berry Rd / Bell Manor Dr,43.63732,-79.489083,1
+506,7559,Swansea Community Centre,43.6438036,-79.4770327,1
+507,7560,Glenwood Ave / Runnymede Rd,43.656845,-79.478479,1
+508,7561,Annette St / Jane St,43.658574,-79.487246,1
+509,7562,Priscilla  Ave / Dundas St W,43.664665,-79.489385,1
+510,7563,St Clair Ave W / Castleton Ave,43.668496,-79.485426,1
+511,7564,Durie St / Dundas St W,43.665523,-79.484892,1
+512,7565,St Clair Ave W / Gunns Rd,43.672079,-79.470171,1
+513,7566,Weston Rd / St Clair Ave W,43.673019,-79.467994,1
+514,7567,Weston Lions Park,43.698841,-79.519472,1
+515,7568,Jameson Ave / Queen St W,43.63985,-79.43703,1
+516,7569,Toronto Inukshuk Park,43.6323994,-79.40978179999999,1
+517,7570,Carlaw Ave / Dundas St E,43.665076,-79.341509,1
+518,7571,Highfield Rd / Gerrard St E,43.671771,-79.324961,1
+519,7572,Cosburn Ave / Durant Ave,43.6935477,-79.3301658,1
+520,7573,Torrens Ave / Broadview Ave,43.690375,-79.3549427,1
+521,7575,Bayview Ave / Lawren Harris Square,43.6548521,-79.35397680000001,1
+522,7576,Front St E / Bayview Avenue,43.6535,-79.354068,1
+523,7577,Oak St / Sumach St,43.6617908,-79.361515,1
+524,7578,Oak St / Parliament St,43.66081,-79.366238,1
+525,7579,Glebe Rd W / Yonge St,43.7005976,-79.397345,1
+526,7580,Hillsdale Ave W / Yonge St,43.7029672,-79.3979073,1
+527,7581,High Park Ave / Dundas St W,43.6653032,-79.4701178,1
+528,7582,Alameda Ave / Vaughan Rd - SMART,43.690903,-79.4375028,1
+529,7583,Eglinton Ave W / Scarlett Rd,43.6834703,-79.5108942,1
+530,7584,The Pond Rd / Sentinel Rd,43.7696262,-79.5025943,1
+531,7585,Sentinel Rd / Finch Hydro Corridor,43.7641485,-79.5012809,1
+532,7586,Finch West Subway Station,43.76521,-79.491281,1
+533,7587,Dufferin St / Finch Hydro Recreational Trail,43.7724019,-79.4675395,1
+534,7588,G Ross Lord Park,43.7781116,-79.467963,1
+535,7589,Torresdale Ave / Antibes Dr,43.77953,-79.45233,1
+536,7590,Esther Shiner Stadium,43.7774374,-79.4447096,1
+537,7591,Elwood Blvd / Avenue Rd,43.707049,-79.40966,1
+538,7593,Roehampton St / Bayview Ave - SMART,43.711751,-79.378615,1
+539,7594,Fleming Cres / Bayview Ave,43.707045,-79.375437,1
+540,7595,Moore Park,43.693256,-79.383238,1
+541,7596,Langford Ave / Danforth Ave - SMART,43.6800218,-79.3405681,1
+542,7597,Yonge St / Golfdale Rd,43.732016,-79.403637,1
+543,7598,Teddington Park Ave,43.732975,-79.40401,1
+544,7599,Richmond St W / York St,43.650745,-79.383633,1
+545,7600,Russell St / Huron St - SMART,43.660274,-79.398049,1
+546,7601,Brick Works,43.683884,-79.36647,1
+547,7602,Woodbine Ave / O'Connor Dr,43.699281,-79.318802,1
+548,7603,O'Connor Dr / Curity Ave,43.707582,-79.311439,1
+549,7604,St Columba Pl / St Clair Ave E,43.70567,-79.310554,1
+550,7605,Lumsden Ave / Eastdale Ave,43.695487,-79.301755,1
+551,7606,Dawes Rd / Taylor Creek Trl,43.696631,-79.297436,1
+552,7607,Fairmount Park,43.6765897,-79.3163022,1
+553,7608,Wilket Creek Park,43.720645,-79.355474,1
+554,7609,Sunnybrook Park,43.720233,-79.362092,1
+555,7610,Kingston Rd / Beech Ave,43.680095,-79.291714,1
+556,7611,Victoria Park Ave / Danforth Ave - SMART,43.691468,-79.288619,1
+557,7612,Livingston Rd / Guildwood Pkwy,43.747854,-79.199327,1
+558,7613,Livingston Rd (Highland Creek Trail),43.7561681,-79.2026694,1
+559,7614,Morningside Park (Highland Creek Trail),43.779353,-79.193023,1
+560,7615,Colonel Danforth Park,43.7777114,-79.1659711,1
+561,7616,Waterfront Trail (Rouge Hill),43.778015,-79.131911,1
+562,7617,Starspray Ave / Lawrence Ave E,43.788319,-79.123505,1
+563,7618,Vaughan Rd / Oakwood Ave,43.6926825,-79.441042,1
+564,7619,Braemar Ave / Eglinton Ave W,43.7041957,-79.4094472,1
+565,7620,Eglinton Ave E / Redpath Ave,43.7078691,-79.39248,1
+566,7621,Long Branch GO Station,43.591561,-79.545827,1
+567,7622,Marie Curtis Park,43.5880774,-79.5432067,1
+568,7623,Royal York Rd / Lake Shore Blvd W,43.6029904,-79.4926867,1
+569,7624,Guildwood GO Station (South),43.754978,-79.1971289,1
+570,7625,Guildwood GO Station (North),43.755344,-79.1974169,1
+571,7626,Rouge Hill GO Station,43.7805505,-79.1301203,1
+572,7627,Shaw St / Essex St - SMART,43.667076,-79.425116,1
+573,7629,Lundy Ave / Etienne Brule Park,43.6625395,-79.5030161,1
+574,7630,Twelfth St / Thirteenth St,43.6002896,-79.5108692,1
+575,7631,Florence Gell Park,43.6615467,-79.498398,1
+576,7632,Chiltern Hill Rd / Eglinton Ave W,43.7004017,-79.4275305,1
+577,7633,Noble St / Queen St W,43.6424558,-79.4296346,1
+578,7634,University Ave / Gerrard St W (West Side),43.6578449,-79.3899265,1
+579,7635,Runnymede Rd / Annette St,43.6596299,-79.4799176,1
+580,7636,Bloor St W / Riverside Ave,43.6475708,-79.4873058,1
+581,7637,Judson St / Royal York,43.6162721,-79.4990363,1
+582,7639,Riverview Gardens,43.64900249999999,-79.486355,1
+583,7640,Spadina Rd / St.Clair Ave West,43.6842741,-79.4100625,1
+584,7641,Annette St / Dundas W,43.6641174,-79.4588522,1
+585,7642,Yonge St / St Clair Ave,43.68850459999999,-79.3940052,1
+586,7643,Oriole Pkwy / Kilbarry Rd,43.6954486,-79.4026176,1
+587,7644,East Lynn Ave / Danforth Ave,43.6850809,-79.3149901,1
+588,7645,University of Toronto Scarborough,43.7842419,-79.1849889,1
+589,7646,University Ave / Richmond St W,43.6503935,-79.3860211,1
+590,7647,Elm St/ University Ave (East),43.65637299999999,-79.38781039999999,1
+591,7648,Rosedale Station,43.67697949999999,-79.38886389999999,1
+592,7649,Greenwood Subway Station,43.6825806,-79.3302954,1
+593,7650,St Clair W Subway - Heath Entrance,43.686339,-79.4152162,1
+594,7651,Bloor St W / Gladstone Ave - SMART,43.65997369999999,-79.43390540000001,1
+595,7653,Bloor St W / Indian Rd,43.6555257,-79.45738940000001,1
+596,7654,Bloor St W / Pacific Ave - SMART,43.65412449999999,-79.4636388,1
+597,7655,Danforth Ave / Dewhurst Blvd,43.680207,-79.339243,1
+598,7656,Bloor St W / Brock Ave,43.6589882,-79.438715,1
+599,7657,1 Market St - SMART,43.6469928,-79.3706665,1
+600,7658,Holland Park Ave / Oakwood Ave,43.6862918,-79.4382408,1
+601,7659,Amroth Ave / Danforth Ave,43.6856128,-79.31168269999999,1
+602,7660,285 Victoria St,43.656633,-79.379625,1
+603,7662,Beaty Ave / Queen St W,43.6393107,-79.4408141,1
+604,7663,Kilgour Rd / Rumsey Rd,43.718039,-79.371914,1
+605,7664,Sunnybrook Health Center - L,43.7228713,-79.3744,1
+606,7665,Sunnybrook Health Centre - S,43.7206694,-79.3775527,1
+607,0001,10th & Cambie,49.262487,-123.114397,2
+608,0002,Burrard Station (Melville & Dunsmuir),49.285871,-123.12105,2
+609,0004,Yaletown-Roundhouse Station,49.274566,-123.121817,2
+610,0005,Dunsmuir & Beatty,49.279764,-123.110154,2
+611,0006,Olympic Village Station,49.266314,-123.116011,2
+612,0007,12th & Yukon (City Hall),49.260599,-123.113504,2
+613,0008,8th & Ash,49.264215,-123.117772,2
+614,0009,Spyglass & Seawall,49.270877,-123.115103,2
+615,0010,Stamps Landing,49.26893,-123.11813,2
+616,0011,Ontario & Seawall,49.271721,-123.104207,2
+617,0012,Dunsmuir & Richards,49.282214,-123.114101,2
+618,0014,Canada Place,49.287214,-123.11287,2
+619,0015,Granville & Georgia,49.282409,-123.118541,2
+620,0016,Pender & Burrard,49.287097,-123.118551,2
+621,0017,Marinaside & Davie,49.273471,-123.118016,2
+622,0019,Robson & Hornby,49.282758,-123.122092,2
+623,0021,Cordova & Granville,49.286042,-123.113176,2
+624,0024,Hornby & Pender,49.28602,-123.116624,2
+625,0025,Homer & Robson (Vancouver Public Library),49.279739,-123.116251,2
+626,0026,Beatty & Robson,49.277483,-123.114279,2
+627,0027,Beatty & Nelson,49.275679,-123.116963,2
+628,0028,Davie & Beach,49.287528,-123.142139,2
+629,0030,Abbott & Cordova,49.282759,-123.106955,2
+630,0031,Morton & Denman,49.28803,-123.142135,2
+631,0032,Comox & Denman,49.288444,-123.139203,2
+632,0033,Robson & Denman,49.291285,-123.13526,2
+633,0034,Cordova & Bute,49.289124,-123.12196,2
+634,0035,Coal Harbour Community Centre,49.290419,-123.12581,2
+635,0036,Bute & Robson,49.285836,-123.127265,2
+636,0037,Hornby & Nelson,49.28062,-123.12482,2
+637,0039,Helmcken & Burrard,49.279938,-123.127478,2
+638,0040,Cardero & Pendrell,49.285876,-123.137728,2
+639,0041,Cardero & Robson,49.289581,-123.132184,2
+640,0044,Pacific & Richards,49.273663,-123.127075,2
+641,0045,Beach & Hornby,49.275295,-123.132585,2
+642,0047,Chilco & Beach,49.28972,-123.144028,2
+643,0048,Comox & Broughton,49.285253,-123.134356,2
+644,0050,Bute & Comox,49.283343,-123.131099,2
+645,0052,Cambie & Water,49.284605,-123.108662,2
+646,0053,Keefer & Abbott,49.279821,-123.10802,2
+647,0054,Expo & Carrall,49.278004,-123.105664,2
+648,0055,Keefer & Columbia,49.279342,-123.101822,2
+649,0057,Marinaside & Cooperage,49.273833,-123.114373,2
+650,0058,Homer & Smithe,49.278283,-123.118612,2
+651,0060,Bidwell & Burnaby,49.28526,-123.141809,2
+652,0063,Robson & Granville,49.281506,-123.120101,2
+653,0064,Expo & Smithe,49.276115,-123.114496,2
+654,0065,Cypress & Cornwall,49.272827,-123.147744,2
+655,0066,Anderson & 2nd,49.269361,-123.13782,2
+656,0068,Cypress & Broadway,49.263507,-123.148097,2
+657,0069,7th & Granville,49.2653,-123.13811,2
+658,0070,10th & Granville,49.262598,-123.138921,2
+659,0071,14th & Granville,49.25894,-123.139272,2
+660,0072,14th & Cambie,49.258763,-123.115392,2
+661,0073,Ontario & 5th,49.266724,-123.104824,2
+662,0074,10th & Main,49.262141,-123.101961,2
+663,0076,Cypress & 4th,49.268269,-123.147885,2
+664,0077,Vanier Park,49.275717,-123.142564,2
+665,0078,Nelson & Mainland,49.276436,-123.11877,2
+666,0079,Nelson & Richards,49.277844,-123.120942,2
+667,0080,Laurel & Broadway,49.263088,-123.12415,2
+668,0081,7th & Heather,49.265089,-123.119425,2
+669,0082,Richards & Davie - TEMP REMOVED,49.276153,-123.123889,2
+670,0083,Aquatic Centre,49.27821,-123.136972,2
+671,0084,Sunset Beach West,49.281405,-123.139901,2
+672,0087,Broughton & Burnaby,49.28329,-123.137034,2
+673,0088,Harwood & Bute,49.28026,-123.135244,2
+674,0089,Burrard & Drake,49.27808,-123.130557,2
+675,0092,Chilco & Barclay,49.291909,-123.140713,2
+676,0093,Chilco & Robson,49.293257,-123.138563,2
+677,0096,Nicola & Robson,49.288011,-123.132006,2
+678,0098,Carrall & Hastings,49.28117,-123.104419,2
+679,0099,Vancouver Art Gallery - North Plaza,49.283227,-123.120523,2
+680,0101,Stanley Park - Vancouver Aquarium,49.299292,-123.130281,2
+681,0102,Stanley Park - Second Beach North,49.29534,-123.150433,2
+682,0103,Stanley Park - Third Beach Parking Lot,49.302577,-123.155616,2
+683,0104,Stanley Park - Second Beach South,49.294318,-123.148808,2
+684,0105,Stanley Park - Totem Poles,49.298657,-123.121176,2
+685,0106,Heather & 14th,49.259183,-123.120126,2
+686,0107,8th & Ontario,49.263837,-123.105173,2
+687,0108,1st & Chestnut,49.270721,-123.146175,2
+688,0109,7th & Arbutus,49.265605,-123.152566,2
+689,0110,5th & Arbutus,49.267222,-123.153157,2
+690,0112,10th & Oak,49.262255,-123.126217,2
+691,0113,Arbutus & 16th,49.257654,-123.153212,2
+692,0114,Cypress & 14th,49.25919,-123.148268,2
+693,0115,Cypress & 16th,49.25741,-123.148531,2
+694,0119,3rd & Quebec,49.268216,-123.103168,2
+695,0123,Georgia & Thurlow,49.285953,-123.124066,2
+696,0124,Richards & Cordova,49.284554,-123.111031,2
+697,0125,Hamilton & Robson,49.279611,-123.115056,2
+698,0126,Thurlow & Pendrell,49.280881,-123.130672,2
+699,0129,Richards & Robson - TEMP REMOVED,49.280216,-123.117639,2
+700,0130,Heather & 16th,49.256845,-123.120071,2
+701,0132,14th & Ontario,49.25849,-123.104799,2
+702,0133,Ontario & 16th,49.256825,-123.105234,2
+703,0134,14th & Main,49.258425,-123.100792,2
+704,0136,David Lam Park - West,49.270905,-123.126006,2
+705,0137,Beach & Seymour,49.273568,-123.129935,2
+706,0138,Richards & Helmcken,49.277141,-123.122589,2
+707,0139,Burrard & 4th,49.267859,-123.145782,2
+708,0140,Burrard & 7th,49.265336,-123.145823,2
+709,0143,South False Creek Seawall,49.267628,-123.127698,2
+710,0147,Chestnut & McNicoll,49.275938,-123.145939,2
+711,0148,Creekside Park North,49.2756,-123.102661,2
+712,0150,Alexander & Main,49.284157,-123.099917,2
+713,0152,Arbutus Greenway & 14th,49.258924,-123.152591,2
+714,0153,Arbutus Greenway & Fir,49.266774,-123.141135,2
+715,0154,Kitsilano Beach Park,49.273355,-123.154493,2
+716,0155,Arbutus & McNicoll,49.276144,-123.151272,2
+717,0159,Vine & 4th,49.268339,-123.157443,2
+718,0161,Alexander & Dunlevy,49.284062,-123.095097,2
+719,0165,Columbia & 4th - TEMP REMOVED,49.26712,-123.10937,2
+720,0166,Alder & 11th,49.261742,-123.13148,2
+721,0167,Cordova & Columbia,49.282266,-123.102165,2
+722,0170,8th & Yukon,49.263962,-123.112621,2
+723,0171,5th & Yukon,49.26667,-123.112414,2
+724,0172,10th & Columbia,49.262206,-123.109091,2
+725,0173,1st & Columbia,49.270218,-123.109189,2
+726,0174,1st & Manitoba,49.27023,-123.10651,2
+727,0176,10th & Ontario,49.262062,-123.104656,2
+728,0177,Quebec & 1st,49.27033,-123.10275,2
+729,0179,11th & Kingsway,49.261122,-123.097571,2
+730,0180,Columbia & 14th,49.258902,-123.109596,2
+731,0186,10th & Kingsway,49.261973,-123.09725,2
+732,0187,Bute & Davie,49.282224,-123.132778,2
+733,0190,Melville & Bute,49.287782,-123.12395,2
+734,0191,7th & Laurel,49.265071,-123.123864,2
+735,0192,7th &  Alder,49.265198,-123.131043,2
+736,0193,Science World,49.273691,-123.102232,2
+737,0196,Drake & Hornby,49.277213,-123.129625,2
+738,0197,1st & Scotia,49.2685027,-123.0975014,2
+739,0198,5th & Main,49.266456,-123.100324,2
+740,0199,Georgia & Main,49.278529,-123.100017,2
+741,0201,Shaw Tower,49.288682,-123.11818,2
+742,0202,14th & Oak,49.258761,-123.127071,2
+743,0203,Pine & 14th,49.258864,-123.14353,2
+744,0204,York & Yew,49.271741,-123.155421,2
+745,0205,Pine & 10th,49.262822,-123.14338,2
+746,0206,8th & Scotia,49.263635,-123.099236,2
+747,0207,Alberni & Jervis,49.28763,-123.127245,2
+748,0208,Arbutus Greenway & Broadway,49.263649,-123.152421,2
+749,0209,Stanley Park - Information Booth,49.297933,-123.130758,2
+750,0211,14th & Alder,49.258819,-123.131317,2
+751,0212,Union & Dunlevy,49.277595,-123.09583,2
+752,0213,Pender & Gore,49.280284,-123.097052,2
+753,0215,Princess & Union,49.277615,-123.091654,2
+754,0217,Smithe & Burrard,49.283325,-123.125249,2
+755,0218,Carrall & Seawall,49.276294,-123.106534,2
+756,0219,Hawks & Union,49.277333,-123.087359,2
+757,0221,Glen & Union,49.277469,-123.081315,2
+758,0222,Adanac & McLean,49.277665,-123.073653,2
+759,0223,Commercial & Adanac,49.277436,-123.070427,2
+760,0224,Pender & Commercial,49.280332,-123.070068,2
+761,0225,McLean & Pender,49.280205,-123.074174,2
+762,0227,Campbell & Hastings,49.280852,-123.084746,2
+763,0228,Keefer & Hawks,49.279235,-123.087528,2
+764,0229,Keefer & Princess,49.279369,-123.091241,2
+765,0230,Alexander & Railway,49.283992,-123.091206,2
+766,0231,Napier & Commercial,49.274881,-123.069323,2
+767,0232,Britannia Parking Lot,49.275882,-123.071865,2
+768,0233,Thornton & National,49.273777,-123.092723,2
+769,0234,Station & National,49.274249,-123.098481,2
+770,0235,Charles & Commercial,49.273103,-123.069892,2
+771,0236,Keith & 6th,49.265005,-123.079481,2
+772,0237,Glen & 6th,49.265024,-123.08127,2
+773,0238,Thornton & 1st,49.267553,-123.094616,2
+774,0239,Grant & Commercial,49.271377,-123.069416,2
+775,0240,2nd & Commercial,49.268616,-123.069908,2
+776,0241,4th & Commercial,49.266969,-123.069936,2
+777,0242,8th & Commercial,49.263242,-123.070521,2
+778,0244,10th & Commercial,49.261403,-123.070102,2
+779,0245,Woodland & 10th,49.261263,-123.073707,2
+780,0246,Glen & Broadway,49.262242,-123.081459,2
+781,0248,St George & Broadway,49.262321,-123.09306,2
+782,0249,7th & Woodland,49.264251,-123.073853,2
+783,0250,Woodland & 4th,49.266751,-123.073501,2
+784,0252,Woodland & Graveley,49.270684,-123.073562,2
+785,0253,Charles & Woodland,49.2731,-123.0732,2
+786,0254,Grandview Bike Lane & Commercial,49.264083,-123.070611,2
+787,0255,18th & Main,49.254667,-123.101389,2
+788,0256,Prince Edward & 16th,49.256694,-123.096579,2
+789,0257,Prince Edward & 14th,49.258352,-123.096337,2
+790,0258,13th & St George,49.258817,-123.092797,2
+791,0260,10th & Fraser,49.26151,-123.089413,2
+792,0261,8th & Fraser,49.263382,-123.088837,2
+793,0262,8th & Prince Edward,49.263518,-123.09568,2
+794,0265,St Catherines & 10th,49.261353,-123.085333,2
+795,0266,St Catherines & 7th,49.264466,-123.085183,2
+796,0272,Pender & Victoria,49.280197,-123.065859,2
+797,0273,Victoria & 4th,49.266725,-123.065925,2
+798,0274,Victoria & 10th,49.261188,-123.066009,2
+799,0278,15th & Victoria (Trout Lake),49.256857,-123.065646,2
+800,0280,Triumph & Victoria,49.283986,-123.065264,2
+801,0281,Windsor & 14th,49.257985,-123.083366,2
+802,0282,14th & Fraser,49.257939,-123.089531,2
+803,0283,15th & Knight,49.256496,-123.075426,2
+804,0285,Commercial & Pandora,49.283236,-123.070443,2
+805,0287,Carolina & Great Northern Way,49.267266,-123.090786,2
+806,0297,6th & Prince Edward,49.265242,-123.095577,2
+807,0298,6th & Carolina,49.265213,-123.090785,2
+808,0300,Bute & Barclay,49.284893,-123.128685,2
+809,3,Colleges of the Fenway - Fenway at Avenue Louis Pasteur,42.34011512249236,-71.10061883926392,3
+810,4,Tremont St at E Berkeley St,42.345392,-71.069616,3
+811,5,Northeastern University - North Parking Lot,42.341814,-71.090179,3
+812,6,Cambridge St at Joy St,42.36125721646537,-71.06528744101524,3
+813,7,Fan Pier,42.3533905070523,-71.04457139968872,3
+814,8,Union Square - Brighton Ave at Cambridge St,42.353334,-71.137313,3
+815,9,Commonwealth Ave at Agganis Way,42.35169201885973,-71.11903488636017,3
+816,10,B.U. Central - 725 Comm. Ave.,42.350406,-71.108279,3
+817,11,Longwood Ave at Binney St,42.338629,-71.1065,3
+818,12,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,42.33624444796878,-71.08798563480377,3
+819,13,Boston Medical Center - E Concord St at Harrison Ave,42.33639915372498,-71.07306711393903,3
+820,14,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,42.3374174845973,-71.10286116600037,3
+821,15,Brighton Mills - 370 Western Ave,42.3615457081725,-71.13776206970215,3
+822,16,Back Bay T Stop - Dartmouth St at Stuart St,42.34807412317439,-71.07657015323639,3
+823,17,Soldiers Field Park - 111 Western Ave,42.364263440638524,-71.1182756971175,3
+824,19,Park Dr at Buswell St,42.347241,-71.105301,3
+825,20,Aquarium T Stop - 200 Atlantic Ave,42.35991176110118,-71.0514298081398,3
+826,21,Prudential Center - 101 Huntington Ave,42.34652003998412,-71.08065776545118,3
+827,22,South Station - 700 Atlantic Ave,42.352175,-71.055547,3
+828,23,Boston City Hall - 28 State St,42.35892,-71.057629,3
+829,24,Seaport Square - Seaport Blvd at Northern Ave,42.35148193460858,-71.04436084628105,3
+830,25,South End Library - Tremont St at W Newton St,42.341332,-71.076847,3
+831,26,Washington St at Waltham St,42.341574718737476,-71.06890439987183,3
+832,27,Roxbury Crossing T Stop - Columbus Ave at Tremont St,42.331184,-71.095171,3
+833,29,Innovation Lab - 125 Western Ave at Batten Way,42.36314498882458,-71.12298574307715,3
+834,30,Brigham Circle - Francis St at Huntington Ave,42.33462893055976,-71.10407917767589,3
+835,31,Seaport Hotel - Congress St at Seaport Ln,42.34881026188269,-71.04167744055303,3
+836,32,Landmark Center - Brookline Ave at Park Dr,42.343690557197476,-71.10235286881107,3
+837,33,Kenmore Square,42.348706,-71.097009,3
+838,35,Arch St at Franklin St,42.355335019412564,-71.0582291708306,3
+839,36,Copley Square - Dartmouth St at Boylston St,42.34992828230057,-71.07739206866427,3
+840,37,New Balance - 20 Guest St,42.35732921867706,-71.14673539996147,3
+841,39,Washington St at Rutland St,42.338514601785995,-71.07404083013535,3
+842,40,Lewis Wharf at Atlantic Ave,42.363871,-71.050877,3
+843,41,Packard's Corner - Commonwealth Ave at Brighton Ave,42.352261,-71.123831,3
+844,43,Rowes Wharf at Atlantic Ave,42.357143,-71.050699,3
+845,44,Congress St at Boston City Hall,42.36041774637169,-71.05752243543975,3
+846,46,Christian Science Plaza - Massachusetts Ave at Westland Ave,42.3436658245146,-71.08582377433777,3
+847,47,Cross St at Hanover St,42.362811,-71.056067,3
+848,48,Post Office Square,42.35585435522005,-71.05459745998814,3
+849,49,Stuart St at Charles St,42.351146,-71.066289,3
+850,50,Boylston St at Berkeley St,42.3511419825475,-71.07329249382019,3
+851,51,Washington St at Lenox St,42.3350989929096,-71.07903778553009,3
+852,52,Newbury St at Hereford St,42.348717,-71.085954,3
+853,53,Beacon St at Massachusetts Ave,42.35082680669095,-71.0898108780384,3
+854,54,Tremont St at West St,42.354979,-71.063348,3
+855,55,Boylston St at Massachusetts Ave,42.34740620525209,-71.08678414955648,3
+856,56,Dudley Square - Bolling Building,42.329842993518085,-71.08386572459494,3
+857,57,Massachusetts Ave at Columbus Ave,42.33949453726166,-71.0802078062261,3
+858,58,Mugar Way at Beacon St,42.355536284897084,-71.07286870479584,3
+859,59,Chinatown Gate Plaza,42.351356,-71.059367,3
+860,60,Charles Circle - Charles St at Cambridge St,42.36079296858265,-71.07118962337152,3
+861,61,Boylston St at Fairfield St,42.348762,-71.082383,3
+862,63,Dorchester Ave at Gillette Park,42.344040510016356,-71.05737626552582,3
+863,64,Congress St at Sleeper St,42.351004495946704,-71.04930013418198,3
+864,65,Boston Convention and Exhibition Center - Summer St at West Side Dr,42.347763454147454,-71.0453599691391,3
+865,66,Commonwealth Ave at Griggs St,42.34922469338298,-71.13275302578586,3
+866,67,MIT at Mass Ave / Amherst St,42.3581,-71.093198,3
+867,68,Central Square at Mass Ave / Essex St,42.36507,-71.1031,3
+868,69,Coolidge Corner - Beacon St at Centre St,42.341598,-71.123338,3
+869,70,Harvard Kennedy School at Bennett St / Eliot St,42.3722168027866,-71.12188071012497,3
+870,71,Conway Park - Somerville Avenue,42.383405,-71.107593,3
+871,72,One Broadway / Kendall Sq at Main St / 3rd St,42.36224178650923,-71.0831107199192,3
+872,73,Harvard Square at Brattle St / Eliot St,42.373231,-71.120886,3
+873,74,Harvard Square at Mass Ave/ Dunster,42.373268,-71.118579,3
+874,75,Lafayette Square at Mass Ave / Main St / Columbia St,42.36346469304347,-71.10057324171066,3
+875,76,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,42.366426,-71.105495,3
+876,77,Somerville City Hall,42.386844,-71.09812,3
+877,78,Union Square - Somerville,42.379584,-71.095236,3
+878,79,Beacon St at Washington / Kirkland,42.37842,-71.105668,3
+879,80,MIT Stata Center at Vassar St / Main St,42.3621312344991,-71.09115600585936,3
+880,81,Chinatown T Stop,42.352409,-71.062679,3
+881,82,Beacon St at Tappan St,42.33826680058037,-71.13894682028331,3
+882,84,CambridgeSide Galleria - CambridgeSide PL at Land Blvd,42.366981,-71.076472,3
+883,85,Spaulding Rehabilitation Hospital - Charlestown Navy Yard,42.378338,-71.048927,3
+884,86,Brookline Village - Station Street at MBTA,42.33274392304887,-71.11626680949485,3
+885,87,Harvard University Housing - 115 Putnam Ave at Peabody Terrace,42.366621,-71.114214,3
+886,89,Harvard Law School at Mass Ave / Jarvis St,42.379011,-71.119945,3
+887,90,Lechmere Station at Cambridge St / First St,42.370677,-71.076529,3
+888,91,One Kendall Square at Hampshire St / Portland St,42.366277,-71.09169,3
+889,92,University of Massachusetts Boston - Campus Center,42.31218918475612,-71.03648586203235,3
+890,93,JFK/UMass T Stop,42.32033973515723,-71.05118036270142,3
+891,94,Main St at Austin St,42.375603,-71.064608,3
+892,95,Cambridge St - at Columbia St / Webster Ave,42.372969,-71.094445,3
+893,96,Cambridge Main Library at Broadway / Trowbridge St,42.373379,-71.111075,3
+894,97,Harvard University River Houses at DeWolfe St / Cowperthwaite St,42.369121582065524,-71.1163867230971,3
+895,98,Warren St at Chelsea St,42.371848,-71.060292,3
+896,99,Wilson Square,42.38567578752914,-71.11412136298895,3
+897,100,Davis Square,42.396969,-71.123024,3
+898,101,Ball Sq,42.39918259930251,-71.11104454854285,3
+899,102,Powder House Circle - Nathan Tufts Park,42.400877,-71.116772,3
+900,103,JFK Crossing at Harvard St. / Thorndike St.,42.346563,-71.128374,3
+901,104,Harvard University Radcliffe Quadrangle at Shepard St / Garden St,42.380287,-71.125107,3
+902,105,Lower Cambridgeport at Magazine St / Riverside Rd,42.357218503176526,-71.1138716340065,3
+903,106,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave,42.325333,-71.075354,3
+904,107,Ames St at Main St,42.3625,-71.08822,3
+905,108,Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,42.377945,-71.116865,3
+906,109,West End Park,42.36590788445084,-71.06446668505669,3
+907,110,Harvard University Gund Hall at Quincy St / Kirkland St,42.376369,-71.114025,3
+908,111,Packard Ave at Powderhouse Blvd,42.40449,-71.123413,3
+909,112,Clarendon Hill at Broadway,42.406302,-71.132446,3
+910,113,Andrew T Stop - Dorchester Ave at Dexter St,42.330473650415165,-71.05701684951782,3
+911,114,Teele Square,42.40231703379005,-71.12671129423688,3
+912,115,Porter Square Station,42.387995,-71.119084,3
+913,116,359 Broadway - Broadway at Fayette Street,42.370803,-71.104412,3
+914,117,Binney St / Sixth St,42.36608797388682,-71.08633603909765,3
+915,118,Linear Park - Mass. Ave. at Cameron Ave. ,42.397828,-71.130516,3
+916,119,South Boston Library - 646 E Broadway,42.335741,-71.03877,3
+917,120,Beacon St at Charles St,42.356052,-71.069849,3
+918,121,W Broadway at Dorchester St,42.335958979433094,-71.04622899561036,3
+919,122,Burlington Ave at Brookline Ave,42.345733,-71.100694,3
+920,124,Curtis Hall - South St at Centre St,42.309054,-71.11543,3
+921,125,Hyde Square - Barbara St at Centre St,42.32176525723952,-71.10984160567114,3
+922,126,Egleston Square - Atherton St at Washington St,42.315692,-71.098634,3
+923,128,E Cottage St at Columbia Rd,42.320561,-71.06198,3
+924,129,Hayes Square - Vine St at Moulton St,42.377022,-71.056605,3
+925,130,Uphams Corner,42.31727474327453,-71.06537003967787,3
+926,131,Jackson Square T Stop,42.32293117195949,-71.10014140605927,3
+927,133,Green Street T Stop - Green St at Amory St,42.310579,-71.107341,3
+928,135,ID Building East,42.344827,-71.028664,3
+929,136,ID Building West,42.344796,-71.031614,3
+930,137,Magoun Square at Trum Field,42.39778339961249,-71.10594004465383,3
+931,138,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,42.326599,-71.066498,3
+932,139,Dana Park,42.361780439606044,-71.10809952020645,3
+933,140,Danehy Park,42.388966,-71.132788,3
+934,141,Kendall Street,42.363560158429884,-71.08216792345047,3
+935,142,Alewife Station at Russell Field,42.396105,-71.139459,3
+936,143,EF - North Point Park,42.369885,-71.069957,3
+937,144,Rogers St & Land Blvd,42.36575798214837,-71.07699394226073,3
+938,145,Rindge Avenue - O'Neill Library,42.392766,-71.129042,3
+939,146,Murphy Skating Rink - 1880 Day Blvd,42.336448,-71.023739,3
+940,149,175 N Harvard St,42.363796,-71.129164,3
+941,150,State Street at Channel Center,42.344137,-71.052608,3
+942,151,Surface Rd at India St,42.358155,-71.052163,3
+943,152,Ink Block - Harrison Ave at Herald St,42.345901,-71.063187,3
+944,156,Somerville Hospital,42.390449490184295,-71.10855950047153,3
+945,157,Seaport Blvd at Sleeper St,42.35317809186252,-71.04817356923377,3
+946,159,S Huntington Ave at Heath St,42.32760387040573,-71.11089169979095,3
+947,160,Wentworth Institute of Technology - Huntington Ave at Vancouver St,42.33758601097239,-71.09627097845076,3
+948,161,W Broadway at D St,42.3391085,-71.0514432,3
+949,162,Franklin Park - Seaver St at Humboldt Ave,42.309796,-71.092225,3
+950,163,The Lawn on D,42.344792,-71.044024,3
+951,167,Ryan Playground - Dorchester Ave at Harbor View St,42.317642,-71.056664,3
+952,169,Edwards Playground - Main St at Eden St,42.378965,-71.068607,3
+953,170,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave,42.303469,-71.085347,3
+954,171,Bunker Hill Community College,42.37408991426522,-71.06905996799469,3
+955,173,Savin Hill T Stop - S Sydney St at Bay St,42.3106,-71.0539,3
+956,174,Washington St at Brock St,42.3489528466951,-71.16031676530838,3
+957,175,Brighton Center - Washington St at Cambridge St,42.34894857235593,-71.15027189254761,3
+958,176,Lesley University,42.38674802045056,-71.11901879310608,3
+959,177,University Park,42.36264779118595,-71.10006093978882,3
+960,178,MIT Pacific St at Purrington St,42.35957320109044,-71.10129475593567,3
+961,179,MIT Vassar St,42.355601213279265,-71.10394477844238,3
+962,180,Mt Auburn,42.37478628706384,-71.13320231437683,3
+963,181,Huron Ave At Vassal Lane,42.381650612901176,-71.13426981498378,3
+964,182,Museum of Science,42.36769018024484,-71.07116281986237,3
+965,183,Alewife MBTA at Steel Place,42.395588457167094,-71.14260613918304,3
+966,184,Sidney Research Campus/Erie Street at Waverly,42.35775309465199,-71.10393404960632,3
+967,185,Third at Binney,42.36544486137399,-71.08277142047882,3
+968,186,Congress St at Northern Ave,42.3481,-71.03764,3
+969,187,Cypress St at Clark Playground,42.32784317478686,-71.1253622174263,3
+970,188,Foss Park,42.39108438146733,-71.09039425849915,3
+971,189,Kendall T,42.362427842912396,-71.08495473861694,3
+972,190,Nashua Street at Red Auerbach Way,42.365673,-71.064263,3
+973,191,Tappan St at Brookline Hills MBTA,42.332096063019364,-71.128458827734,3
+974,192,Purchase St at Pearl St,42.354659,-71.053181,3
+975,193,Brookline Town Hall,42.33376472623494,-71.12046446660315,3
+976,194,Broadway St at Mt Pleasant St,42.386141411639564,-71.07828140258789,3
+977,195,Child St at North St,42.37150494100319,-71.07249312120985,3
+978,196,Roxbury YMCA - Warren St at MLK Blvd,42.31787329345602,-71.08243077993393,3
+979,197,MLK Blvd at Washington St,42.32143814183195,-71.09126061201096,3
+980,199,Uphams Corner T Stop - Magnolia St at Dudley St,42.318697341722434,-71.0697814822197,3
+981,200,Washington St at Melnea Cass Blvd,42.332817,-71.081198,3
+982,201,NCAAA - Walnut Ave at Crawford St,42.316902,-71.091946,3
+983,202,Grove Hall Library - 41 Geneva Ave,42.30791,-71.080952,3
+984,203,Columbia Rd at Ceylon St,42.309572,-71.0729,3
+985,204,Walnut Ave at Warren St,42.324081,-71.083235,3
+986,205,Bowdoin St at Quincy St,42.30785224238503,-71.06512248516083,3
+987,206,Government Center - Cambridge St at Court St,42.3598253979878,-71.05979576244862,3
+988,208,Oak Square - 615 Washington St,42.35057,-71.166491,3
+989,209,Chelsea St at Saratoga St,42.379772,-71.027448,3
+990,210,Bennington St at Byron St,42.383532520117896,-71.01619094610214,3
+991,211,Piers Park,42.3648929326648,-71.03497177362442,3
+992,212,Maverick Square - Lewis Mall,42.368844082898356,-71.03977829217911,3
+993,213,East Boston Neighborhood Health Center - 20 Maverick Square,42.369536,-71.039431,3
+994,214,Airport T Stop - Bremen St at Brooks St,42.374079742097614,-71.03276392826956,3
+995,215,The Eddy - New St at Sumner St,42.370744,-71.044201,3
+996,216,Glendon St at Condor St,42.38240377674137,-71.03024303913116,3
+997,217,Orient Heights T Stop - Bennington St at Saratoga St,42.386781,-71.006098,3
+998,218,Watermark Seaport - Boston Wharf Rd at Seaport Blvd,42.351586001198456,-71.04569256305693,3
+999,219,Boston East - 126 Border St,42.373312125824704,-71.0410200806291,3
+1000,221,Verizon Innovation Hub 10 Ware Street,42.37250864997261,-71.11305356025696,3
+1001,222,Troy Boston,42.343749,-71.062256,3
+1002,224,Fresh Pond Reservation,42.38267827521855,-71.143478951426,3
+1003,225,Cambridge Dept. of Public Works -147 Hampshire St.,42.37119727759414,-71.09759867191315,3
+1004,226,Commonwealth Ave At Babcock St,42.35154734791375,-71.12126246094704,3
+1005,227,Silber Way,42.34949599514002,-71.10057592391968,3
+1006,228,One Memorial Drive,42.361619320766856,-71.0804355052096,3
+1007,232,Four Corners - 157 Washington St,42.304127927390155,-71.07929527759552,3
+1008,233,St Mary's,42.346197076555455,-71.10728681087494,3
+1009,234,Broadway at Central St,42.39517150121575,-71.09850591982195,3
+1010,235,East Somerville Library (Broadway and Illinois),42.3876281075134,-71.08318716287613,3
+1011,236,Assembly Square T,42.392232840046276,-71.07746601104736,3
+1012,239,Community Path at Cedar Street,42.39407223665884,-71.11133694648743,3
+1013,255,Park St at Norwell St,42.29442578670662,-71.07821760713703,3
+1014,258,Gallivan Blvd at Adams St,42.28297567840305,-71.05466698296368,3
+1015,259,Washington St at Bradlee St,42.299164979365884,-71.07345871645519,3
+1016,260,Fields Corner T Stop,42.300664,-71.060295,3
+1017,271,Ashmont T Stop,42.2856944,-71.0641389,3
+1018,272,Shawmut T Stop,42.292917,-71.06575,3
+1019,273,Forest Hills,42.300923,-71.114249,3
+1020,279,Williams St at Washington St,42.306539,-71.107669,3
+1021,280,Main St at Baldwin St,42.380857,-71.070629,3
+1022,282,Stony Brook T Stop,42.316966,-71.104374,3
+1023,296,Farragut Rd at E. 6th St,42.3334,-71.02495,3
+1024,318,Ames St at Broadway,42.3636929,-71.0875672,3
+1025,319,84 Cambridgepark Dr,42.3936,-71.143941,3
+1026,327,Main St at Thompson Sq,42.374878467440965,-71.06383498767171,3
+1027,328,Grove St at Community Path,42.396386809455,-71.12011306006025,3
+1028,329,Washington St at Myrtle St,42.381706759208264,-71.0837718658604,3
+1029,330,30 Dane St,42.38100143038052,-71.10402522613185,3
+1030,331,Huntington Ave at Mass Art,42.336585554561154,-71.0988699646623,3
+1031,332,Harvard Ave at Brainerd Rd,42.34953016890375,-71.13022770741735,3
+1032,333,699 Mt Auburn St,42.37500235137831,-71.14871613699506,3
+1033,334,Mass Ave at Hadley/Walden,42.39120971915856,-71.12260755160605,3
+1034,335,Harvard St at Greene-Rose Heritage Park,42.36599432867437,-71.09522221614498,3
+1035,336,Mattapan T Stop,42.267902,-71.093641,3
+1036,337,Roslindale Village - South St,42.287072,-71.127754,3
+1037,338,Commonwealth Ave at Kelton St,42.348358628170445,-71.13997217276847,3
+1038,339,Archdale Rd at Washington St,42.29266592872725,-71.12119538714069,3
+1039,340,Blue Hill Ave at Almont St,42.274620671812244,-71.09372552493369,3
+1040,341,Roslindale Village - Washington St,42.28630716010807,-71.12820532182013,3
+1041,342,Boylston St at Jersey St,42.344650628878306,-71.09732501226972,3
+1042,343,Morton St T,42.280725142920296,-71.08617242434775,3
+1043,344,Commonwealth Ave at Chiswick Rd,42.34024644768889,-71.15168806174552,3
+1044,345,Park Plaza at Charles St S.,42.351828068920675,-71.06781138111728,3
+1045,346,Cleveland Circle,42.335543083570826,-71.15061519672052,3
+1046,347,Thetford Ave at Norfolk St,42.286212948246096,-71.07942931372236,3
+1047,348,Talbot Ave At Blue Hill Ave,42.2945833,-71.087111,3
+1048,349,Washington St at Talbot Ave,42.290333,-71.071806,3
+1049,350,Codman Square Library,42.2873611,-71.071111,3
+1050,351,Faneuil St at Arlington St,42.35276620545606,-71.15988485533308,3
+1051,352,Ring Rd,42.348278385426255,-71.08044855314802,3
+1052,353,Mattapan Library,42.2773889,-71.09325,3
+1053,354,Washington St at Egremont Rd,42.34286835071959,-71.14127840855872,3
+1054,355,Bennington St at Constitution Beach,42.385223935870535,-71.01063068965232,3
+1055,356,Charlestown Navy Yard,42.374124549426526,-71.05481199938367,3
+1056,357,Centre St at Seaverns Ave,42.3121203,-71.1142981,3
+1057,358,Medford St at Charlestown BCYF,42.380429474494896,-71.06055721676967,3
+1058,359,One Brigham Circle,42.333922701369964,-71.10446508982932,3
+1059,360,Bartlett St at John Elliot Sq,42.3294633,-71.0901582,3
+1060,361,Deerfield St at Commonwealth Ave,42.34924376955301,-71.09728209692548,3
+1061,362,Columbia Rd at Tierney Community Center,42.33023070528729,-71.05060093123029,3
+1062,363,Harrison Ave at Mullins Way,42.34521562115022,-71.0638403149278,3
+1063,364,Tremont St at Northampton St,42.33889559644165,-71.08149975611013,3
+1064,365,Harrison Ave at Bennet St,42.34942609892521,-71.06209959843909,3
+1065,366,Broadway T Stop,42.34278116224413,-71.05747275072645,3
+1066,367,Vassal Lane at Tobin/VLUS,42.3839322489048,-71.13961271959852,3
+1067,368,Blue Hill Ave at Southwood St,42.317860205899876,-71.07798628527235,3
+1068,369,Boston Public Market,42.36254854409333,-71.0573735833168,3
+1069,370,Dartmouth St at Newbury St,42.35096144421219,-71.07782810926437,3
+1070,371,700 Huron Ave,42.380788172914286,-71.15412890911102,3
+1071,372,Boylston St at Exeter St,42.349589423682445,-71.0794677917329,3
+1072,373,Belgrade Ave at Walworth St,42.28634589486312,-71.13672129828046,3
+1073,374,Tremont St at Hamilton Pl,42.35668334969929,-71.06166645884514,3
+1074,376,Honan Library,42.36027370454934,-71.12852452327388,3
+1075,377,Perry Park,42.37927324600841,-71.10341902831351,3
+1076,378,191 Beacon St,42.38032335045416,-71.10878612855231,3
+1077,379,Tremont St at W. Dedham St,42.34254913737952,-71.07421449387857,3
+1078,380,Mass Ave at Albany St,42.36135837662249,-71.09670273977825,3
+1079,381,Inman Square at Springfield St.,42.37438408515815,-71.1001574621514,3
+1080,384,Clarendon St at Newbury St,42.35155308466532,-71.0756903143556,3
+1081,385,Albany St at E. Brookline St,42.33664795427071,-71.0689445958451,3
+1082,386,Sennott Park Broadway at Norfolk Street,42.36860524248197,-71.09930185605663,3
+1083,387,7 Acre Park,42.41143222973408,-71.06823265090497,3
+1084,389,Everett Square (Broadway at Chelsea St),42.40725945172653,-71.05546381333625,3
+1085,390,Broadway at Lynde St,42.39648358247693,-71.06546759905541,3
+1086,391,Encore,42.39329263225162,-71.0724475979805,3
+1087,392,Glendale Square (Ferry St at Broadway),42.41427294293992,-71.04479655659816,3
+1088,393,Swan St. Park,42.412504507772105,-71.05842225271772,3
+1089,394,Broadway at Maple St,42.410346909767846,-71.05260457852637,3
+1090,395,Chelsea St at Vine St,42.40328056972533,-71.04762639859473,3
+1091,396,Wasgatt Playground,42.4093300667225,-71.06381878293178,3
+1092,397,Broadway at Beacham St,42.39836059620832,-71.06373842814719,3
+1093,398,75 Binney St,42.36550728505653,-71.0801375997653,3
+1094,399,Shawmut Ave at Oak St W,42.34854543411198,-71.06559185315746,3
+1095,400,Lansdowne T Stop,42.34734473177431,-71.1001680795016,3
+1096,401,High St at Cypress St,42.32538435700882,-71.12177595532557,3
+1097,402,Washington St at Griggs Rd,42.338334237199014,-71.13050930220197,3
+1098,403,Marion St at Harvard St,42.33978052668946,-71.12133350232398,3
+1099,404,Mass Ave T Station,42.34135615767354,-71.08336953450817,3
+1100,405,Sydney St at Carson St,42.32039374304257,-71.05355408051764,3
+1101,406,Somerville City Hall Annex,42.39189811591863,-71.09745375830244,3
+1102,407,Craigie at Summer St,42.388305537643994,-71.11067976811682,3
+1103,408,Edgerly Education Center,42.38717463348314,-71.08714388528824,3
+1104,409,Elm St at White St,42.38952436305763,-71.11694140364307,3
+1105,410,Adams St at Lonsdale St,42.291679428741226,-71.05726346409938,3
+1106,411,Dorchester Ave at King St,42.29175621632091,-71.0625918023743,3
+1107,412,Washington St at Peters Park,42.34303291130257,-71.06688730436872,3
+1108,413,Kennedy-Longfellow School 158 Spring St,42.36955297756508,-71.08579014980933,3
+1109,414,Discovery Park - 30 Acorn Park Drive,42.39790817368333,-71.14797130814623,3
+1110,415,Stuart St at Berkeley St,42.34954403114251,-71.0724207387284,3
+1111,416,Blossom St at Charles St,42.36435589027983,-71.0695936904267,3
+1112,417,Columbus Ave at W. Canton St,42.34474224772802,-71.07648162175792,3
+1113,419,Central Square East Boston,42.37544912547037,-71.03918548682486,3
+1114,420,Charles St at Pinckney St,42.35872530462163,-71.07079532006537,3
+1115,421,Northbourne Rd at Hyde Park Ave,42.29118034790426,-71.117736660035,3
+1116,422,American Legion Hwy at Canterbury St,42.278811581565975,-71.11687703062671,3
+1117,423,Mt. Hope St at Hyde Park Ave,42.28484472443536,-71.11874517062459,3
+1118,424,Jamaica St at South St,42.3060456272408,-71.11570891001975,3
+1119,425,The Dimock Center,42.3193094317828,-71.09639923859504,3
+1120,426,Surface Rd at Summer St,42.35294569782581,-71.05656400803126,3
+1121,427,Washington St at Denton Terr,42.280728147169015,-71.13423757273267,3
+1122,428,Western Ave at Richardson St,42.361787410661876,-71.14393111327445,3
+1123,430,Washington St at Walsh Playground,42.277194696397906,-71.06955613950048,3
+1124,431,Washington St at Fuller St,42.281986277339136,-71.07147924620222,3
+1125,432,Centre St at W. Roxbury Post Office,42.286331991127746,-71.15344755369732,3
+1126,433,Centre St at Parkway YMCA,42.28277901074054,-71.15728851416861,3
+1127,434,Spring St at Powell St,42.277484442008216,-71.16341467955863,3
+1128,435,Central Ave at River St,42.27094707029229,-71.07337901405117,3
+1129,436,Maverick St at Massport Path,42.36774122306014,-71.0333597474255,3
+1130,437,Berkshire Street at Cambridge Street,42.37207657915397,-71.08995433905875,3
+1131,440,Boston Landing,42.356560923089404,-71.14167537549292,3
+1132,441,Sullivan Square,42.384452256358436,-71.07514854529654,3
+1133,442,Hyde Park Ave at Walk Hill St,42.29606704649873,-71.11601199963843,3
+1134,443,Whittier St Health Center,42.332862884862635,-71.09218861916816,3
+1135,445,Geiger Gibson Community Health Center,42.31886468217537,-71.04536797860419,3
+1136,446,700 Commonwealth Ave.,42.34960945333059,-71.10391523698127,3
+1137,447,The Overlook at St. Gabriel's,42.34679008347347,-71.14549813806661,3
+1138,448,Hale Park,42.414962648832656,-71.05279301009432,3
+1139,449,Test 6,0.0,0.0,3
+1140,452,Beacon St at St. Paul St,42.34373094998716,-71.11614107161584,3
+1141,454,Boylston St at Dartmouth St,42.35010609546997,-71.07720464005979,3
+1142,455,Coolidge Sq.,42.372076114722866,-71.15683130688922,3
+1143,456,Graham and Parks School – Linnaean St at Walker St,42.38294430172271,-71.12449831038248,3
+1144,457,N. Beacon St at N. Beacon Ct,42.36444157139109,-71.18091373646166,3
+1145,458,Watertown Sq,42.365260317694485,-71.18573324459247,3
+1146,459,Canal St at Causeway St,42.36530094929082,-71.06092190993877,3
+1147,460,Broad St at Central St,42.35849449039304,-71.05426469875965,3
+1148,461,Railroad Lot and Minuteman Bikeway,42.416084844039744,-71.15315407052549,3
+1149,462,Linwood St at Minuteman Bikeway,42.40935395518158,-71.14906518727366,3
+1150,463,Smith Pl at Wilson Rd,42.39239749145834,-71.15058331757609,3
+1151,464,Mass Ave at Grafton St,42.40726052447951,-71.14382132425817,3
+1152,465,Broadway at Grafton St,42.40994213011757,-71.14009319811885,3
+1153,466,Centre St at Washington St,42.35574334805774,-71.18641942508475,3
+1154,467,Washington St at Crafts St,42.35389024396587,-71.19943707257335,3
+1155,468,Nonantum Library,42.36068455768156,-71.20146199598821,3
+1156,469,Bacon St at Washington St,42.35711920909866,-71.1860453666327,3
+1157,470,Union St at Herrick Rd – Newton Centre Green Line,42.32956868185623,-71.19367271661758,3
+1158,471,MIT Carleton St at Amherst St,42.36054174140606,-71.08669817447662,3
+1159,472,MIT Hayward St at Amherst St,42.36085937353302,-71.08551858007559,3
+1160,473,West Newton,42.349600498642076,-71.2262749671936,3
+1161,474,West Newton Armory,42.34947178098653,-71.22000678911718,3
+1162,475,Arsenal Yards,42.36277388549605,-71.15764854490408,3
+1163,476,Boylston St at Charles St,42.3525760946701,-71.06764405041758,3
+1164,477,Marion St at White St,42.38066930871317,-71.03907315999093,3
+1165,478,Gove St at Orleans St,42.37057753242139,-71.03558540113227,3
+1166,479,Galileo Galilei Way at Main Street,42.363003781560096,-71.08974037706501,3
+1167,480,Thorndike Field at Minuteman Bikeway,42.40016804853787,-71.14456963094199,3
+1168,481,645 Summer St,42.341780891371904,-71.03987016504107,3
+1169,482,Kearins Playground,42.406161241322444,-71.06041654944418,3
+1170,483,Porzio Park,42.364119035231525,-71.02876782417297,3
+1171,484,Revere Public Library,42.408088,-71.008942,3
+1172,485,Revere City Hall,42.40741,-71.0139,3
+1173,486,Langley Lot,42.330528,-71.192861,3
+1174,487,Community Path at Lowell St,42.392525,-71.105587,3
+1175,488,Martha Eliot Health Center,42.324173,-71.10196,3
+1176,489,Day Sq,42.379295,-71.027733,3
+1177,490,Blue Hill Ave at Havelock St,42.286012,-71.090986,3
+1178,491,Harrison Ave at E. Dedham St,42.339194,-71.06975,3
+1179,492,Harvard Stadium: N. Harvard St at Soldiers Field Rd,42.368019,-71.1242,3
+1180,493,2 Hummingbird Lane at Olmsted Green,42.28887,-71.095003,3
+1181,494,Watertown Town Hall,42.367621,-71.187936,3
+1182,495,Union Square East (Temp Winter Station),42.380078,-71.090098,3
+1183,496,Trum Field @ Cedar St (Temp Winter Station),42.398444,-71.107833,3
+1184,497,Washington St @ New Washington St (Temp Winter Station),42.381056,-71.087083,3
+1185,498,Broadway Opposite Norwood Ave  (Temp Winter Station),42.396764,-71.102376,3
+1186,499,Conway Park @ Bleachery Ct (Temp Winter Station),42.3836409294306,-71.10868692398071,3
+1187,72,W 52 St & 11 Ave,40.76727216,-73.99392888,4
+1188,79,Franklin St & W Broadway,40.71911552,-74.00666661,4
+1189,82,St James Pl & Pearl St,40.71117416,-74.00016545,4
+1190,83,Atlantic Ave & Fort Greene Pl,40.68382604,-73.97632328,4
+1191,116,W 17 St & 8 Ave,40.74177603,-74.00149746,4
+1192,119,Park Ave & St Edwards St,40.69608941,-73.97803415,4
+1193,120,Lexington Ave & Classon Ave,40.68676793,-73.95928168,4
+1194,127,Barrow St & Hudson St,40.73172428,-74.00674436,4
+1195,128,MacDougal St & Prince St,40.72710258,-74.00297088,4
+1196,143,Clinton St & Joralemon St,40.69239502,-73.99337909,4
+1197,144,Nassau St & Navy St,40.69839895,-73.98068914,4
+1198,146,Hudson St & Reade St,40.71625008,-74.0091059,4
+1199,150,E 2 St & Avenue C,40.7208736,-73.98085795,4
+1200,151,Cleveland Pl & Spring St,40.722103786686034,-73.99724900722504,4
+1201,152,Warren St & W Broadway,40.71473993,-74.00910627,4
+1202,157,Henry St & Atlantic Ave,40.69089272,-73.99612349,4
+1203,161,LaGuardia Pl & W 3 St,40.72917025,-73.99810231,4
+1204,164,E 47 St & 2 Ave,40.75323098,-73.97032517,4
+1205,168,W 18 St & 6 Ave,40.73971301,-73.99456405,4
+1206,173,Broadway & W 49 St,40.76068327096592,-73.9845272898674,4
+1207,174,E 25 St & 1 Ave,40.7381765,-73.97738662,4
+1208,212,W 16 St & The High Line,40.74334935,-74.00681753,4
+1209,216,Columbia Heights & Cranberry St,40.70037867,-73.99548059,4
+1210,217,Old Fulton St,40.70277159,-73.99383605,4
+1211,223,W 13 St & 7 Ave,40.73781509,-73.99994661,4
+1212,224,Spruce St & Nassau St,40.71146364,-74.00552427,4
+1213,228,E 48 St & 3 Ave,40.7546011026,-73.971878855,4
+1214,229,Great Jones St,40.72743423,-73.99379025,4
+1215,232,Cadman Plaza E & Tillary St,40.69597683,-73.99014892,4
+1216,236,St Marks Pl & 2 Ave,40.7284186,-73.98713956,4
+1217,237,E 11 St & 2 Ave,40.73047309,-73.98672378,4
+1218,238,Bank St & Washington St,40.7361967,-74.00859207,4
+1219,239,Willoughby St & Fleet St,40.69196566,-73.9813018,4
+1220,241,DeKalb Ave & S Portland Ave,40.68981035,-73.97493121,4
+1221,242,Carlton Ave & Flushing Ave,40.697787,-73.973736,4
+1222,244,Willoughby Ave & Hall St,40.69196035,-73.96536851,4
+1223,245,Myrtle Ave & St Edwards St,40.69327018,-73.97703874,4
+1224,247,Perry St & Bleecker St,40.73535398,-74.00483091,4
+1225,248,Laight St & Hudson St,40.72185379,-74.00771779,4
+1226,249,Harrison St & Hudson St,40.71870987,-74.0090009,4
+1227,250,Lafayette St & Jersey St,40.72456089,-73.99565293,4
+1228,251,Mott St & Prince St,40.72317958,-73.99480012,4
+1229,252,MacDougal St & Washington Sq,40.73226398,-73.99852205,4
+1230,254,W 11 St & 6 Ave,40.73532427,-73.99800419,4
+1231,257,Lispenard St & Broadway,40.71939226,-74.00247214,4
+1232,258,DeKalb Ave & Vanderbilt Ave,40.68940747,-73.96885458,4
+1233,259,South St & Whitehall St,40.70122128,-74.01234218,4
+1234,260,Broad St & Bridge St,40.70365182,-74.01167797,4
+1235,261,Johnson St & Gold St,40.69474881,-73.98362464,4
+1236,262,Washington Park,40.6917823,-73.9737299,4
+1237,264,Maiden Ln & Pearl St,40.70706456,-74.00731853,4
+1238,265,Stanton St & Chrystie St,40.72229346,-73.99147535,4
+1239,267,Broadway & W 36 St,40.75097711,-73.98765428,4
+1240,268,Howard St & Centre St,40.71910537,-73.99973337,4
+1241,270,Adelphi St & Myrtle Ave,40.69308257,-73.97178913,4
+1242,274,Lafayette Ave & Fort Greene Pl,40.68691865,-73.976682,4
+1243,275,Washington Ave & Greene Ave,40.68650065,-73.96563307,4
+1244,276,Duane St & Greenwich St,40.71748752,-74.0104554,4
+1245,278,Concord St & Bridge St,40.69766564,-73.98476437,4
+1246,280,E 10 St & 5 Ave,40.73331967,-73.99510132,4
+1247,281,Grand Army Plaza & Central Park S,40.7643971,-73.97371465,4
+1248,282,Kent Ave & S 11 St,40.707644944175705,-73.96841526031494,4
+1249,284,Greenwich Ave & 8 Ave,40.7390169121,-74.0026376103,4
+1250,285,Broadway & E 14 St,40.73454567,-73.99074142,4
+1251,289,Monroe St & Classon Ave,40.6845683,-73.95881081,4
+1252,291,Madison St & Montgomery St,40.713126,-73.984844,4
+1253,293,Lafayette St & E 8 St,40.73020660529954,-73.99102628231049,4
+1254,295,Pike St & E Broadway,40.71406667,-73.99293911,4
+1255,297,E 15 St & 3 Ave,40.734232,-73.986923,4
+1256,298,3 Ave & Schermerhorn St,40.68683208,-73.9796772,4
+1257,301,E 2 St & Avenue B,40.72217444,-73.98368779,4
+1258,302,Avenue D & E 3 St,40.72082834,-73.97793172,4
+1259,303,Mercer St & Spring St,40.72362738,-73.99949601,4
+1260,304,Broadway & Battery Pl,40.70463334,-74.01361706,4
+1261,305,E 58 St & 3 Ave,40.76095756,-73.96724467,4
+1262,307,Canal St & Rutgers St,40.71427487,-73.98990025,4
+1263,308,St James Pl & Oliver St,40.71307916,-73.99851193,4
+1264,309,Murray St & West St,40.7149787,-74.013012,4
+1265,310,State St & Smith St,40.68926942,-73.98912867,4
+1266,311,Norfolk St & Broome St,40.7172274,-73.98802084,4
+1267,312,Allen St & Stanton St,40.722055,-73.989111,4
+1268,313,Washington Ave & Park Ave,40.69610226,-73.96751037,4
+1269,315,South St & Gouverneur Ln,40.70355377,-74.00670227,4
+1270,316,Fulton St & William St,40.70955958,-74.00653609,4
+1271,317,E 6 St & Avenue B,40.72453734,-73.98185424,4
+1272,319,Fulton St & Broadway,40.711066,-74.009447,4
+1273,320,Leonard St & Church St,40.717571,-74.005549,4
+1274,321,Cadman Plaza E & Red Cross Pl,40.69991755,-73.98971773,4
+1275,323,Lawrence St & Willoughby St,40.69236178,-73.98631746,4
+1276,324,DeKalb Ave & Hudson Ave,40.689888,-73.981013,4
+1277,325,E 19 St & 3 Ave,40.73624527,-73.98473765,4
+1278,326,E 11 St & 1 Ave,40.72953837,-73.98426726,4
+1279,327,Vesey Pl & River Terrace,40.7153379,-74.01658354,4
+1280,328,Watts St & Greenwich St,40.72405549,-74.00965965,4
+1281,330,Reade St & Broadway,40.71450451,-74.00562789,4
+1282,331,Pike St & Monroe St,40.71173107,-73.99193043,4
+1283,332,Cherry St,40.71219906,-73.97948148,4
+1284,334,W 20 St & 7 Ave,40.74238787,-73.99726235,4
+1285,335,Washington Pl & Broadway,40.72903917,-73.99404649,4
+1286,336,Sullivan St & Washington Sq,40.73047747,-73.99906065,4
+1287,340,Madison St & Clinton St,40.71269042,-73.98776323,4
+1288,341,Stanton St & Mangin St,40.71782143,-73.97628939,4
+1289,342,Columbia St & Rivington St,40.71739973,-73.98016555,4
+1290,343,Clinton Ave & Flushing Ave,40.69794,-73.96986848,4
+1291,344,Monroe St & Bedford Ave,40.6851443,-73.95380904,4
+1292,346,Bank St & Hudson St,40.73652889,-74.00618026,4
+1293,347,Greenwich St & W Houston St,40.728846,-74.008591,4
+1294,349,Rivington St & Ridge St,40.71850211,-73.98329859,4
+1295,350,Clinton St & Grand St,40.71559509,-73.9870295,4
+1296,351,Front St & Maiden Ln,40.70530954,-74.00612572,4
+1297,353,S Portland Ave & Hanson Pl,40.68539567,-73.97431458,4
+1298,354,Emerson Pl & Myrtle Ave,40.69363137,-73.96223558,4
+1299,355,Bayard St & Baxter St,40.71602118,-73.99974372,4
+1300,356,Bialystoker Pl & Delancey St,40.71622644,-73.98261206,4
+1301,358,Christopher St & Greenwich St,40.73291553,-74.00711384,4
+1302,359,E 47 St & Park Ave,40.75510267,-73.97498696,4
+1303,360,William St & Pine St,40.70717936,-74.00887308,4
+1304,361,Allen St & Hester St,40.71605866,-73.99190759,4
+1305,362,Broadway & W 37 St,40.75172632,-73.98753523,4
+1306,363,West Thames St,40.70834698,-74.01713445,4
+1307,364,Lafayette Ave & Classon Ave,40.68900443,-73.96023854,4
+1308,366,Clinton Ave & Myrtle Ave,40.693261,-73.968896,4
+1309,367,E 53 St & Lexington Ave,40.75828065,-73.97069431,4
+1310,368,Carmine St & 6 Ave,40.73038599,-74.00214988,4
+1311,369,Washington Pl & 6 Ave,40.73224119,-74.00026394,4
+1312,372,Franklin Ave & Myrtle Ave,40.694546087246025,-73.95801365375519,4
+1313,373,Willoughby Ave & Walworth St,40.69331716,-73.95381995,4
+1314,376,John St & William St,40.70862144,-74.00722156,4
+1315,377,6 Ave & Canal St,40.72243797,-74.00566443,4
+1316,379,W 31 St & 7 Ave,40.749156,-73.9916,4
+1317,380,W 4 St & 7 Ave S,40.73401143,-74.00293877,4
+1318,383,Greenwich Ave & Charles St,40.735238,-74.000271,4
+1319,385,E 55 St & 2 Ave,40.75797322,-73.96603308,4
+1320,386,Centre St & Worth St,40.71494807,-74.00234482,4
+1321,387,Centre St & Chambers St,40.71273266,-74.0046073,4
+1322,388,W 26 St & 10 Ave,40.749717753,-74.002950346,4
+1323,389,Broadway & Berry St,40.71044554,-73.96525063,4
+1324,390,Duffield St & Willoughby St,40.69221589,-73.9842844,4
+1325,391,Clark St & Henry St,40.69760127,-73.99344559,4
+1326,392,Jay St & Tech Pl,40.695065,-73.987167,4
+1327,393,E 5 St & Avenue C,40.72299208,-73.97995466,4
+1328,394,E 9 St & Avenue C,40.72521311,-73.97768752,4
+1329,396,Lefferts Pl & Franklin Ave,40.680342423,-73.9557689392,4
+1330,397,Fulton St & Clermont Ave,40.68415748,-73.96922273,4
+1331,398,Atlantic Ave & Furman St,40.69165183,-73.9999786,4
+1332,399,Lafayette Ave & St James Pl,40.68851534,-73.9647628,4
+1333,400,Pitt St & Stanton St,40.71926081,-73.98178024,4
+1334,401,Allen St & Rivington St,40.72019576,-73.98997825,4
+1335,402,Broadway & E 22 St,40.7403432,-73.98955109,4
+1336,403,E 2 St & 2 Ave,40.72502876,-73.99069656,4
+1337,405,Washington St & Gansevoort St,40.739323,-74.008119,4
+1338,406,Hicks St & Montague St,40.69512845,-73.99595065,4
+1339,408,Market St & Cherry St,40.71076228,-73.99400398,4
+1340,410,Suffolk St & Stanton St,40.72066442,-73.98517977,4
+1341,411,E 6 St & Avenue D,40.72228087,-73.97668709,4
+1342,412,Forsyth St & Canal St,40.7158155,-73.99422366,4
+1343,415,Pearl St & Hanover Square,40.7047177,-74.00926027,4
+1344,416,Cumberland St & Lafayette Ave,40.68753406,-73.97265183,4
+1345,417,Barclay St & Church St,40.71291224,-74.01020234,4
+1346,418,Front St & Gold St,40.70224,-73.982578,4
+1347,419,Carlton Ave & Park Ave,40.69580705,-73.97355569,4
+1348,420,Clermont Ave & Lafayette Ave,40.68764484,-73.96968902,4
+1349,421,Clermont Ave & Park Ave,40.69573398,-73.97129668,4
+1350,422,W 59 St & 10 Ave,40.770513,-73.988038,4
+1351,423,W 54 St & 9 Ave,40.76584941,-73.98690506,4
+1352,426,West St & Chambers St,40.71754834,-74.01322069,4
+1353,427,Bus Slip & State St,40.701907,-74.013942,4
+1354,432,E 7 St & Avenue A,40.72621788,-73.98379855,4
+1355,434,9 Ave & W 18 St,40.74317449,-74.00366443,4
+1356,435,W 21 St & 6 Ave,40.74173969,-73.99415556,4
+1357,436,Hancock St & Bedford Ave,40.68216564,-73.95399026,4
+1358,437,Macon St & Nostrand Ave,40.6809833854,-73.9500479759,4
+1359,438,St Marks Pl & 1 Ave,40.72779126,-73.98564945,4
+1360,439,E 4 St & 2 Ave,40.7262807,-73.98978041,4
+1361,440,E 45 St & 3 Ave,40.75255434,-73.97282625,4
+1362,442,W 27 St & 7 Ave,40.746647,-73.993915,4
+1363,443,Bedford Ave & S 9 St,40.70853074,-73.96408963,4
+1364,445,E 10 St & Avenue A,40.72740794,-73.98142006,4
+1365,446,W 24 St & 7 Ave,40.74487634,-73.99529885,4
+1366,447,8 Ave & W 52 St,40.76370739,-73.9851615,4
+1367,448,W 37 St & 10 Ave,40.75660359,-73.9979009,4
+1368,450,W 49 St & 8 Ave,40.76227205,-73.98788205,4
+1369,453,W 22 St & 8 Ave,40.74475148,-73.99915362,4
+1370,454,E 51 St & 1 Ave,40.75455731,-73.96592976,4
+1371,455,1 Ave & E 44 St,40.75001986,-73.96905301,4
+1372,456,E 53 St & Madison Ave,40.7597108,-73.97402311,4
+1373,457,Broadway & W 58 St,40.76695317,-73.98169333,4
+1374,458,11 Ave & W 27 St,40.751396,-74.005226,4
+1375,460,S 4 St & Wythe Ave,40.71285887,-73.96590294,4
+1376,461,E 20 St & 2 Ave,40.73587678,-73.98205027,4
+1377,462,W 22 St & 10 Ave,40.74691959,-74.00451887,4
+1378,464,E 56 St & 3 Ave,40.75934501,-73.96759673,4
+1379,465,Broadway & W 41 St,40.75513557,-73.98658032,4
+1380,466,W 25 St & 6 Ave,40.74395411,-73.99144871,4
+1381,467,Dean St & 4 Ave,40.68312489,-73.97895137,4
+1382,468,Broadway & W 56 St,40.7652654,-73.98192338,4
+1383,469,Broadway & W 53 St,40.76344058,-73.98268129,4
+1384,470,W 20 St & 8 Ave,40.74345335,-74.00004031,4
+1385,471,Grand St & Havemeyer St,40.71286844,-73.95698119,4
+1386,472,E 32 St & Park Ave,40.7457121,-73.98194829,4
+1387,473,Rivington St & Chrystie St,40.72110063,-73.9919254,4
+1388,474,5 Ave & E 29 St,40.7451677,-73.98683077,4
+1389,476,E 31 St & 3 Ave,40.74394314,-73.97966069,4
+1390,477,W 41 St & 8 Ave,40.75640548,-73.9900262,4
+1391,478,11 Ave & W 41 St,40.76030096,-73.99884222,4
+1392,479,9 Ave & W 45 St,40.76019252,-73.9912551,4
+1393,480,W 53 St & 10 Ave,40.76669671,-73.99061728,4
+1394,481,S 3 St & Bedford Ave,40.71260486,-73.96264403,4
+1395,482,W 15 St & 7 Ave,40.73935542,-73.99931783,4
+1396,483,E 12 St & 3 Ave,40.73223272,-73.98889957,4
+1397,484,W 44 St & 5 Ave,40.75500254,-73.98014437,4
+1398,485,W 37 St & 5 Ave,40.75038009,-73.98338988,4
+1399,486,Broadway & W 29 St,40.7462009,-73.98855723,4
+1400,487,E 20 St & FDR Drive,40.73314259,-73.97573881,4
+1401,489,10 Ave & W 28 St,40.75066386,-74.00176802,4
+1402,490,8 Ave & W 33 St,40.751551,-73.993934,4
+1403,492,W 33 St & 7 Ave,40.75019995,-73.99093085,4
+1404,494,W 26 St & 8 Ave,40.74734825,-73.99723551,4
+1405,495,W 47 St & 10 Ave,40.76269882,-73.99301222,4
+1406,496,E 16 St & 5 Ave,40.73726186,-73.99238967,4
+1407,497,E 17 St & Broadway,40.73704984,-73.99009296,4
+1408,499,Broadway & W 60 St,40.76915505,-73.98191841,4
+1409,500,Broadway & W 51 St,40.76228826,-73.98336183,4
+1410,501,FDR Drive & E 35 St,40.744219,-73.97121214,4
+1411,502,Henry St & Grand St,40.714211,-73.981095,4
+1412,503,E 20 St & Park Ave,40.73827428,-73.98751968,4
+1413,504,1 Ave & E 16 St,40.73221853,-73.98165557,4
+1414,505,6 Ave & W 33 St,40.74901271,-73.98848395,4
+1415,507,E 25 St & 2 Ave,40.73912601,-73.97973776,4
+1416,508,W 46 St & 11 Ave,40.76341379,-73.99667444,4
+1417,509,9 Ave & W 22 St,40.7454973,-74.00197139,4
+1418,510,W 51 St & 6 Ave,40.7606597,-73.98042047,4
+1419,513,W 56 St & 10 Ave,40.768254,-73.988639,4
+1420,514,12 Ave & W 40 St,40.76087502,-74.00277668,4
+1421,515,W 43 St & 10 Ave,40.76009437,-73.99461843,4
+1422,516,E 47 St & 1 Ave,40.75206862,-73.96784384,4
+1423,517,Pershing Square South,40.751581,-73.97791,4
+1424,519,Pershing Square North,40.751873,-73.977706,4
+1425,522,E 51 St & Lexington Ave,40.75714758,-73.97207836,4
+1426,525,W 34 St & 11 Ave,40.75594159,-74.0021163,4
+1427,526,E 33 St & 5 Ave,40.74765947,-73.98490707,4
+1428,528,2 Ave & E 31 St,40.74290902,-73.97706058,4
+1429,529,W 42 St & 8 Ave,40.7575699,-73.99098507,4
+1430,530,11 Ave & W 59 St,40.77149671054441,-73.99046033620834,4
+1431,531,Forsyth St & Broome St,40.71893904,-73.99266288,4
+1432,532,S 5 Pl & S 5 St,40.710451,-73.960876,4
+1433,533,Broadway & W 38 St,40.75299641,-73.98721619,4
+1434,534,Water - Whitehall Plaza,40.70255065,-74.0127234,4
+1435,536,1 Ave & E 30 St,40.74144387,-73.97536082,4
+1436,537,Lexington Ave & E 24 St,40.74025878,-73.98409214,4
+1437,539,Metropolitan Ave & Bedford Ave,40.71534825,-73.96024116,4
+1438,540,Lexington Ave & E 29 St,40.74311555376486,-73.98215353488922,4
+1439,545,E 23 St & 1 Ave,40.736502,-73.97809472,4
+1440,546,E 30 St & Park Ave S,40.74444921,-73.98303529,4
+1441,2000,Front St & Washington St,40.70255088,-73.98940236,4
+1442,2002,Wythe Ave & Metropolitan Ave,40.716887,-73.963198,4
+1443,2003,1 Ave & E 18 St,40.733812191966315,-73.98054420948029,4
+1444,2005,Railroad Ave & Kay Ave,40.70531194,-73.97100056,4
+1445,2006,Central Park S & 6 Ave,40.76590936,-73.97634151,4
+1446,2008,Little West St & 1 Pl,40.70569254,-74.01677685,4
+1447,2009,Catherine St & Monroe St,40.71117444,-73.99682619,4
+1448,2010,Grand St & Greene St,40.72170005235607,-74.00238141417502,4
+1449,2012,E 27 St & 1 Ave,40.739445,-73.976806,4
+1450,2017,E 43 St & 2 Ave,40.75022392,-73.97121414,4
+1451,2021,W 45 St & 8 Ave,40.75929124,-73.98859651,4
+1452,2022,E 60 St & York Ave,40.759107,-73.959223,4
+1453,3016,Kent Ave & N 7 St,40.72036775298455,-73.96165072917938,4
+1454,3041,Kingston Ave & Herkimer St,40.67890679,-73.94142771,4
+1455,3042,Fulton St & Utica Ave,40.6794268,-73.9298911,4
+1456,3043,Lewis Ave & Decatur St,40.6814598,-73.934903,4
+1457,3044,Albany Ave & Fulton St,40.6800105,-73.938475,4
+1458,3046,Marcus Garvey Blvd & Macon St,40.682601,-73.938037,4
+1459,3047,Halsey St & Tompkins Ave,40.6823687,-73.944118,4
+1460,3048,Putnam Ave & Nostrand Ave,40.68402,-73.94977,4
+1461,3049,Cambridge Pl & Gates Ave,40.68488,-73.96304,4
+1462,3050,Putnam Ave & Throop Ave,40.6851532,-73.94111,4
+1463,3052,Lewis Ave & Madison St,40.686312,-73.935775,4
+1464,3053,Marcy Ave & Lafayette Ave,40.6900815,-73.947915,4
+1465,3054,Greene Ave & Throop Ave,40.6894932,-73.942061,4
+1466,3055,Greene Ave & Nostrand Ave,40.6883337,-73.950916,4
+1467,3056,Kosciuszko St & Nostrand Ave,40.69072549,-73.95133465,4
+1468,3057,Kosciuszko St & Tompkins Ave,40.69128258,-73.9452416,4
+1469,3058,Lewis Ave & Kosciuszko St,40.69237074,-73.93705428,4
+1470,3059,Pulaski St & Marcus Garvey Blvd,40.6933982,-73.939877,4
+1471,3060,Willoughby Ave & Tompkins Ave,40.69425403,-73.94626915,4
+1472,3061,Throop Ave & Myrtle Ave,40.69622937,-73.94371094,4
+1473,3062,Myrtle Ave & Marcy Ave,40.69539817,-73.94954908,4
+1474,3063,Nostrand Ave & Myrtle Ave,40.69527008,-73.95238108,4
+1475,3064,Myrtle Ave & Lewis Ave,40.69681963,-73.93756926,4
+1476,3065,Union Ave & Wallabout St,40.70029511,-73.95032283,4
+1477,3066,Tompkins Ave & Hopkins St,40.69957608,-73.94708417,4
+1478,3067,Broadway & Whipple St,40.7016657,-73.9437303,4
+1479,3068,Humboldt St & Varet St,40.7031724,-73.940636,4
+1480,3069,Lorimer St & Broadway,40.70411791,-73.94818595,4
+1481,3070,McKibbin St & Manhattan Ave,40.70510918,-73.94407279,4
+1482,3071,Boerum St & Broadway,40.70538077,-73.94976519,4
+1483,3072,Leonard St & Boerum St,40.70583339,-73.94644578,4
+1484,3074,Montrose Ave & Bushwick Ave,40.70767788,-73.94016171,4
+1485,3075,Division Ave & Marcy Ave,40.70708701,-73.95796783,4
+1486,3076,Scholes St & Manhattan Ave,40.70870368,-73.9448625,4
+1487,3077,Stagg St & Union Ave,40.70877084,-73.95095259,4
+1488,3078,Broadway & Roebling St,40.70924826276157,-73.96063148975372,4
+1489,3080,S 4 St & Rodney St,40.70934,-73.95608,4
+1490,3081,Graham Ave & Grand St,40.711863,-73.944024,4
+1491,3082,Hope St & Union Ave,40.71167351,-73.95141312,4
+1492,3083,Bushwick Ave & Powers St,40.71247661,-73.94100005,4
+1493,3085,Roebling St & N 4 St,40.71469,-73.95739,4
+1494,3086,Graham Ave & Conselyea St,40.715143,-73.944507,4
+1495,3087,Metropolitan Ave & Meeker Ave,40.71413311,-73.95234386,4
+1496,3088,Union Ave & Jackson St,40.7160751,-73.952029,4
+1497,3092,Berry St & N 8 St,40.7190095,-73.95852515,4
+1498,3093,N 6 St & Bedford Ave,40.71745169,-73.95850939,4
+1499,3094,Graham Ave & Withers St,40.7169811,-73.94485918,4
+1500,3095,Graham Ave & Herbert St,40.71929301,-73.94500379,4
+1501,3096,Union Ave & N 12 St,40.71924,-73.95242,4
+1502,3100,Nassau Ave & Newell St,40.724812564400175,-73.94752621650696,4
+1503,3101,N 12 St & Bedford Ave,40.72079821,-73.95484712,4
+1504,3102,Driggs Ave & Lorimer St,40.72179134,-73.9504154,4
+1505,3105,N 15 St & Wythe Ave,40.724055,-73.955736,4
+1506,3106,Driggs Ave & N Henry St,40.72325,-73.94308,4
+1507,3107,Bedford Ave & Nassau Ave,40.72311651,-73.95212324,4
+1508,3108,Nassau Ave & Russell St,40.72557,-73.94434,4
+1509,3109,Banker St & Meserole Ave,40.72606,-73.95621,4
+1510,3110,Meserole Ave & Manhattan Ave,40.72708584,-73.95299117,4
+1511,3112,Milton St & Franklin St,40.72906,-73.95779,4
+1512,3113,Greenpoint Ave & Manhattan Ave,40.73026,-73.95394,4
+1513,3115,India St & Manhattan Ave,40.73232194,-73.9550858,4
+1514,3116,Huron St & Franklin St,40.73266,-73.95826,4
+1515,3117,Franklin St & Dupont St,40.73564,-73.95866,4
+1516,3118,McGuinness Blvd & Eagle St,40.73555,-73.95284,4
+1517,3119,Vernon Blvd & 50 Ave,40.74232744,-73.95411749,4
+1518,3121,Jackson Ave & 46 Rd,40.74524768,-73.94733276,4
+1519,3122,48 Ave & 5 St,40.744363287066875,-73.9558732509613,4
+1520,3123,31 St & Thomson Ave,40.74469738,-73.93540375,4
+1521,3124,46 Ave & 5 St,40.74731,-73.95451,4
+1522,3125,45 Rd & 11 St,40.74708586,-73.94977234,4
+1523,3126,44 Dr & Jackson Ave,40.74718234,-73.9432635,4
+1524,3127,9 St & 44 Rd,40.74966,-73.9521,4
+1525,3128,21 St & 43 Ave,40.75052534,-73.94594845,4
+1526,3129,Queens Plaza North & Crescent St,40.75110165,-73.94073717,4
+1527,3130,21 St & Queens Plaza North,40.75325964,-73.94335788,4
+1528,3131,E 68 St & 3 Ave,40.76712840349542,-73.96224617958069,4
+1529,3132,E 59 St & Madison Ave,40.76350532,-73.97109243,4
+1530,3134,3 Ave & E 62 St,40.76312584,-73.96526895,4
+1531,3135,E 75 St & 3 Ave,40.77112927,-73.95772297,4
+1532,3136,5 Ave & E 63 St,40.766368,-73.971518,4
+1533,3137,5 Ave & E 72 St,40.77282817,-73.96685276,4
+1534,3139,E 72 St & Park Ave,40.77118287540658,-73.96409422159195,4
+1535,3140,1 Ave & E 78 St,40.77140426,-73.9535166,4
+1536,3141,1 Ave & E 68 St,40.76500525,-73.95818491,4
+1537,3142,1 Ave & E 62 St,40.7612274,-73.96094022,4
+1538,3143,5 Ave & E 78 St,40.77632142182271,-73.96427392959595,4
+1539,3144,E 81 St & Park Ave,40.77677702,-73.9590097,4
+1540,3145,E 84 St & Park Ave,40.77862688,-73.95772073,4
+1541,3146,E 81 St & 3 Ave,40.77573034,-73.9567526,4
+1542,3147,E 85 St & 3 Ave,40.77801203,-73.95407149,4
+1543,3148,E 84 St & 1 Ave,40.77565541,-73.95068615,4
+1544,3150,E 85 St & York Ave,40.77536905,-73.94803392,4
+1545,3151,E 81 St & York Ave,40.7728384,-73.94989233,4
+1546,3152,3 Ave & E 71 St,40.76873687,-73.96119945,4
+1547,3154,E 77 St & 3 Ave,40.77314236,-73.95856158,4
+1548,3156,E 72 St & York Ave,40.76663814,-73.95348296,4
+1549,3157,East End Ave & E 86 St,40.77518615,-73.94446054,4
+1550,3158,W 63 St & Broadway,40.77163851,-73.98261428,4
+1551,3159,W 67 St & Broadway,40.77492513,-73.98266566,4
+1552,3160,Central Park West & W 76 St,40.77896784,-73.97374737,4
+1553,3161,W 76 St & Columbus Ave,40.7801839724239,-73.97728532552719,4
+1554,3163,Central Park West & W 68 St,40.7734066,-73.97782542,4
+1555,3164,Columbus Ave & W 72 St,40.7770575,-73.97898475,4
+1556,3165,Central Park West & W 72 St,40.77579376683666,-73.9762057363987,4
+1557,3166,Riverside Dr & W 72 St,40.78057799010334,-73.98562431335449,4
+1558,3167,Amsterdam Ave & W 73 St,40.77966809007312,-73.98093044757842,4
+1559,3169,Riverside Dr & W 82 St,40.78720869,-73.98128127,4
+1560,3170,W 84 St & Columbus Ave,40.78499979,-73.97283406,4
+1561,3171,Amsterdam Ave & W 82 St,40.78524672,-73.97667321,4
+1562,3172,W 74 St & Columbus Ave,40.7785669,-73.97754961,4
+1563,3173,Riverside Blvd & W 67 St,40.777507027547976,-73.98888587951659,4
+1564,3175,W 70 St & Amsterdam Ave,40.77748046,-73.98288594,4
+1565,3177,W 84 St & Broadway,40.7867947,-73.977112,4
+1566,3178,Riverside Dr & W 78 St,40.78414472,-73.98362492,4
+1567,3179,Park Ave & Marcus Garvey Blvd,40.698617,-73.941342,4
+1568,3184,Paulus Hook,40.7141454,-74.0335519,4
+1569,3185,City Hall,40.7177325,-74.043845,4
+1570,3186,Grove St PATH,40.71958611647166,-74.04311746358871,4
+1571,3187,Warren St,40.7211236,-74.03805095,4
+1572,3191,Union St,40.7182113,-74.0836394,4
+1573,3192,Liberty Light Rail,40.7112423,-74.0557013,4
+1574,3193,Lincoln Park,40.7246050998869,-74.07840594649315,4
+1575,3194,McGinley Square,40.7253399253558,-74.06762212514877,4
+1576,3195,Sip Ave,40.73089709786179,-74.06391263008118,4
+1577,3196,Riverview Park,40.7443187,-74.0439909,4
+1578,3198,Heights Elevator,40.748715945380226,-74.04044330120087,4
+1579,3199,Newport Pkwy,40.7287448,-74.0321082,4
+1580,3201,Dey St,40.737711,-74.066921,4
+1581,3202,Newport PATH,40.7272235,-74.0337589,4
+1582,3203,Hamilton Park,40.727595966,-74.044247311,4
+1583,3205,JC Medical Center,40.71653978099194,-74.0496379137039,4
+1584,3206,Hilltop,40.7311689,-74.0575736,4
+1585,3207,Oakland Ave,40.7376037,-74.0524783,4
+1586,3209,Brunswick St,40.7241765,-74.0506564,4
+1587,3210,Pershing Field,40.742677141,-74.051788633,4
+1588,3211,Newark Ave,40.72152515,-74.046304543,4
+1589,3212,Christ Hospital,40.734785818,-74.050443636,4
+1590,3213,Van Vorst Park,40.71848892,-74.047726625,4
+1591,3214,Essex Light Rail,40.7127742,-74.0364857,4
+1592,3220,5 Corners Library,40.734961020009514,-74.0595030784607,4
+1593,3221,47 Ave & 31 St,40.743,-73.93561,4
+1594,3225,Baldwin at Montgomery,40.7236589,-74.0641943,4
+1595,3226,W 82 St & Central Park West,40.78275,-73.97137,4
+1596,3231,E 67 St & Park Ave,40.76780080148132,-73.96592080593109,4
+1597,3232,Bond St & Fulton St,40.68962188790333,-73.98304268717766,4
+1598,3233,E 48 St & 5 Ave,40.75724567911726,-73.97805914282799,4
+1599,3235,E 41 St & Madison Ave,40.752165280621966,-73.97992193698882,4
+1600,3236,W 42 St & Dyer Ave,40.75898481399634,-73.99379968643188,4
+1601,3241,Monroe St & Tompkins Ave,40.686203,-73.944694,4
+1602,3242,Schermerhorn St & Court St,40.69102925677968,-73.99183362722397,4
+1603,3243,E 58 St & 1 Ave (NE Corner),40.75892386377695,-73.96226227283478,4
+1604,3244,University Pl & E 8 St,40.73143724085228,-73.99490341544151,4
+1605,3246,Montague St & Clinton St,40.694281141397326,-73.99230033159256,4
+1606,3249,Verona Pl & Fulton St,40.6803560840434,-73.9476791024208,4
+1607,3255,8 Ave & W 31 St,40.7505853470215,-73.9946848154068,4
+1608,3256,Pier 40 - Hudson River Park,40.7277140777778,-74.01129573583603,4
+1609,3259,9 Ave & W 28 St,40.74937024193277,-73.99923384189606,4
+1610,3260,Mercer St & Bleecker St,40.72706363348306,-73.99662137031554,4
+1611,3263,Cooper Square & Astor Pl,40.72951496224949,-73.99075269699097,4
+1612,3267,Morris Canal,40.7124188237569,-74.03852552175522,4
+1613,3268,Lafayette Park,40.71346382669195,-74.06285852193832,4
+1614,3269,Brunswick & 6th,40.72601172964625,-74.05038893222809,4
+1615,3270,Jersey & 6th St,40.72528910781132,-74.04557168483734,4
+1616,3272,Jersey & 3rd,40.72333158646436,-74.04595255851744,4
+1617,3273,Manila & 1st,40.721650724879986,-74.04288411140442,4
+1618,3275,Columbus Drive,40.71835519823214,-74.03891444206238,4
+1619,3276,Marin Light Rail,40.71458403535893,-74.04281705617905,4
+1620,3277,Communipaw & Berry Lane,40.71435836870427,-74.06661093235016,4
+1621,3278,Monmouth and 6th,40.72568548362901,-74.04879033565521,4
+1622,3279,Dixon Mills,40.721630142638354,-74.04996782541275,4
+1623,3280,Astor Place,40.71928220070702,-74.07126188278198,4
+1624,3281,Leonard Gordon Park,40.74590996631558,-74.0572714805603,4
+1625,3282,5 Ave & E 88 St,40.78307,-73.95939,4
+1626,3283,W 89 St & Columbus Ave,40.7882213,-73.97041561,4
+1627,3284,E 88 St & Park Ave,40.781410700190015,-73.95595908164978,4
+1628,3285,W 87 St & Amsterdam Ave,40.78839,-73.9747,4
+1629,3286,E 89 St & 3 Ave,40.7806284,-73.9521667,4
+1630,3287,W 87 St & West End Ave,40.789622,-73.97757,4
+1631,3288,E 88 St & 1 Ave,40.778301,-73.9488134,4
+1632,3289,W 90 St & Amsterdam Ave,40.79017948095081,-73.97288918495178,4
+1633,3290,E 89 St & York Ave,40.7779453,-73.946041,4
+1634,3292,5 Ave & E 93 St,40.7857851,-73.957481,4
+1635,3293,W 92 St & Broadway,40.7921,-73.9739,4
+1636,3294,E 91 St & Park Ave,40.7835016,-73.955327,4
+1637,3296,E 93 St & 2 Ave,40.782454175279874,-73.9489196240902,4
+1638,3297,6 St & 7 Ave,40.6686627,-73.97988067,4
+1639,3298,Warren St & Court St,40.686371,-73.99383324,4
+1640,3299,E 98 St & Park Ave,40.78813,-73.95206,4
+1641,3300,Prospect Park West & 8 St,40.66514681533792,-73.97637605667114,4
+1642,3301,Columbus Ave & W 95 St,40.7919557,-73.968087,4
+1643,3302,Columbus Ave & W 103 St,40.7969347,-73.9643412291,4
+1644,3303,Butler St & Court St,40.6849894,-73.99440329,4
+1645,3304,6 Ave & 9 St,40.668127,-73.98377641,4
+1646,3305,E 91 St & 2 Ave,40.78112229934166,-73.94965589046478,4
+1647,3306,10 St & 7 Ave,40.6662078,-73.98199886,4
+1648,3307,West End Ave & W 94 St,40.7941654,-73.974124,4
+1649,3308,Kane St & Clinton St,40.6861758,-73.99645295,4
+1650,3309,E 97 St & 3 Ave,40.7859201,-73.94860294,4
+1651,3310,14 St & 7 Ave,40.663779,-73.98396846,4
+1652,3311,Columbia St & Kane St,40.68763155,-74.0016256,4
+1653,3312,1 Ave & E 94 St,40.7817212,-73.94594,4
+1654,3313,6 Ave & 12 St,40.6663181,-73.9854617,4
+1655,3314,W 95 St & Broadway,40.7937704,-73.971888,4
+1656,3315,Henry St & Degraw St,40.6847514,-73.99917254,4
+1657,3317,10 St & 5 Ave,40.6686273,-73.98700053,4
+1658,3318,2 Ave & E 96 St,40.7839636,-73.9471673,4
+1659,3319,14 St & 5 Ave,40.666287,-73.98895053,4
+1660,3321,Clinton St & Union St,40.6831164,-73.99785267,4
+1661,3322,12 St & 4 Ave,40.668603,-73.9904394,4
+1662,3323,W 106 St & Central Park West,40.7981856,-73.9605909006,4
+1663,3324,3 Ave & 14 St,40.6685455,-73.99333264,4
+1664,3325,E 95 St & 3 Ave,40.7849032,-73.950503,4
+1665,3326,Clinton St & Centre St,40.67434,-74.00194698,4
+1666,3327,3 Ave & E 100 St,40.7877214,-73.94728331,4
+1667,3328,W 100 St & Manhattan Ave,40.795,-73.9645,4
+1668,3329,Degraw St & Smith St,40.6829151,-73.99318208,4
+1669,3330,Henry St & Bay St,40.6725058,-74.00494695,4
+1670,3331,Riverside Dr & W 104 St,40.8013434,-73.9711457439,4
+1671,3332,Degraw St & Hoyt St,40.681990442707026,-73.99079024791718,4
+1672,3333,Columbia St & Lorraine St,40.6747055,-74.0075572,4
+1673,3335,Union St & 4 Ave,40.6772744,-73.98282002,4
+1674,3336,E 97 St & Madison Ave,40.787801,-73.953559,4
+1675,3337,Dwight St & Van Dyke St,40.67363551341504,-74.01195555925369,4
+1676,3338,2 Ave & E 99 St,40.7862586,-73.94552579,4
+1677,3339,Berkeley Pl & 6 Ave,40.6765304,-73.97846879,4
+1678,3340,Wolcott St & Dwight St,40.6753274,-74.0100698,4
+1679,3342,Pioneer St & Richards St,40.6777748,-74.0094613,4
+1680,3343,W 107 St & Columbus Ave,40.7997568,-73.9621128676,4
+1681,3344,Pioneer St & Van Brunt St,40.679043,-74.011169,4
+1682,3345,Madison Ave & E 99 St,40.78948541553215,-73.95242929458618,4
+1683,3346,Berkeley Pl & 7 Ave,40.675146838709786,-73.97523209452629,4
+1684,3347,Van Brunt St & Wolcott St,40.6773429,-74.01275056,4
+1685,3348,Coffey St & Conover St,40.677236,-74.015665,4
+1686,3349,Grand Army Plaza & Plaza St West,40.6729679,-73.97087984,4
+1687,3350,W 100 St & Broadway,40.7973721,-73.97041192,4
+1688,3351,E 102 St & 1 Ave,40.7869946,-73.94164802,4
+1689,3352,Sigourney St & Columbia St,40.67267243410948,-74.0087952464819,4
+1690,3354,3 St & Prospect Park West,40.668132,-73.97363831,4
+1691,3355,E 66 St & Madison Ave,40.76800889305947,-73.96845281124115,4
+1692,3356,Amsterdam Ave & W 66 St,40.7746671,-73.98470567,4
+1693,3357,W 106 St & Amsterdam Ave,40.8008363,-73.9664492472,4
+1694,3358,Garfield Pl & 8 Ave,40.6711978,-73.97484126,4
+1695,3359,E 68 St & Madison Ave,40.7691572,-73.96703464,4
+1696,3361,Carroll St & 6 Ave,40.6740886,-73.9787282,4
+1697,3362,Madison Ave & E 82 St,40.7781314,-73.96069399,4
+1698,3363,E 102 St & Park Ave,40.7904828,-73.95033068,4
+1699,3364,Carroll St & 5 Ave,40.6751622,-73.9814832,4
+1700,3365,3 St & 7 Ave,40.6703837,-73.97839676,4
+1701,3366,West End Ave & W 107 St,40.8021174,-73.9681805305,4
+1702,3367,5 Ave & E 103 St,40.7922553,-73.95249933,4
+1703,3368,5 Ave & 3 St,40.6728155,-73.98352355,4
+1704,3369,E 82 St & East End Ave,40.7724607,-73.9468208,4
+1705,3370,E 78 St & 2 Ave,40.7727966,-73.95577801,4
+1706,3372,E 74 St & 1 Ave,40.7689738,-73.95482273,4
+1707,3373,3 St & 3 Ave,40.6750705,-73.98775226,4
+1708,3374,Central Park North & Adam Clayton Powell Blvd,40.799484,-73.955613,4
+1709,3375,3 Ave & E 72 St,40.7699426,-73.96060712,4
+1710,3376,E 65 St & 2 Ave,40.76471851944339,-73.96222069859505,4
+1711,3377,Carroll St & Bond St,40.6786115,-73.99037292,4
+1712,3378,E 76 St & Park Ave,40.773763,-73.96222088,4
+1713,3379,E 103 St & Lexington Ave,40.7903051,-73.94755757,4
+1714,3381,3 St & Hoyt St,40.6777287,-73.99364123,4
+1715,3382,Carroll St & Smith St,40.680611,-73.99475825,4
+1716,3383,Cathedral Pkwy & Broadway,40.804213,-73.96699104,4
+1717,3384,Smith St & 3 St,40.6787242,-73.99599099,4
+1718,3386,1 Pl & Clinton St,40.6809591,-73.99905709,4
+1719,3387,E 106 St & Madison Ave,40.7934337,-73.94945003,4
+1720,3388,President St & Henry St,40.6828003,-73.99990419,4
+1721,3389,Carroll St & Columbia St,40.6830456,-74.00348559,4
+1722,3390,E 109 St & 3 Ave,40.79329668,-73.9432083,4
+1723,3391,E 106 St & 1 Ave,40.7892529,-73.93956237,4
+1724,3392,Commerce St & Van Brunt St,40.6812117,-74.00860912,4
+1725,3393,Richards St & Delavan St,40.6794327,-74.00785041,4
+1726,3394,Columbia St & W 9 St,40.6769993,-74.00647134,4
+1727,3395,Henry St & W 9 St,40.6763744,-74.00324957,4
+1728,3396,Clinton St & 4 Place,40.6783563,-74.00014502,4
+1729,3397,Court St & Nelson St,40.6763947,-73.99869893,4
+1730,3398,Smith St & 9 St,40.6746957,-73.99785768,4
+1731,3399,7 St & 3 Ave,40.67260298150126,-73.98983001708984,4
+1732,3400,E 110 St & Madison Ave,40.7961535,-73.94782145,4
+1733,3402,Court St & State St,40.6902375,-73.99203074,4
+1734,3403,4 Ave & 9 St,40.6705135,-73.98876585,4
+1735,3404,7 St & 5 Ave,40.6704922,-73.98541675,4
+1736,3405,5 St & 6 Ave,40.6704836,-73.98208968,4
+1737,3407,Union St & Nevins St,40.67909799721684,-73.98765474557877,4
+1738,3408,Congress St & Clinton St,40.6881529,-73.99520919,4
+1739,3409,Bergen St & Smith St,40.6867443,-73.99063168,4
+1740,3410,Dean St & Hoyt St,40.6864442,-73.98759104,4
+1741,3411,Bond St & Bergen St,40.6849668,-73.98620772,4
+1742,3412,Pacific St & Nevins St,40.6853761,-73.98302136,4
+1743,3414,Bergen St & Flatbush Ave,40.680944723477296,-73.97567331790923,4
+1744,3415,Prospect Pl & 6 Ave,40.6793307,-73.97519523,4
+1745,3416,7 Ave & Park Pl,40.6776147,-73.97324283,4
+1746,3417,Baltic St & 5 Ave,40.6795766,-73.97854971,4
+1747,3418,Plaza St West & Flatbush Ave,40.6750207,-73.97111473,4
+1748,3419,Douglass St & 4 Ave,40.6792788,-73.98154004,4
+1749,3420,Douglass St & 3 Ave,40.6802133,-73.98432695,4
+1750,3421,Hoyt St & Warren St,40.6843549,-73.98901629,4
+1751,3422,Columbia St & Degraw St,40.6859296,-74.00242364,4
+1752,3423,West Drive & Prospect Park West,40.6610633719006,-73.97945255041122,4
+1753,3424,E 106 St & Lexington Ave,40.791976,-73.945993,4
+1754,3425,2 Ave & E 104 St,40.7892105,-73.94370784,4
+1755,3429,Hanson Pl & Ashland Pl,40.68506807308177,-73.97790759801863,4
+1756,3430,Richardson St & N Henry St,40.71907891179564,-73.94223690032959,4
+1757,3435,Grand St & Elizabeth St,40.718822,-73.99596,4
+1758,3436,Greenwich St & Hubert St,40.721319,-74.010065,4
+1759,3437,Riverside Dr & W 91 St,40.79313480986663,-73.97700369358063,4
+1760,3440,Fulton St & Adams St,40.692418292578466,-73.98949474096298,4
+1761,3443,W 52 St & 6 Ave,40.76132983124814,-73.97982001304626,4
+1762,3452,Bayard St & Leonard St,40.71915571696044,-73.94885390996933,4
+1763,3453,Devoe St & Lorimer St,40.71335226222875,-73.9491033554077,4
+1764,3454,Leonard St & Maujer St,40.7103685423523,-73.94705951213837,4
+1765,3456,Jackson St & Leonard St,40.71638031973561,-73.94821286201477,4
+1766,3457,E 58 St & Madison Ave,40.76302594280519,-73.97209525108337,4
+1767,3459,E 53 St & 3 Ave,40.75763227739443,-73.96930575370789,4
+1768,3461,Murray St & Greenwich St,40.714851505262516,-74.01122331619263,4
+1769,3462,E 44 St & 2 Ave,40.75118387463277,-73.97138714790344,4
+1770,3463,E 16 St & Irving Pl,40.735367055605394,-73.98797392845154,4
+1771,3467,W Broadway & Spring St,40.72494672359416,-74.00165855884552,4
+1772,3469,India St & West St,40.73181401720966,-73.95995020866394,4
+1773,3472,W 15 St & 10 Ave,40.742753828659026,-74.00747358798981,4
+1774,3477,39 St & 2 Ave,40.65539977447831,-74.01062786579132,4
+1775,3478,2 Ave & 36 St,40.65708866668485,-74.00870203971863,4
+1776,3481,York St,40.71649,-74.04105,4
+1777,3483,Montgomery St,40.71942,-74.05099,4
+1778,3486,Schermerhorn St & Bond St,40.688417427540834,-73.98451656103134,4
+1779,3490,E 116 St & 2 Ave,40.796879,-73.937261,4
+1780,3491,E 118 St & 1 Ave,40.79747,-73.93504,4
+1781,3492,E 118 St & Park Ave,40.8005385,-73.9419949,4
+1782,3493,E 118 St & 3 Ave,40.799139,-73.9389152,4
+1783,3494,E 115 St & Lexington Ave,40.797911,-73.9423,4
+1784,3495,E 114 St & 1 Ave,40.7945663,-73.9362541,4
+1785,3496,1 Ave & E 110 St,40.7923272,-73.9383,4
+1786,3497,Pleasant Ave & E 116 St,40.7949879,-73.9333349,4
+1787,3498,Pleasant Ave & E 120 St,40.7974772,-73.9311847,4
+1788,3499,2 Ave & E 122 St,40.8006721,-73.9349,4
+1789,3500,E 115 St & Madison Ave,40.7989445,-73.944846,4
+1790,3501,E 118 St & Madison Ave,40.8014866,-73.9442507,4
+1791,3502,Lexington Ave & E 111 St,40.7954121,-73.9441232,4
+1792,3503,Madison Ave & E 120 St,40.80295,-73.942954,4
+1793,3504,E 123 St & Lexington Ave,40.8029263,-73.9379,4
+1794,3505,Lexington Ave & E 127 St,40.805726,-73.936322,4
+1795,3506,Lexington Ave & E 120 St,40.8013066,-73.9398167,4
+1796,3507,Park Ave & E 124 St,40.8045555,-73.9396861,4
+1797,3508,St Nicholas Ave & Manhattan Ave,40.809725,-73.953149,4
+1798,3509,Lenox Ave & W 115 St,40.8011939,-73.9500739,4
+1799,3510,Adam Clayton Powell Blvd & W 123 St,40.8078316,-73.949373,4
+1800,3511,Adam Clayton Powell Blvd & W 115 St,40.802535,-73.9532423,4
+1801,3513,21 St & Hoyt Ave S,40.774645,-73.923706,4
+1802,3514,Astoria Park S & Shore Blvd,40.7767,-73.927631,4
+1803,3515,24 Ave & 26 St,40.774591,-73.918544,4
+1804,3516,31 St & Astoria Blvd,40.7699176,-73.9184057,4
+1805,3517,31 St & Hoyt Ave N,40.7711528,-73.9170074,4
+1806,3518,Lenox Ave & W 126 St,40.808442,-73.9452087,4
+1807,3520,Adam Clayton Powell Blvd & W 118 St,40.804372,-73.951475,4
+1808,3521,Lenox Ave & W 111 St,40.7987859,-73.9523,4
+1809,3522,37 St & 24 Ave,40.7701477,-73.9120938,4
+1810,3523,24 Ave & 29 St,40.7729,-73.916142,4
+1811,3524,19 St & 24 Ave,40.7774552,-73.9225403,4
+1812,3525,23 Ave & 27 St,40.776165,-73.9153175,4
+1813,3526,31 St & 23 Ave,40.7747878,-73.9125551,4
+1814,3527,5 Ave & E 126 St,40.80698,-73.941747,4
+1815,3528,Steinway St & 23 Ave,40.7713937,-73.9077436,4
+1816,3529,Lenox Ave & W 130 St,40.8107922,-73.9430681,4
+1817,3530,Crescent St & Ditmars Blvd,40.7787185,-73.9145645,4
+1818,3531,Frederick Douglass Blvd & W 129 St,40.8125511,-73.9492286,4
+1819,3532,Ditmars Blvd & 19 St,40.78145,-73.9183302,4
+1820,3533,St. Nicholas Ave & W 126 St,40.8114323,-73.9518776,4
+1821,3534,Frederick Douglass Blvd & W 117 St,40.805159,-73.954692,4
+1822,3535,Mt Morris Park W & W 120 St,40.804038,-73.945925,4
+1823,3536,W 116 St & Broadway,40.8082,-73.9641,4
+1824,3537,Carlton Ave & Dean St,40.6809741,-73.9710097,4
+1825,3538,W 110 St & Amsterdam Ave,40.802692,-73.96295,4
+1826,3539,W 116 St & Amsterdam Ave,40.8067581,-73.9607082,4
+1827,3540,Morningside Ave & W 123 St,40.81,-73.9551508,4
+1828,3541,Amsterdam Ave & W 125 St,40.813358,-73.956461,4
+1829,3542,Amsterdam Ave & W 119 St,40.8086249,-73.9596214,4
+1830,3543,Morningside Dr & Amsterdam Ave,40.81028506306003,-73.95736455917358,4
+1831,3544,Underhill Ave & Pacific St,40.6804836,-73.9646795,4
+1832,3545,Broadway & W 122 St,40.8120562,-73.9612547,4
+1833,3546,Pacific St & Classon Ave,40.6791944,-73.9587903,4
+1834,3547,Broadway & Moylan Pl,40.8143256,-73.9590255,4
+1835,3549,Grand Ave & Bergen St,40.678045,-73.962408,4
+1836,3551,3 Ave & E 112 St,40.795508,-73.941606,4
+1837,3552,W 113 St & Broadway,40.805973,-73.964928,4
+1838,3553,Frederick Douglass Blvd & W 112 St,40.801694,-73.957145,4
+1839,3554,Vernon Blvd & 41 Rd,40.7552433,-73.9485678,4
+1840,3555,28 St & 41 Ave,40.751047,-73.93797,4
+1841,3557,40 Ave & 9 St,40.75742,-73.945133,4
+1842,3558,Bergen St & Vanderbilt Ave,40.6794388,-73.9680438,4
+1843,3559,21 St & 38 Ave,40.7576314,-73.9391224,4
+1844,3561,37 Ave & 35 St,40.7531106,-73.9279917,4
+1845,3562,Classon Ave & St Marks Ave,40.6765198,-73.9596082,4
+1846,3563,28 St & 36 Ave,40.757186,-73.932719,4
+1847,3564,21 St & 36 Ave,40.7601853,-73.9362726,4
+1848,3565,36 Ave & 10 St,40.7614376,-73.9411265,4
+1849,3566,Crescent St & 35 Ave,40.7596276,-73.9321455,4
+1850,3567,11 St & 35 Ave,40.7627442,-73.9391141,4
+1851,3568,34 St & 35 Ave,40.7569332,-73.9262231,4
+1852,3569,Franklin Ave & St Marks Ave,40.6758324,-73.9561677,4
+1853,3570,35 Ave & 37 St,40.7557327,-73.9236611,4
+1854,3571,Bedford Ave & Bergen St,40.676368,-73.952918,4
+1855,3572,34 Ave & 38 St,40.756913,-73.921631,4
+1856,3573,35 St & 34 Ave,40.7580583,-73.9242751,4
+1857,3574,Prospect Pl & Underhill Ave,40.6769694,-73.96579,4
+1858,3575,Crescent St & 34 Ave,40.76108,-73.930562,4
+1859,3576,Park Pl & Vanderbilt Ave,40.6767,-73.969024,4
+1860,3577,34 Ave & 21 St,40.7628138,-73.9342862,4
+1861,3578,Park Pl & Franklin Ave,40.6741806,-73.9564947,4
+1862,3579,Sterling Pl & Bedford Ave,40.672695,-73.954131,4
+1863,3580,St Johns Pl & Washington Ave,40.6737236,-73.9631611,4
+1864,3581,Underhill Ave & Lincoln Pl,40.6740123,-73.9671457,4
+1865,3582,Lincoln Pl & Classon Ave,40.6721683,-73.9609,4
+1866,3583,Eastern Pkwy & Washington Ave,40.6716493,-73.9631145,4
+1867,3584,Eastern Pkwy & Franklin Ave,40.6707767,-73.9576801,4
+1868,3585,Union St & Bedford Ave,40.6691783,-73.9554162,4
+1869,3586,34 Ave & 13 St,40.7638753,-73.9364848,4
+1870,3587,Carroll St & Washington Ave,40.6686744,-73.9618148,4
+1871,3588,Vernon Blvd & 10 St,40.7671863,-73.9373554,4
+1872,3589,Broadway & 12 St,40.7668,-73.9347774,4
+1873,3590,Carroll St & Franklin Ave,40.6679411,-73.9588,4
+1874,3591,21 St & 31 Dr,40.7659,-73.930819,4
+1875,3592,Crescent St & Broadway,40.7633589,-73.9286471,4
+1876,3593,31 St & Broadway,40.761584,-73.925921,4
+1877,3595,35 St & Broadway,40.760339,-73.9222427,4
+1878,3596,Sullivan Pl & Bedford Ave,40.6642406,-73.9574686,4
+1879,3597,43 St & Broadway,40.7577284,-73.9166368,4
+1880,3598,Newton Rd & 44 St,40.7595701,-73.9142678,4
+1881,3600,31 Ave & Steinway St,40.7611488,-73.9170071,4
+1882,3601,Sterling St & Bedford Ave,40.6627059,-73.9569115,4
+1883,3602,31 Ave & 34 St,40.763154,-73.920827,4
+1884,3603,31 Ave & 30 St,40.7647,-73.9240312,4
+1885,3604,Rogers Ave & Sterling St,40.6630619,-73.9538746,4
+1886,3605,31 Ave & Crescent St,40.7658346,-73.9265474,4
+1887,3606,49 Ave & 21 St,40.74252,-73.948852,4
+1888,3607,31 Ave & 14 St,40.7682,-73.9322662,4
+1889,3608,5 St & 51 Ave,40.7423737,-73.9566,4
+1890,3609,Vernon Blvd & 31 Ave,40.7692475,-73.9354504,4
+1891,3610,Vernon Blvd & 30 Rd,40.770845,-73.934171,4
+1892,3611,Vernon Blvd & 47 Rd,40.7449067,-73.9534573,4
+1893,3612,30 Ave & 21 St,40.7703743,-73.9286078,4
+1894,3613,Center Blvd & 48 Ave,40.745038,-73.957539,4
+1895,3614,Crescent St & 30 Ave,40.768692,-73.9249574,4
+1896,3615,44 Dr & 21 St,40.748,-73.9460927,4
+1897,3616,Steinway St & 28 Ave,40.7656251,-73.9136695,4
+1898,3617,28 Ave & 35 St,40.7671,-73.9169858,4
+1899,3618,27 St & Hunter St,40.7485,-73.941275,4
+1900,3619,Newtown Ave & 23 St,40.7713615,-73.9246145,4
+1901,3620,11 St & 43 Ave,40.7519071,-73.9479119,4
+1902,3621,27 Ave & 9 St,40.7739825,-73.9309134,4
+1903,3622,E 128 St & Madison Ave,40.80756,-73.939182,4
+1904,3623,W 120 St & Claremont Ave,40.8109494,-73.9634,4
+1905,3628,Lenox Ave & W 117 St,40.8025566,-73.9490782,4
+1906,3629,Adam Clayton Powell Blvd & W 126 St,40.809495347779475,-73.94776493310928,4
+1907,3630,Frederick Douglass Blvd & W 115 St,40.8038654,-73.9559308,4
+1908,3635,W 36 St & 9 Ave,40.75462324029105,-73.99516761302948,4
+1909,3637,Fulton St & Waverly Ave,40.683238654603414,-73.96599590778351,4
+1910,3638,Washington St,40.7242941,-74.0354826,4
+1911,3639,Harborside,40.7192517,-74.034234,4
+1912,3640,Journal Square,40.73367,-74.0625,4
+1913,3641,Broadway & W 25 St,40.74286877312112,-73.98918628692627,4
+1914,3646,35 Ave & 10 St,40.76315481910373,-73.93985509872437,4
+1915,3647,48 Ave & 30 Pl,40.74128309355993,-73.93725872039794,4
+1916,3648,Flushing Ave & Vanderbilt Ave,40.697950315695444,-73.97077560424805,4
+1917,3649,W 129 St & Convent Ave,40.814394437915816,-73.95324736833572,4
+1918,3654,31 St & Northern Blvd,40.75186951421875,-73.93349289894103,4
+1919,3656,E 2 St & Avenue A,40.72307749068673,-73.98583620786667,4
+1920,3658,W 18 St & 9 Ave,40.7435337324616,-74.00367558002472,4
+1921,3661,Montgomery St & Franklin Ave,40.666439306870814,-73.9605563879013,4
+1922,3664,North Moore St & Greenwich St,40.72019521437465,-74.0103006362915,4
+1923,3668,Leonard St & Nassau Ave,40.7239567849954,-73.94984364509583,4
+1924,3671,E 81 St & 2 Ave,40.774779448957275,-73.95427465438843,4
+1925,3673,Dean St & Franklin Ave,40.67759206937376,-73.955637216568,4
+1926,3674,Jay St & York St,40.701403172577244,-73.98672670125961,4
+1927,3676,Van Brunt St & Van Dyke St,40.6758329439129,-74.01472628116608,4
+1928,3677,Glenwood Ave,40.72755146730012,-74.07106071710587,4
+1929,3678,Fairmount Ave,40.72572613742557,-74.07195925712585,4
+1930,3679,Bergen Ave,40.722103786686034,-74.07145500183105,4
+1931,3680,E 43 St & 5 Ave,40.754120810779256,-73.98025184869766,4
+1932,3681,Grand St,40.71517767732029,-74.03768330812454,4
+1933,3686,Gansevoort St & Hudson St,40.739448201304036,-74.00507032871246,4
+1934,3687,E 33 St & 1 Ave,40.74322681432173,-73.97449783980846,4
+1935,3689,W 104 St & Amsterdam Ave,40.799041392882984,-73.96649479866028,4
+1936,3690,Park Pl & Church St,40.71334184275907,-74.00935515761375,4
+1937,3691,28 Ave & 44 St,40.76408932350688,-73.91065120697021,4
+1938,3693,N 11 St & Kent Ave,40.72248188638219,-73.95921930670738,4
+1939,3694,Jackson Square,40.71113,-74.0789,4
+1940,3697,W 64 St & Thelonious Monk Circle,40.77515953434235,-73.98918695747852,4
+1941,3699,W 50 St & 9 Ave,40.763604677958625,-73.98917958140373,4
+1942,3704,47 Ave & Skillman Ave,40.7437524099784,-73.94176483154297,4
+1943,3707,Lexington Ave & E 26 St,40.741459,-73.983293,4
+1944,3708,W 13 St & 5 Ave,40.735445,-73.99431,4
+1945,3709,W 15 St & 6 Ave,40.738046142482766,-73.99642959237099,4
+1946,3711,E 13 St & Avenue A,40.72966729392978,-73.98067966103554,4
+1947,3712,W 35 St & Dyer Ave,40.754691750226016,-73.99740189313889,4
+1948,3714,Division Ave & Hooper St,40.70684203101325,-73.9544353965357,4
+1949,3715,Driggs Ave & N 9 St,40.71816969454208,-73.95520135760307,4
+1950,3716,40 Ave & Crescent St,40.753599202005596,-73.93795609474182,4
+1951,3718,E 11 St & Avenue B,40.72746420692392,-73.97950418293476,4
+1952,3721,31 St & Newtown Ave,40.7675487799971,-73.9209334552288,4
+1953,3724,7 Ave & Central Park South,40.7667405590595,-73.9790689945221,4
+1954,3725,2 Ave & E 72 St,40.7687620293096,-73.95840793848038,4
+1955,3726,Center Blvd & 51 Ave,40.743366080270214,-73.95960688591003,4
+1956,3727,Frost St & Meeker Ave,40.71766197083994,-73.94880026578903,4
+1957,3728,Pierrepont St & Monroe Pl,40.69535693320225,-73.99344027042389,4
+1958,3731,W 47 St & 6 Ave,40.758397,-73.98255,4
+1959,3733,Avenue C & E 18 St,40.730563,-73.973984,4
+1960,3734,E 58 St &  1 Ave (NW Corner),40.759125,-73.962658,4
+1961,3735,W 30 St & 10 Ave,40.752694,-74.002353,4
+1962,3736,E 12 St & Ave C,40.727243,-73.976831,4
+1963,3737,Stanton St & Norfolk St,40.720747,-73.986274,4
+1964,3738,Delancey St & Eldridge St,40.719383,-73.991479,4
+1965,3739,Perry St & Greenwich Ave,40.735918,-74.000939,4
+1966,3740,W Broadway & W Houston St,40.726378,-74.000472,4
+1967,3744,1 Ave & E 5 St,40.725864,-73.986389,4
+1968,3745,36 Ave & 31 St,40.75651272984955,-73.92957486212252,4
+1969,3746,6 Ave & Broome St,40.724308321602166,-74.00473035871983,4
+1970,3749,Lexington Ave & E 36 St,40.747573958954796,-73.9788007736206,4
+1971,3755,DeKalb Ave & Franklin Ave,40.69064807082943,-73.95746178925037,4
+1972,3756,White St & Moore St,40.704508,-73.9351,4
+1973,3757,Stagg St & Morgan Ave,40.710681,-73.93372,4
+1974,3758,George St & Wilson Ave,40.702997,-73.92997,4
+1975,3759,Irving Ave & Jefferson St,40.70538,-73.92535,4
+1976,3760,Willoughby Ave & Wyckoff Ave,40.705614,-73.92153,4
+1977,3761,Cedar St & Myrtle Ave,40.697842,-73.926241,4
+1978,3762,3 Ave & Carroll St,40.677027,-73.9865,4
+1979,3763,Wyckoff Av & Jefferson St,40.707165,-73.923711,4
+1980,3764,Bushwick Ave & McKibbin St,40.705517,-73.93936,4
+1981,3765,Bushwick Ave & Stagg St,40.709897,-73.94008,4
+1982,3766,Sharon St & Olive St,40.715353,-73.93856,4
+1983,3767,Powers St & Olive St,40.71323,-73.93894,4
+1984,3768,Waterbury St & Stagg St,40.71019,-73.93734,4
+1985,3769,White St & Johnson Ave,40.707174,-73.93581,4
+1986,3770,Central Ave & Flushing Ave,40.702831,-73.9333,4
+1987,3771,McKibbin St & Bogart St,40.706237,-73.933871,4
+1988,3772,Devoe St & Morgan Ave,40.713811,-73.93515,4
+1989,3773,Knickerbocker Ave & Thames St,40.70539,-73.92976,4
+1990,3774,Knickerbocker Ave & George St,40.704425,-73.92836,4
+1991,3775,Suydam St & Knickerbocker Ave,40.702013,-73.923769,4
+1992,3776,Central Ave & Starr Street,40.700003,-73.92834,4
+1993,3777,Stockholm St & Wilson Ave,40.699304,-73.923044,4
+1994,3778,Irving Ave & DeKalb Ave,40.7027,-73.92095,4
+1995,3779,Hart St & Wyckoff Ave,40.704876,-73.919911,4
+1996,3780,Wyckoff Av & Stanhope St,40.703545,-73.917775,4
+1997,3781,Greene Av & Myrtle Av,40.698568,-73.918877,4
+1998,3782,Brooklyn Bridge Park - Pier 2,40.698458,-73.997178,4
+1999,3783,Cliff St & Fulton St,40.70838,-74.00495,4
+2000,3785,W 42 St & 6 Ave,40.75492,-73.98455,4
+2001,3786,Division St & Bowery,40.714193,-73.996732,4
+2002,3787,Dock 72 Way & Market St,40.69985,-73.97141,4
+2003,3789,Fulton St & Irving Pl,40.68186,-73.959432,4
+2004,3790,Henry St & Middagh St,40.7003,-73.991581,4
+2005,3791,Hoboken Ave at Monmouth St,40.73520838045357,-74.04696375131607,4
+2006,3792,Columbus Dr at Exchange Pl,40.71687,-74.03281,4
+2007,3795,10 St & 2 Ave,40.671907,-73.993612,4
+2008,3798,W 40 St & 5 Ave,40.752269,-73.982079,4
+2009,3799,6 Ave & W 34 St,40.74964,-73.98805,4
+2010,3803,Bedford Ave & Montgomery St,40.665816,-73.956934,4
+2011,3804,Front St & Jay St,40.702461,-73.986842,4
+2012,3808,24 St & 41 Ave,40.752474,-73.939991,4
+2013,3809,W 55 St & 6 Ave,40.763189,-73.978434,4
+2014,3811,27 Ave & 3 St,40.77485,-73.9342,4
+2015,3812,University Pl & E 14 St,40.734814,-73.992085,4
+2016,3813,W 20 St & 10 Ave,40.745686,-74.005141,4
+2017,3814,E 56 St & Madison Ave,40.761573,-73.972628,4
+2018,3815,E 51 St & 2 Ave,40.755293,-73.967641,4
+2019,3816,Metropolitan Ave & Vandervoort Ave,40.71429,-73.93323,4
+2020,3817,Withers St & Kingsland Ave,40.71773,-73.94051,4
+2021,3818,Calyer St & Jewel St,40.72984,-73.94839,4
+2022,3819,Green St & McGuinness Blvd,40.73396,-73.95204,4
+2023,3820,Willoughby Ave & Myrtle Ave,40.69757,-73.93098,4
+2024,3821,Evergreen Ave & Noll St,40.70106,-73.93318,4
+2025,3822,Bushwick Ave & Forrest St,40.70076,-73.93641,4
+2026,3823,Beaver St & Fayette St,40.70099,-73.93921,4
+2027,3824,Van Sinderen Ave & Truxton St,40.6786,-73.90369,4
+2028,3825,Broadway & Furman Ave,40.68139,-73.90756,4
+2029,3826,Moffat St & Bushwick,40.68458,-73.90925,4
+2030,3827,Halsey St & Broadway,40.68565,-73.91564,4
+2031,3828,Eldert St & Bushwick Ave,40.68652,-73.91321,4
+2032,3829,Central Ave & Decatur St,40.6882,-73.90798,4
+2033,3830,Halsey St & Evergreen Ave,40.68858,-73.91227,4
+2034,3831,Broadway & Hancock St,40.68663,-73.9168,4
+2035,3832,Central Ave & Weirfield St,40.69055,-73.91181,4
+2036,3833,Madison St & Evergreen Ave,40.69122,-73.91693,4
+2037,3834,Irving Ave & Halsey St,40.69467,-73.90663,4
+2038,3835,Knickerbocker Ave & Hancock St,40.69385,-73.90974,4
+2039,3836,Bushwick Ave & Linden St,40.69146,-73.92146,4
+2040,3837,Broadway & Kosciuszko St,40.69329,-73.92852,4
+2041,3838,Bushwick Ave & Harman St,40.69356,-73.92524,4
+2042,3839,Putnam Ave & Knickerbocker Ave,40.69545,-73.91164,4
+2043,3840,Putnam Ave & Wyckoff Ave,40.69811,-73.90904,4
+2044,3841,Menahan St & Central Ave,40.69543,-73.9196,4
+2045,3842,Bushwick Ave & Dekalb Ave,40.69502,-73.92825,4
+2046,3843,Myrtle Ave & Grove St,40.69905,-73.91516,4
+2047,3844,Myrtle Ave & Linden St,40.69943,-73.91337,4
+2048,3845,Irving Ave & Harman St,40.70108,-73.9179,4
+2049,3846,Central Ave & Himrod St,40.69676,-73.92302,4
+2050,3847,Cedar St & Evergreen Ave,40.69671,-73.92807,4
+2051,3848,Suydam St & Broadway,40.69544,-73.93223,4
+2052,3849,Suydam St & St. Nicholas Ave,40.70636,-73.91945,4
+2053,3850,Jefferson St & Cypress Ave,40.70907,-73.92157,4
+2054,3851,Metropolitan Ave & Stewart Ave,40.71401,-73.92793,4
+2055,3852,Stewart Ave & Johnson Ave,40.70869,-73.92587,4
+2056,3853,Harrison Pl & Porter Ave,40.70686,-73.92851,4
+2057,3854,Morgan Ave & Maspeth Ave,40.716657,-73.93637,4
+2058,3855,Frost St & Debevoise Ave,40.71882,-73.93948,4
+2059,3856,Kingsland Ave & Nassau Ave,40.72577,-73.94173,4
+2060,3857,Engert Ave & McGuinness Blvd,40.72158,-73.94546,4
+2061,3858,Kent St & McGuinness Blvd,40.73124,-73.95161,4
+2062,3859,Lorimer St & Calyer St,40.72795,-73.95414,4
+2063,3860,Wilson Ave & Troutman St,40.70166,-73.92754,4
+2064,3861,Menahan St & Wyckoff Ave,40.70113,-73.91422,4
+2065,3862,Linden St & Knickerbocker Ave,40.69714,-73.91566,4
+2066,3863,Central Ave & Woodbine St,40.69296,-73.91605,4
+2067,3864,Central Ave & Covert St,40.68929,-73.90951,4
+2068,3865,Knickerbocker Ave & Cooper St,40.69081,-73.90448,4
+2069,3866,Wilson Ave & Moffat St,40.68906,-73.90506,4
+2070,3867,Somers St & Broadway,40.67945,-73.90474,4
+2071,3868,Knickerbocker Ave & Halsey St,40.693,-73.90824,4
+2072,3869,Van Buren St & Broadway,40.692,-73.92617,4
+2073,3870,Melrose St & Broadway,40.697481,-73.935877,4
+2074,3871,Bushwick Ave & Furman Ave,40.68281,-73.90623,4
+2075,3872,Hancock St & Wyckoff Ave,40.6972,-73.90674,4
+2076,3873,Madison St & Cypress Ave,40.70068,-73.90742,4
+2077,3874,Menahan St & Seneca Ave,40.70461,-73.91054,4
+2078,3875,Stephen St & Seneca Ave,40.6988,-73.9007,4
+2079,3876,Forest Ave & Summerfield St,40.69922,-73.89795,4
+2080,3877,Madison St & Forest Ave,40.70555,-73.90245,4
+2081,3878,Cypress Ave & George St,40.69812,-73.90271,4
+2082,3879,Broadway & Madison St,40.68822,-73.91966,4
+2083,3880,Willoughby Ave & Onderdonk Ave,40.7098,-73.91727,4
+2084,3881,12 Ave & W 125 St,40.818299,-73.960405,4
+2085,3882,Norman St & Wyckoff Ave,40.69517,-73.90311,4
+2086,3883,Harman St & Seneca Ave,40.70577,-73.91292,4
+2087,3884,Centre St & Seneca Ave,40.69969,-73.9022,4
+2088,3885,Onderdonk Ave & Gates Ave,40.70413,-73.90737,4
+2089,3886,Menahan St & Onderdonk Ave,40.70553,-73.9096,4
+2090,3887,Flushing Ave & Woodward Ave,40.71246,-73.91873,4
+2091,3888,Woodward Ave & Harman St,40.70793,-73.91092,4
+2092,3890,Grove St & Broadway,40.69047,-73.923511,4
+2093,3891,Irving Ave & Palmetto St,40.698,-73.9127,4
+2094,3892,38 Ave & 29 St,40.75473,-73.93367,4
+2095,3893,Rockaway Ave & Bainbridge St,40.68319988172761,-73.91166642308235,4
+2096,3894,8 Ave & W 16 St,40.740983,-74.001702,4
+2097,3895,Cypress Ave & Palmetto St,40.701573408737914,-73.90876293182373,4
+2098,3896,Madison St & Seneca Ave,40.70183,-73.90625,4
+2099,3897,Onderdonk Ave & Dekalb Ave,40.70863,-73.91497,4
+2100,3898,E 63 St & 3 Ave,40.763954,-73.9646,4
+2101,3899,Manhattan Av & Leonard St,40.72084,-73.94844,4
+2102,3900,Morgan Ave & Lombardy St,40.72226,-73.93889,4
+2103,3901,Stanhope St & Fairview Ave,40.70998,-73.91116,4
+2104,3902,Fairview Ave & Linden St,40.70694,-73.90632,4
+2105,3903,Jefferson Ave & Evergreen Ave,40.68989,-73.91458,4
+2106,3905,4 Ave & E 12 St,40.732647,-73.99011,4
+2107,3906,West St & Liberty St,40.711444,-74.014847,4
+2108,3907,Central Ave & Melrose St,40.70112,-73.93039,4
+2109,3909,Madison St & Woodward Ave,40.70408,-73.90408,4
+2110,3910,Greene Ave & Grandview Ave,40.709697,-73.907856,4
+2111,3911,Wyckoff St & Nevins St,40.683426,-73.984275,4
+2112,3913,Sands St Gate,40.699569,-73.979827,4
+2113,3914,West End Ave & W 78 St,40.783786,-73.981687,4
+2114,3916,Pearl St & Peck Slip,40.708485,-74.002751,4
+2115,3917,Willoughby St & Ashland Pl,40.69178,-73.97877,4
+2116,3918,Avenue D & E 8 St,40.72387,-73.975767,4
+2117,3920,E 132 St & Madison Ave,40.810224,-73.937195,4
+2118,3921,Willis Ave & Bruckner Blvd,40.805701,-73.925177,4
+2119,3922,Alexander Ave & E 134 St,40.807466,-73.927107,4
+2120,3923,Lincoln Ave & E 134 St,40.808484,-73.928803,4
+2121,3924,Lincoln Ave & E 138 St,40.810893,-73.927311,4
+2122,3925,E 138 St & Canal St W,40.812304,-73.929153,4
+2123,3926,5 Ave & W 131 St,40.81014,-73.93973,4
+2124,3927,Lenox Ave & W 133 St,40.81296,-73.941878,4
+2125,3928,Adam Clayton Powell Blvd & W 132 St,40.813539,-73.94521,4
+2126,3929,Willis Ave & E 141 St,40.81093,-73.921606,4
+2127,3930,E 142 St & 3 Ave,40.812735,-73.923697,4
+2128,3931,Morris Ave & E 142 St,40.814469,-73.924963,4
+2129,3932,Grand Concourse & E 144 St,40.816576,-73.927987,4
+2130,3933,Gerard Ave & E 146 St,40.817755,-73.92965,4
+2131,3934,St Nicholas Ave & E 134 St,40.816234,-73.948222,4
+2132,3935,Amsterdam Ave & W 131 St,40.816355,-73.954295,4
+2133,3936,W 133 St & 12 Ave,40.820003,-73.959089,4
+2134,3937,E 135 St & St Ann's Ave,40.805089,-73.918889,4
+2135,3938,E 133 St & Cypress Pl,40.80262,-73.9174,4
+2136,3939,Willow Ave & E 133 St,40.800933,-73.913863,4
+2137,3940,E 134 St & Walnut Ave,40.800425,-73.911034,4
+2138,3941,Walnut Ave & E 136 St,40.801657,-73.909513,4
+2139,3942,Broadway & W 133 St,40.8190344,-73.956156,4
+2140,3944,Convent Ave & W 135 St,40.818215,-73.950988,4
+2141,3945,Amsterdam Ave & W 136 St,40.819746,-73.951819,4
+2142,3946,St Nicholas Ave & W 137 St,40.818477,-73.947568,4
+2143,3947,E 138 St & Willow Ave,40.804168,-73.911545,4
+2144,3948,E 138 St & Cypress Ave,40.805559,-73.914718,4
+2145,3949,Brook Ave & E 138 St,40.807408,-73.91924,4
+2146,3950,Brook Ave & E 141 St,40.809619,-73.917875,4
+2147,3951,E 141 St & St Ann's Ave,40.808633,-73.916124,4
+2148,3952,E 141 St & Jackson Ave,40.806896,-73.911837,4
+2149,3953,W 147 St & Adam Clayton Powell Blvd,40.82281,-73.937413,4
+2150,3955,St Mary's St & Jackson Ave,40.808891,-73.91081,4
+2151,3956,St. Ann's Ave & E 144 St,40.811112,-73.914932,4
+2152,3957,E 144 St & Brook Ave,40.811675,-73.917037,4
+2153,3958,Willis Ave & E 143 St,40.812299,-73.92037,4
+2154,3959,Edgecombe Ave & W 145 St,40.823498,-73.94386,4
+2155,3960,Hamilton Pl & W 140 St,40.822756,-73.951346,4
+2156,3961,Morris Ave & E 153 St,40.820036,-73.921411,4
+2157,3963,Melrose Ave & E 150 St,40.816827,-73.917338,4
+2158,3964,Brook Ave & E 148 St,40.814383,-73.915368,4
+2159,3965,E 149 St & Eagle Ave,40.814046,-73.91186,4
+2160,3966,Wales Ave & E 147 St,40.811314,-73.907729,4
+2161,3967,W 146 St & Broadway,40.826969,-73.949738,4
+2162,3968,Prospect Ave & E 151 St,40.814232,-73.903927,4
+2163,3969,St Ann's Ave & Westchester Ave,40.815887,-73.911918,4
+2164,3970,Melrose Ave & E 154 St,40.819609,-73.916071,4
+2165,3972,E 158 St & Melrose Ave,40.822215,-73.914688,4
+2166,3973,St Nicholas Ave & W 150 St,40.827212,-73.942722,4
+2167,3975,Brook Ave & E 157 St,40.820713,-73.911759,4
+2168,3976,E 156 & Brook Ave,40.819823,-73.912411,4
+2169,3977,Prospect Ave & Longwood Ave,40.81899,-73.90202,4
+2170,3978,Cauldwell Ave & E 161 St,40.82188,-73.907521,4
+2171,3980,Amsterdam Ave & W 152 St,40.829523,-73.944279,4
+2172,3981,Harlem River Dr & W 155 St,40.830476,-73.939929,4
+2173,3982,Bergen Ave & E 152 St,40.817166,-73.914737,4
+2174,3983,Westchester Ave & E 156 St,40.817802,-73.905203,4
+2175,3984,W 140 St & Riverside Dr,40.824013,-73.954743,4
+2176,3985,E 160 St & Tinton Ave,40.820302,-73.903944,4
+2177,3986,E 149 St & Morris Ave,40.81734,-73.922962,4
+2178,3987,E 149 St & Jackson Ave,40.813135,-73.909235,4
+2179,3988,E 128 St & 3 Ave,40.805631,-73.934077,4
+2180,3989,Willis Ave & E 137 St,40.808384,-73.923604,4
+2181,3992,W 169 St & Fort Washington Ave,40.8428422,-73.9421253,4
+2182,3994,2 Ave & E 125 St,40.802554,-73.933509,4
+2183,3995,5 Ave & E 135 St,40.812191,-73.937838,4
+2184,3996,Lexington Ave & E 128 St,40.806414,-73.936085,4
+2185,3997,5 Av & W 139 St,40.815484,-73.935856,4
+2186,3998,W 135 St & Lenox Terrace Pl,40.813619,-73.939336,4
+2187,3999,Adam Clayton Powell Blvd & W 138 St,40.81695971032464,-73.9422959089279,4
+2188,4000,Lenox Ave & W 144 St,40.819783,-73.936521,4
+2189,4001,Lenox Ave & W 146 St,40.821111,-73.935971,4
+2190,4002,W 144 St & Adam Clayton Powell Blvd,40.820877,-73.939249,4
+2191,4004,Edgecombe Ave & W 141 St,40.820681,-73.945144,4
+2192,4005,St. Nicholas Terrace & Convent Ave,40.821294,-73.947868,4
+2193,4006,E 147 St & Bergen Ave,40.814673,-73.91839,4
+2194,4007,Riverside Dr & W 138 St,40.823168,-73.955857,4
+2195,4008,Broadway & W 142 St,40.824686,-73.951947,4
+2196,4009,Riverside Dr & W 145 St,40.827305,-73.951989,4
+2197,4010,W 145 St & Amsterdam Ave,40.825244,-73.947257,4
+2198,4011,Westchester Ave & Jackson Ave,40.816124,-73.908116,4
+2199,4012,W 148 St & Amsterdam Ave,40.827075,-73.945909,4
+2200,4013,Convent Ave & W 151 St,40.82831,-73.942924,4
+2201,4014,Riverside Dr & W 148 St,40.829114,-73.950426,4
+2202,4015,W 155 St & Frederick Douglass Blvd,40.82923,-73.936996,4
+2203,4016,Adam Clayton Powell Blvd & W 130 St,40.812346,-73.946168,4
+2204,4017,E 138 St & 5 Av,40.81449,-73.936153,4
+2205,4018,Broadway & W 131 St,40.817555,-73.957163,4
+2206,4019,St. Ann's Av & Bruckner Blvd,40.803399,-73.919763,4
+2207,4020,Bradhurst Ave & W 148 St,40.825125,-73.941616,4
+2208,4021,E 138 St & Grand Concourse,40.813224,-73.930605,4
+2209,4023,Adam Clayton Powell Blvd & W 141 St,40.819241,-73.941057,4
+2210,4024,Macombs Pl & W 152 St,40.826406,-73.937948,4
+2211,4025,Edgecombe Ave & W 150 St,40.826881,-73.941427,4
+2212,4027,St. Nicholas Ave & W 155 St,40.830663,-73.941323,4
+2213,4028,Frederick Douglass Blvd & Harlem River Dr,40.830702,-73.936371,4
+2214,4029,Courtlandt Ave & E 149 St,40.816402,-73.919549,4
+2215,4030,Courtlandt Ave & E 157 St,40.822267,-73.916792,4
+2216,4031,Cauldwell Ave & E 158 St,40.81989,-73.908351,4
+2217,4032,E 155 St & Courtlandt Ave,40.82057,-73.917579,4
+2218,4034,Hamilton Pl & W 138 St,40.821728,-73.952761,4
+2219,4035,Broadway & W 153 St,40.831327,-73.946665,4
+2220,4036,Motorgate,40.7639089,-73.9477213,4
+2221,4037,Roosevelt Island Tramway,40.757284,-73.9536,4
+2222,4038,Southpoint Park,40.75370225419114,-73.95865201950072,4
+2223,4040,Madison Ave & E 26 St,40.742684734875695,-73.98671329021454,4
+2224,4041,Adam Clayton Powell Blvd & W 151 St,40.825289,-73.936232,4
+2225,4043,W 78 St & Amsterdam Ave,40.782535857724106,-73.97908508777618,4
+2226,4044,8 Ave & W 38 St,40.75461,-73.99177,4
+2227,4045,West End Ave & W 60 St,40.77237,-73.99005,4
+2228,4047,Amsterdam Ave & W 156 St,40.832081,-73.942386,4
+2229,4048,St. Nicholas Ave & W 157 St,40.832314,-73.94102,4
+2230,4050,W 159 St & Edgecombe Ave,40.833303,-73.939326,4
+2231,4051,W 160 St & St. Nicholas Ave,40.834468,-73.939865,4
+2232,4052,Amsterdam Ave & W 162 St,40.83618,-73.939789,4
+2233,4053,W 163 St & Edgecombe Ave,40.835798,-73.937496,4
+2234,4054,W 163 St & Riverside Dr,40.839278,-73.945446,4
+2235,4055,W 165 St & Fort Washington Ave,40.84004,-73.942939,4
+2236,4056,Broadway & W 165 St,40.839137,-73.941409,4
+2237,4057,Amsterdam Ave & W 167 St,40.839443,-73.937044,4
+2238,4058,Madison Av & E 51 St,40.75863,-73.97513,4
+2239,4059,W 171 St & St. Nicholas Ave,40.842941,-73.938631,4
+2240,4060,Amsterdam Ave & W 172 St,40.842173,-73.935111,4
+2241,4061,Fort Washington Ave & W 173 St,40.84522,-73.940493,4
+2242,4062,Amsterdam Ave & W 175 St,40.844044,-73.933651,4
+2243,4063,Wadsworth Ave & W 175 St,40.846052,-73.937648,4
+2244,4064,Southern Blvd & E 142 St,40.807347437082,-73.90809774398804,4
+2245,4065,Wadsworth Ave & W 179 St,40.848467,-73.936064,4
+2246,4066,Audobon Ave & W 179 St,40.847305,-73.933291,4
+2247,4067,Amsterdam Ave & W 180 St,40.847396,-73.931205,4
+2248,4068,Fort Washington Ave & W 183 St,40.852252,-73.937854,4
+2249,4069,Cabrini Blvd & W 177 St,40.848282,-73.941343,4
+2250,4070,W 180 St & Ft Washington Ave,40.849972,-73.938423,4
+2251,4071,Broadway & W 160 St,40.835775,-73.9434,4
+2252,4072,W 48 St & Rockefeller Plaza,40.75793646243674,-73.97960275411606,4
+2253,4073,W 51 St & Rockefeller Plaza,40.75969995906254,-73.97808194160461,4
+2254,4074,Edgecombe Ave & W 167 St,40.838191,-73.936085,4
+2255,4075,Central Park West & W 85 St,40.78476,-73.969862,4
+2256,4076,E 150 St & Gerard Ave,40.820089,-73.928947,4
+2257,4078,Concourse Village East & E 158 St,40.823732,-73.919379,4
+2258,4079,Grant Ave & E 164 St,40.828847,-73.91769,4
+2259,4080,Jerome Ave & E 164 St,40.831444,-73.926226,4
+2260,4081,Gerard Ave & E 165 St,40.83173,-73.922394,4
+2261,4082,Gerard Ave & McClellan St,40.833909,-73.92112,4
+2262,4083,Walton Ave & E 168 St,40.83649,-73.918316,4
+2263,4084,Sheridan Ave & E 168 St,40.835334,-73.9154,4
+2264,4085,Grand Concourse & E 171 St,40.839549,-73.913004,4
+2265,4086,Inwood Ave & W 170 St,40.840536,-73.919228,4
+2266,4087,W 170 St & University Ave,40.84207,-73.926075,4
+2267,4088,Nelson Ave & W 172 St,40.843965,-73.920999,4
+2268,4090,Grand Concourse & E 156 St,40.823429,-73.924689,4
+2269,4091,Jerome Ave & Ogden Ave,40.829797,-73.931015,4
+2270,4092,Jerome Ave & Anderson Ave,40.830179,-73.928747,4
+2271,4093,Grand Concourse & E 161 St,40.827115,-73.92272,4
+2272,4094,Park Ave & E 162 St,40.825716,-73.915585,4
+2273,4095,E 165 St & Jerome Ave,40.83263,-73.925101,4
+2274,4096,Grand Concourse & E 167 St,40.834263,-73.917641,4
+2275,4098,Shakespeare Ave & W 169 St,40.839312,-73.922423,4
+2276,4099,E 169 St & Webster Ave,40.834015,-73.908863,4
+2277,4101,E 153 St & E 157 St,40.826677,-73.929327,4
+2278,4102,Grand Concourse & E 164 St,40.829608,-73.921461,4
+2279,4103,Ogden Ave & W 165 St,40.834457,-73.928381,4
+2280,4104,Old Broadway & W 133 St,40.818212,-73.955277,4
+2281,4105,Concourse Village West & E 156 St,40.823162,-73.923267,4
+2282,4106,Ogden Ave & W 164 St,40.832812,-73.929372,4
+2283,4107,E 170 St & Clay Ave,40.837213,-73.908345,4
+2284,4108,Clay Ave & E 173 St,40.843264,-73.904867,4
+2285,4109,Amsterdam Ave & W 183 St,40.84925,-73.93022,4
+2286,4110,Avenue D & E 10 St,40.72506551015475,-73.97515833377838,4
+2287,4112,Wards Meadow Comfort Station,40.78294,-73.93077,4
+2288,4113,Icahn Stadium,40.79346,-73.92389,4
+2289,4114,Sunken Meadow Comfort Station,40.79558,-73.91906,4
+2290,4115,Bronx Shore Comfort Station,40.80046,-73.92404,4
+2291,4116,Gerard Ave & E 164 St,40.830262,-73.923391,4
+2292,4117,Sullivan Pl & Franklin Ave,40.66407983678161,-73.96025128666679,4
+2293,4118,Liberty St & Nassau St,40.70858894240581,-74.00935482235809,4
+2294,4120,E 39 St & Lexington Ave,40.749498546025194,-73.97729203113158,4
+2295,4121,1 Ave & E 39 St,40.74714,-73.97113,4
+2296,4122,Central Park W & W 97 St,40.79249519495111,-73.96417066463071,4
+2297,4123,Central Park W & W 103 St,40.796036841599836,-73.96158903853575,4
+2298,4124,Central Park W & W 91 St,40.788664991278836,-73.96680057048798,4
+2299,4125,E 161 St & River Ave,40.827883,-73.927111,4
+2300,4126,E 157 St & River Ave,40.825737,-73.927311,4
+2301,4127,Ogden Ave & Merriam Ave,40.839142,-73.925961,4
+2302,4128,College Ave & E 170 St,40.837576,-73.910489,4
+2303,4129,Anderson Ave & W 164 St,40.832057,-73.927421,4
+2304,4130,Morris Ave & McClellan St,40.831584,-73.9149,4
+2305,4131,Goble Pl & Macombs Rd,40.844075,-73.917256,4
+2306,4132,Southern Blvd & Avenue St. John,40.812769,-73.901583,4
+2307,4133,Beck St & Leggett Ave,40.815077,-73.899939,4
+2308,4134,Longwood Ave & Southern Blvd,40.816343,-73.896447,4
+2309,4135,Westchester Ave & Longwood Ave,40.819701,-73.901311,4
+2310,4136,Washington Ave & E 163 St,40.824,-73.91089,4
+2311,4137,3 Ave & E 163 St,40.823872,-73.908699,4
+2312,4138,3 Ave & Franklin Ave,40.82696,-73.907451,4
+2313,4139,Tinton Ave & E 165 St,40.824796,-73.90242,4
+2314,4140,E 163 St & Union Ave,40.822545,-73.901824,4
+2315,4141,Southern Blvd & Tiffany St,40.818185,-73.894143,4
+2316,4142,Barry St & Tiffany St,40.816126,-73.891559,4
+2317,4143,Hunts Point Ave & Bryant Ave,40.813991,-73.8855,4
+2318,4144,Lafayette Ave & Hunts Point Ave,40.816567,-73.888161,4
+2319,4146,Garrison Ave & Manida St,40.818743,-73.890247,4
+2320,4147,E 163 St & Tiffany St,40.821075,-73.895069,4
+2321,4148,Intervale Ave & Westchester Ave,40.821967,-73.896752,4
+2322,4149,E 167 St & Franklin Ave,40.82895,-73.90521,4
+2323,4151,3 Ave & E 169 St,40.832678,-73.905158,4
+2324,4152,Fulton Ave & E 168 St,40.830471,-73.904556,4
+2325,4153,E 165 St & Fox St,40.82394,-73.894025,4
+2326,4154,Faile St & Garrison Ave,40.820578,-73.888271,4
+2327,4155,E 169 St & Fox St,40.827184,-73.893721,4
+2328,4156,Fulton Ave & St. Paul's Pl,40.83545,-73.90153,4
+2329,4157,Boston Rd & Prospect Ave,40.833246,-73.896599,4
+2330,4158,Freeman St & Reverend James A Polite Ave,40.830529,-73.894717,4
+2331,4159,3 Ave & E 172 St,40.839586,-73.900277,4
+2332,4160,Washington Ave & E 174 St,40.843079,-73.900216,4
+2333,4161,3 Ave & E 174 St,40.84224,-73.8985,4
+2334,4162,Southern Blvd & E 172 St,40.834124,-73.88955,4
+2335,4163,Boone Ave & E 172 St,40.832649,-73.885272,4
+2336,4164,E 174 St & Longfellow Ave,40.836274,-73.884308,4
+2337,4165,E 165 St & Clay Ave,40.82809,-73.91288,4
+2338,4166,River Ave & E 153 St,40.82441,-73.92818,4
+2339,4167,Grand Concourse & East Mount Eden Ave,40.84301,-73.91172,4
+2340,4168,Mount Eden Pkwy & Eastburn Ave,40.842675,-73.908544,4
+2341,4169,Morris Ave & E 171 St,40.83899,-73.9109,4
+2342,4170,Webster Ave & E 166 St,40.828975,-73.911259,4
+2343,4171,Boston Rd & E 167 St,40.828199,-73.903719,4
+2344,4172,Washington Ave & E 167 St,40.829896,-73.907618,4
+2345,4173,Longfellow Ave & E 165 St,40.825322,-73.887729,4
+2346,4174,3 Ave & E 170 St,40.834857,-73.903743,4
+2347,4175,E 171 St & Webster Ave,40.838379,-73.905838,4
+2348,4177,Prospect Ave & Jennings St,40.831762,-73.896853,4
+2349,4179,Freeman St & Southern Blvd,40.830051,-73.892103,4
+2350,4180,West Farms Rd & Boone Ave,40.830025,-73.886312,4
+2351,4181,Hoe Ave & Jennings St,40.832171,-73.889686,4
+2352,4182,Louis Nine Blvd & Intervale Ave,40.831998,-73.892686,4
+2353,4183,Fulton Ave & E 172 St,40.839229,-73.899047,4
+2354,4185,Southern Blvd & E 175 St,40.839335,-73.886445,4
+2355,4186,E 149 St & Park Ave,40.818154,-73.925294,4
+2356,4188,Broadway & W 155 St,40.83299,-73.94592,4
+2357,4189,Grant Ave & E 169 St,40.83579,-73.913741,4
+2358,4190,Walton Ave & E 171 St,40.840683,-73.915073,4
+2359,4191,Intervale Ave & Kelly St,40.827301,-73.896372,4
+2360,4192,Prospect Ave & E 167 St,40.826303,-73.898751,4
+2361,4193,W 181 St & Riverside Dr,40.85168,-73.94186,4
+2362,4194,Plaza Dr & W 170 St,40.840484,-73.917946,4
+2363,4195,E 167 St & Clay Ave,40.83094,-73.91125,4
+2364,4198,E 161 St & Park Ave,40.824811,-73.916407,4
+2365,4199,River Ave & McClellan St,40.83406,-73.92243,4
+2366,4200,E 174 St & Walton Ave,40.844811,-73.912042,4
+2367,4201,Clay Ave & Claremont Pkwy,40.83999,-73.90549,4
+2368,4202,Dawson St & Intervale Ave,40.819999,-73.897263,4
+2369,4203,Westchester Ave & Southern Blvd,40.824956,-73.891677,4
+2370,4204,E 167 St & Bryant Ave,40.826706,-73.888719,4
+2371,4205,Crotona Park North & Prospect Ave,40.841092,-73.892317,4
+2372,4206,Southern Blvd & E 149 St,40.811892,-73.904192,4
+2373,4207,Sherman Ave & E 166 St,40.83130549267296,-73.91744792461395,4
+2374,4208,Walton Ave & E 153 St,40.822351,-73.926907,4
+2375,4209,University Ave & W 168 St,40.838706,-73.927034,4
+2376,4210,Grand Concourse & E 166 St,40.83196,-73.91956,4
+2377,4211,Union Ave & E 169 St,40.82995,-73.898802,4
+2378,4212,Franklin Ave & E 169 St,40.83171,-73.90208,4
+2379,4213,Wilkins Ave & Crotona Park E,40.835302,-73.895133,4
+2380,4215,Hudson St & W 13 St,40.74005708567285,-74.0052741765976,4
+2381,4219,W 35 St & 9 Ave,40.75414519263519,-73.9960889518261,4
+2382,4220,Frederick Douglass Blvd & W 145 St,40.823061,-73.941928,4
+2383,4222,River Ave & E 151 St,40.822217,-73.928939,4
+2384,4225,Clinton St & Tillary St,40.696232971293156,-73.99142056703568,4
+2385,4227,Crotona Park East & E 173 St,40.837037,-73.890413,4
+2386,4228,Waterloo Pl & Crotona Park East,40.839194,-73.888587,4
+2387,4229,Sheridan Ave & E 172 St,40.840494,-73.911479,4
+2388,4230,Charlotte St & Boston Rd,40.8358771,-73.8931428,4
+2389,4232,6 Ave & W 45 St,40.756951,-73.982631,4
+2390,4235,W 50 St & 10 Ave,40.764734200065185,-73.99194359779358,4
+2391,4236,W 54 St & 11 Ave,40.768333,-73.992573,4
+2392,4238,W 44 St & 11 Ave,40.762009,-73.996975,4
+2393,4239,E 50 St & Park Ave,40.757334,-73.974235,4
+2394,4245,Bruckner Blvd & Bryant Ave,40.821952,-73.888546,4
+2395,4247,Riverside Dr & W 153 St,40.832164,-73.949702,4
+2396,4248,Old Slip & South St,40.70336686695866,-74.007867872715,4
+2397,4249,E 170 St & Webster Ave,40.83617913677475,-73.90730146322765,4
+2398,4250,Seneca Ave & Irvine St,40.81872569990116,-73.88862490653992,4
+2399,4252,Home St & Westchester Ave,40.827629,-73.886659,4
+2400,4253,Rogers Pl & E 165 St,40.823926,-73.897366,4
