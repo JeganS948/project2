@@ -12,11 +12,12 @@ location_id int fk >- Locations.id
 
 Stations
 --
+id int
 station_id PK int
 station_name varchar(255)
 latitude numeric(11,8)
 longitude numeric(11,8)
-location_id int fk >- Locations.id
+location_id PK int fk >- Locations.id
 
 Bikes
 --
