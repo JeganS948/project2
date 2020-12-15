@@ -1,3 +1,4 @@
 
 resources/api_keys.py
 *.csv
+config.py
