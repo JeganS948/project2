@@ -18,3 +18,15 @@
 
 3. **Historical Weather**
   * 
+
+### Transformation needed
+  * cleaning: drop columns not needed, drop rows with invalid data
+  * add column
+  * map added column to another table
+  * joining data from multiple sources
+  * filtering table to get unique values
+  * splitting columns into two columns
+  * validating data from referential tables
+  * creating tables available data
+
+### Type of final database - relational
