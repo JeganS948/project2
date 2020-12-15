@@ -77,13 +77,13 @@ CREATE table Bikes (
 CREATE table Ridership (
     id int not null,
     trip_duration int not null,
-    start_station_id int not null,
-    end_station_id int not null,
     start_date timestamp not null,
     end_date timestamp not null,
+    start_station_id int not null,
+    end_station_id int not null,
     bike_id int not null,
-    location_id int not null,
     member_type varchar(50) not null,
+    location_id int not null,
     PRIMARY KEY (id),
     CONSTRAINT fk_rides_bikes
         FOREIGN KEY (bike_id, location_id)
