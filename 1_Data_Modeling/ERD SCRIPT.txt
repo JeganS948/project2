@@ -26,13 +26,13 @@ Ridership
 --
 id PK int
 trip_duration int
-start_station_id int fk >- Stations.station_id
-end_station_id int fk >- Stations.station_id
 start_date timestamp
 end_date timestamp
+start_station_id int fk >- Stations.station_id
+end_station_id int fk >- Stations.station_id
 bike_id int fk >- Bikes.bike_id
-location_id int fk >- Bikes.location_id
 member_type int fk >- MemberTypes.member_type
+location_id int fk >- Bikes.location_id
 
 Pricing
 --
