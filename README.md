@@ -3,7 +3,7 @@
 ## Bike Share
 
 ### Data Sources
-**Trip Data**  
+1. **Trip Data**  
 
 ***Toronto***  
   * https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/  
@@ -17,6 +17,11 @@
 ***New York***  
   * https://www.citibikenyc.com/system-data  
 
-**Stations**
+2. **Stations**  
+  * [Toronto](https://toronto-us.publicbikesystem.net/ube/gbfs/v1/en/station_information)
+  * [Vancouver](https://vancouver-gbfs.smoove.pro/gbfs/en/station_information.json)
+  * [Boston](https://gbfs.bluebikes.com/gbfs/en/station_information.json)
+  * [New York](https://gbfs.citibikenyc.com/gbfs/en/station_information.json)
+       
 
-**Historical Weather**
+3. **Historical Weather**
