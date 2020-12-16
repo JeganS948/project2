@@ -3,3 +3,5 @@
 resources/api_keys.py
 ~$L Report Draft.odt
 config.py
+*.csv
+*.csv
