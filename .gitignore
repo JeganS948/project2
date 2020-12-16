@@ -1,2 +1,22 @@
 
 config.py
+resources/1_toronto_canada/Resources/2019-Q1.csv
+resources/1_toronto_canada/Resources/2019-Q2.csv
+resources/1_toronto_canada/Resources/2019-Q3.csv
+resources/1_toronto_canada/Resources/2019-Q4.csv
+resources/4_NewYork_US/Resources/201901-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201902-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201903-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201904-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201905-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201906-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201907-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201908-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201909-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201910-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201911-citibike-tripdata.csv
+resources/4_NewYork_US/Resources/201912-citibike-tripdata.csv
+resources/1_toronto_canada/Toronto_bikeshare.csv
+resources/3_boston_us/boston_bikeshare.csv
+resources/1_toronto_canada/toronto_bikes.csv
+*.csv
