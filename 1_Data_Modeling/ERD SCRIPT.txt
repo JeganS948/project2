@@ -34,6 +34,18 @@ bike_id int fk >- Bikes.bike_id
 member_type int fk >- MemberTypes.member_type
 location_id int fk >- Bikes.location_id
 
+
+HistoricalWeather
+--
+location_id PK int fk >- Locations.location_id
+forecast_date PK timestamp
+maxTempC int
+humidity int
+total_precip numeric(6,3)
+avg_cloudcover numeric(6,3)
+avg_windspeed numeric(6,3)
+
+
 Pricing
 --
 price_id PK int
