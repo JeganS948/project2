@@ -27,6 +27,21 @@ CREATE table Locations (
     PRIMARY KEY (location_id)
 );
 
+-- create table HistoricalWeather
+CREATE table HistoricalWeather (
+    location_id int not null,
+    forecast_date timestamp not null,
+    maxTempC int not null,
+    humidity int not null,
+    total_precip numeric(6,3),
+    avg_cloudcover numeric(6,3),
+    avg_windspeed numeric(6,3),
+    PRIMARY KEY (location_id, forecast_date),
+    CONSTRAINT fk_weather_locations
+        FOREIGN KEY (location_id)
+        REFERENCES Locations (location_id)
+);
+
 -- create table MemberTypes
 CREATE table MemberTypes (
     member_type varchar(50) not null,
