@@ -91,7 +91,7 @@ CREATE table Bikes (
 
 -- create table Ridership
 CREATE table Ridership (
-    id SERIAL,
+    id int not null AUTO_INCREMENT,
     trip_duration int not null,
     start_date timestamp not null,
     end_date timestamp not null,
