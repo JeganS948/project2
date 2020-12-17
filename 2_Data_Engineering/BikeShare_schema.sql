@@ -13,6 +13,7 @@ CREATE DATABASE "BikeShareDB"
 
 -- drop table if exists
 DROP table IF EXISTS Locations CASCADE;
+DROP table IF EXISTS HistoricalWeather CASCADE;
 DROP table IF EXISTS MemberTypes CASCADE;
 DROP table IF EXISTS Pricing CASCADE;
 DROP table IF EXISTS Stations CASCADE;
@@ -54,7 +55,7 @@ CREATE table MemberTypes (
 
 -- create table Pricing
 CREATE table Pricing (
-    price_id int not null,
+    price_id SERIAL,
     location_id int not null,
     member_type varchar(50) not null,
     plan varchar(50) not null,
@@ -90,7 +91,7 @@ CREATE table Bikes (
 
 -- create table Ridership
 CREATE table Ridership (
-    id int not null,
+    id SERIAL,
     trip_duration int not null,
     start_date timestamp not null,
     end_date timestamp not null,
