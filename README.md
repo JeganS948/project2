@@ -42,9 +42,11 @@ As the Ministry of Transportation, we want to understand the feasibility of impl
   * ***New York*** https://www.citibikenyc.com/pricing
   
   ### Data Modeling & Engineering
+  
+ <img src="Images/erd.png">
+ 
  * A database will be created a based on this Entity Relationship Diagram (ERD) that will look at six   main aspects: location, member type, pricing, station, bike, and ridership information. 
  
- <img src="Images/erd.png">
 
 ## Transform
  * We will use Jupyter Notebook to combine and clean our data. Steps include:
@@ -67,13 +69,26 @@ Station Data
    * for loop to parse through data for each urul
    
 Weather Data:
+
 <img src="Images/loop.png">
+
+*	Retrieved columns needed for analysis and dropped all extraneous columns
+*	Identified rows with incomplete information and dropped row with missing information
+*	Replaced the column names to be uniform across all four city datasets.
+
 
 Pricing Data: 
 
+<img src="Images/scrape.png">
+
+*	Set Executable Path & Initialize Chrome Browser
+*	Visit the site and parse the HTML with BS (BeautifulSoup)
+*	Scraped the pricing index of transportation usage and time allocated fees.
+
+
 ### Type of final database - relational
 
-### Load
+## Load
 Load data in this sequence:
 1. Locations
 2. HistoricalWeather
@@ -86,30 +101,21 @@ Load data in this sequence:
 **Note:**
 We have to cap our data due to space limitations on cloud server.
 
+## Discussion/Limitations/Next Steps
 
-### Method
-#### 1. Analysis
-  * analyse data files
-  * create entity relationship diagram based on data available
-  * create a relational database 
+•	Privacy laws made it difficult to find enough bike share data for other cities
+•	We found in additional information for the bike station information using a website called bikeshare-research.org that carried station information 
+•	We found a site called worldweatheronline.com that offered a free trial for three months and allowed us to query monthly historical weather data. 
+•	We acquired pricing data by web scraping. In some cases we had to go into subdivisions and change classes to get the info
+•	We used elephant SQL so that we could load tables and access them from different computers.
 
-#### 2. Process data
-#####  A. Extract
-    1. find data
-    2. extract data by file downloads, web scraping, API calls
-    3. study files
-    4. create dataframes
-#####  B. Transform
-    5. drop unnecessary columns
-    6. drop bad records, i.e., nulls, invalid dates
-    7. split columns to get necessary data
-    8. rename columns
-    9. rearrange columns in dataframe to follow database table structure
-    10. add location identifier column
-    11. save new dataframe to csv file
-#####  C. Load
-    12. Read csv files
-    13. Load csv files into dataframes
-    14. Check for integrity constraints
-    15. Drop records with column values not in reference table
-    16. Use sqlalchemy to load files into database
+### Limitations
+•	Station information was outdated, and we had to drop inconsistent records. 
+•	No records on unique members for Vancouver, Boston, NYC
+•	Data collected may not be representative of each city demographic and may not be representative of other cities in Canada that want a bike share program
+### Next Steps
+•	Analyze our data to show:
+o	Relationship between weather and ridership
+o	Map station information to visually show station info
+o	Popularity of different memberships based on price
+•	Display analysis on webpage in a visually appealing way
