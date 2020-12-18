@@ -78,9 +78,9 @@ Load data in this sequence:
 1. Locations
 2. HistoricalWeather
 3. Stations
-4. Pricing
-5. Bikes
-6. MemberTypes
+4. Bikes
+5. MemberTypes
+6. Pricing
 7. Ridership - load only the records where start_station_id and end_station_id exists in Stations table
 
 **Note:**
