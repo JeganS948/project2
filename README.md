@@ -93,7 +93,7 @@ We have to cap our data due to space limitations on cloud server.
   * create entity relationship diagram based on data available
   * create a relational database 
 
-#### 2. Process data files
+#### 2. Process data
 #####  A. Extract
     1. find data
     2. extract data by file downloads, web scraping, API calls
