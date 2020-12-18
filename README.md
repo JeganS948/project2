@@ -2,7 +2,8 @@
 
 ## Bike Share
 
-### Data Sources
+### Extraction
+## Data Sources
 1. **Trip Data**  
   * ***Toronto*** https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/  
   * ***Vancouver*** https://www.mobibikes.ca/en/system-data  
@@ -18,6 +19,13 @@
 
 3. **Historical Weather**
   * API calls to https://www.worldweatheronline.com/developer/api/historical-weather-api.aspx
+  
+4. **Pricing**
+   ***Toronto*** https://bikesharetoronto.com/pricing/
+  * ***Vancouver*** https://www.mobibikes.ca/en/offers-subscription 
+  * ***Boston*** https://www.bluebikes.com/pricing 
+  * ***New York*** https://www.citibikenyc.com/pricing
+
 
 ### Transformation needed
   * cleaning: drop columns not needed, drop rows with invalid data
