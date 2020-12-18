@@ -1,0 +1,55 @@
+Locations
+--
+location_id PK int
+city varchar(100)
+country varchar(100)
+
+MemberTypes
+--
+member_type PK varchar(50)
+location_id PK int fk >- Locations.location_id
+
+Stations
+--
+station_id PK int
+station_name varchar(255)
+latitude numeric(11,8)
+longitude numeric(11,8)
+location_id PK int fk >- Locations.location_id
+
+Bikes
+--
+bike_id PK int
+location_id PK int fk >- Locations.location_id
+
+Ridership
+--
+id PK int
+trip_duration int
+start_date timestamp
+end_date timestamp
+start_station_id int fk >- Stations.station_id
+end_station_id int fk >- Stations.station_id
+bike_id int fk >- Bikes.bike_id
+member_type int fk >- MemberTypes.member_type
+location_id int fk >- Bikes.location_id
+
+
+HistoricalWeather
+--
+location_id PK int fk >- Locations.location_id
+forecast_date PK timestamp
+maxTempC int
+humidity int
+total_precip numeric(6,3)
+avg_cloudcover numeric(6,3)
+avg_windspeed numeric(6,3)
+
+
+Pricing
+--
+price_id PK int
+location_id int fk >- MemberTypes.location_id
+member_type varchar(50) fk >- MemberTypes.member_type
+plan varchar(255)
+amount numeric(10,2)
