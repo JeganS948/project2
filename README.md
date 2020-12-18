@@ -63,6 +63,7 @@ Trip Data
    * creating tables available data
    
 Station Data
+
 <img src="Images/pd.read.png">
 
    * Api calls to retrieve station and location data
@@ -99,23 +100,24 @@ Load data in this sequence:
 7. Ridership - load only the records where start_station_id and end_station_id exists in Stations table
 
 **Note:**
+
 We have to cap our data due to space limitations on cloud server.
 
 ## Discussion/Limitations/Next Steps
 
-•	Privacy laws made it difficult to find enough bike share data for other cities
-•	We found in additional information for the bike station information using a website called bikeshare-research.org that carried station information 
-•	We found a site called worldweatheronline.com that offered a free trial for three months and allowed us to query monthly historical weather data. 
-•	We acquired pricing data by web scraping. In some cases we had to go into subdivisions and change classes to get the info
-•	We used elephant SQL so that we could load tables and access them from different computers.
+*	Privacy laws made it difficult to find enough bike share data for other cities
+*	We found in additional information for the bike station information using a website called bikeshare-research.org that carried station information 
+*	We found a site called worldweatheronline.com that offered a free trial for three months and allowed us to query monthly historical weather data. 
+*	We acquired pricing data by web scraping. In some cases we had to go into subdivisions and change classes to get the info
+*	We used elephant SQL so that we could load tables and access them from different computers.
 
 ### Limitations
-•	Station information was outdated, and we had to drop inconsistent records. 
-•	No records on unique members for Vancouver, Boston, NYC
-•	Data collected may not be representative of each city demographic and may not be representative of other cities in Canada that want a bike share program
+*	Station information was outdated, and we had to drop inconsistent records. 
+*	No records on unique members for Vancouver, Boston, NYC
+*	Data collected may not be representative of each city demographic and may not be representative of other cities in Canada that want a bike share program
 ### Next Steps
-•	Analyze our data to show:
-o	Relationship between weather and ridership
-o	Map station information to visually show station info
-o	Popularity of different memberships based on price
-•	Display analysis on webpage in a visually appealing way
+* Analyze our data to show:
+   * Relationship between weather and ridership
+   * Map station information to visually show station info
+   * Popularity of different memberships based on price
+*	Display analysis on webpage in a visually appealing way
