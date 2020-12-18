@@ -15,6 +15,7 @@ lifestyle
 As the Ministry of Transportation, we want to understand the feasibility of implementing a bike-sharing program across Canada. In Canada, we chose two major cities, Toronto & Vancouver, that already have a prototype bike-sharing program implemented and are active in gathering insight on bike-sharing programs. We chose to compare the efficiency of this program from a country with a similar economy as Canada, the US economy.  The two cities, Boston, and New York will be used as a compar-ison sample against Toronto and Vancouver. 
 
 ## Extraction
+
 <img src="Images/pd.read.png">
 
 ### Data Sources
@@ -49,7 +50,6 @@ As the Ministry of Transportation, we want to understand the feasibility of impl
  
 
 ## Transform
- * We will use Jupyter Notebook to combine and clean our data. Steps include:
  
 Trip Data
 
@@ -64,7 +64,7 @@ Trip Data
    
 Station Data
 
-<img src="Images/pd.read.png">
+<img src="Images/city.png">
 
    * Api calls to retrieve station and location data
    * for loop to parse through data for each urul
@@ -87,7 +87,6 @@ Pricing Data:
 *	Scraped the pricing index of transportation usage and time allocated fees.
 
 
-### Type of final database - relational
 
 ## Load
 Load data in this sequence:
@@ -115,6 +114,7 @@ We have to cap our data due to space limitations on cloud server.
 *	Station information was outdated, and we had to drop inconsistent records. 
 *	No records on unique members for Vancouver, Boston, NYC
 *	Data collected may not be representative of each city demographic and may not be representative of other cities in Canada that want a bike share program
+
 ### Next Steps
 * Analyze our data to show:
    * Relationship between weather and ridership
