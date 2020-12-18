@@ -60,3 +60,14 @@ Weather Data:
 Pricing Data: 
 
 ### Type of final database - relational
+
+### Load
+
+Locations
+HistoricalWeather
+Stations
+Pricing
+Bikes
+MemberTypes
+Ridership
+  load only the records where start_station_id and end_station_id exists in Stations table
