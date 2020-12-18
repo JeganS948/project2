@@ -47,7 +47,7 @@ As the Ministry of Transportation, we want to understand the feasibility of impl
  <img src="Images/erd.png">
 
 ## Transform
- * We will us Jupyter Notebook to combine and clean our data. Steps include:
+ * We will use Jupyter Notebook to combine and clean our data. Steps include:
  
 Trip Data
 
@@ -74,12 +74,14 @@ Pricing Data:
 ### Type of final database - relational
 
 ### Load
+Load data in the following order:
+1. Locations
+2. HistoricalWeather
+3. Stations
+4. Pricing
+5. Bikes
+6. MemberTypes
+7. Ridership - load only the records where start_station_id and end_station_id exists in Stations table
 
-Locations
-HistoricalWeather
-Stations
-Pricing
-Bikes
-MemberTypes
-Ridership
- load only the records where start_station_id and end_station_id exists in Stations table
+**Note**
+We have to cap our data due to space limitations on cloud server.
