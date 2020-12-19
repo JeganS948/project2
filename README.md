@@ -1,5 +1,5 @@
 # Project ETL
-## [click to run ETL]()
+## [click here to see file to run ETL](https://github.com/JeganS948/project2/blob/main/ETL_bikeshare.ipynb)
 <img src="Images/bike.jpg">
 
 ## Bike Share
@@ -144,6 +144,7 @@ We have to cap our data due to space limitations on cloud server.
 *	We used elephant SQL so that we could load tables and access them from different computers.
 
 ### Limitations
+*  We capped the data files processed at 500 records for expediency.
 *	Station information was outdated, and we had to drop inconsistent records. 
 *	No records on unique members for Vancouver, Boston, NYC
 *	Data collected may not be representative of each city demographic and may not be representative of other cities in Canada that want a bike share program
