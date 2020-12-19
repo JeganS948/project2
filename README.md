@@ -105,26 +105,26 @@ We have to cap our data due to space limitations on cloud server.
   * analyse data files
   * create entity relationship diagram based on data available
   * create a relational database
-2. Process data
-A. Extract
-1. find data
-2. extract data by file downloads, web scraping, API calls
-3. study files
-4. create dataframes
-B. Transform
-5. drop unnecessary columns
-6. drop bad records, i.e., nulls, invalid dates
-7. split columns to get necessary data
-8. rename columns
-9. rearrange columns in dataframe to follow database table structure
-10. add location identifier column
-11. save new dataframe to csv file
-C. Load
-12. Read csv files
-13. Load csv files into dataframes
-14. Check for integrity constraints
-15. Drop records with column values not in reference table
-16. Use sqlalchemy to load files into database
+2. Process data  
+  A. Extract
+    1. find data
+    2. extract data by file downloads, web scraping, API calls
+    3. study files
+    4. create dataframes
+  B. Transform
+    5. drop unnecessary columns
+    6. drop bad records, i.e., nulls, invalid dates
+    7. split columns to get necessary data
+    8. rename columns
+    9. rearrange columns in dataframe to follow database table structure
+    10. add location identifier column
+    11. save new dataframe to csv file
+  C. Load
+    12. Read csv files
+    13. Load csv files into dataframes
+    14. Check for integrity constraints
+    15. Drop records with column values not in reference table
+    16. Use sqlalchemy to load files into database
 
 ## Discussion/Limitations/Next Steps
 
