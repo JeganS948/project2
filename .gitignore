@@ -22,3 +22,4 @@ resources/1_toronto_canada/toronto_bikes.csv
 *.csv
 resources/3_boston_us/.DS_Store
 config_cloud.py
+load_to_db(test).ipynb
