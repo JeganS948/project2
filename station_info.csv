@@ -604,8 +604,8 @@ station_id,station_name,latitude,longitude,location_id
 7660,285 Victoria St,43.656633,-79.379625,1
 7662,Beaty Ave / Queen St W,43.6393107,-79.4408141,1
 7663,Kilgour Rd / Rumsey Rd,43.718039,-79.371914,1
-7664,Sunnybrook Health Center - L,43.7228713,-79.3744,1
-7665,Sunnybrook Health Centre - S,43.7206694,-79.3775527,1
+7664,Sunnybrook Health Center - L Wing,43.72268,-79.37644,1
+7665,Sunnybrook Health Centre - S Wing,43.7206694,-79.3775527,1
 0001,10th & Cambie,49.262487,-123.114397,2
 0002,Burrard Station (Melville & Dunsmuir),49.285871,-123.12105,2
 0004,Yaletown-Roundhouse Station,49.274566,-123.121817,2
@@ -1849,7 +1849,6 @@ station_id,station_name,latitude,longitude,location_id
 3564,21 St & 36 Ave,40.7601853,-73.9362726,4
 3565,36 Ave & 10 St,40.7614376,-73.9411265,4
 3566,Crescent St & 35 Ave,40.7596276,-73.9321455,4
-3567,11 St & 35 Ave,40.7627442,-73.9391141,4
 3568,34 St & 35 Ave,40.7569332,-73.9262231,4
 3569,Franklin Ave & St Marks Ave,40.6758324,-73.9561677,4
 3570,35 Ave & 37 St,40.7557327,-73.9236611,4
@@ -2402,3 +2401,5 @@ station_id,station_name,latitude,longitude,location_id
 4250,Seneca Ave & Irvine St,40.81872569990116,-73.88862490653992,4
 4252,Home St & Westchester Ave,40.827629,-73.886659,4
 4253,Rogers Pl & E 165 St,40.823926,-73.897366,4
+4304,34th Ave & Vernon Blvd,40.76535380385866,-73.93986314535141,4
+4328,W 167 St & St. Nicholas Ave,40.840124,-73.93949,4
