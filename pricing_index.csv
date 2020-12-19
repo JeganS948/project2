@@ -1,0 +1,15 @@
+location_id,member_type,plan,amount
+1,Annual Member,Annual Membership,99
+1,Casual Member,72 HOUR ACCESS PASS,15
+1,Casual Member,24 HOUR ACCESS PASS,7
+1,Casual Member,Single Trip For,3.25
+2,24 Hour,24 Hour Pass,12.0
+2,90 Day,30 Day Pass,25.0
+2,365 Standard,365 Day Pass Standard,129.0
+2,365 Plus,365 Day Pass Plus,159.0
+3,Customer,Monthly Membership,20
+3,Subscriber,Annual Membership,10
+3,Subscriber,Annual Membership,8.25
+4,Customer,Single Ride,3
+4,Customer,Day Pass,15
+4,Subscriber,Annual Membership,15
