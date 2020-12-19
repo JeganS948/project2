@@ -101,17 +101,23 @@ Load data in this sequence:
 We have to cap our data due to space limitations on cloud server.
 
 ## Methodology
+
 1. Analysis
   * analyse data files
   * create entity relationship diagram based on data available
   * create a relational database
+
 2. Process data  
+
    A. Extract  
+
       1. find data
       2. extract data by file downloads, web scraping, API calls
       3. study files
       4. create dataframes  
+
    B. Transform  
+
       1. drop unnecessary columns
       2. drop bad records, i.e., nulls, invalid dates
       3. split columns to get necessary data
@@ -119,7 +125,9 @@ We have to cap our data due to space limitations on cloud server.
       5. rearrange columns in dataframe to follow database table structure
       6. add location identifier column
       7. save new dataframe to csv file
+
    C. Load  
+
       1. Read csv files
       2. Load csv files into dataframes
       3. Check for integrity constraints
