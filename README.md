@@ -102,9 +102,9 @@ We have to cap our data due to space limitations on cloud server.
 
 ## Methodology
 1. Analysis
-analyse data files
-create entity relationship diagram based on data available
-create a relational database
+  * analyse data files
+  * create entity relationship diagram based on data available
+  * create a relational database
 2. Process data
 A. Extract
 1. find data
