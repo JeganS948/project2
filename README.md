@@ -1,5 +1,5 @@
 # Project ETL
-## [click to run ETL](https://github.com/JeganS948/project2/blob/main/ETL_bikeshare.ipynb)
+## [click here to see file to run ETL](https://github.com/JeganS948/project2/blob/main/ETL_bikeshare.ipynb)
 <img src="Images/bike.jpg">
 
 ## Bike Share
