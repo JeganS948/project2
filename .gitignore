@@ -21,3 +21,4 @@ resources/3_boston_us/boston_bikeshare.csv
 resources/1_toronto_canada/toronto_bikes.csv
 *.csv
 resources/3_boston_us/.DS_Store
+config_cloud.py
