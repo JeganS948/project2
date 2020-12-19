@@ -112,19 +112,19 @@ We have to cap our data due to space limitations on cloud server.
       3. study files
       4. create dataframes
    B. Transform
-      5. drop unnecessary columns
-      6. drop bad records, i.e., nulls, invalid dates
-      7. split columns to get necessary data
-      8. rename columns
-      9. rearrange columns in dataframe to follow database table structure
-      10. add location identifier column
-      11. save new dataframe to csv file
+      1. drop unnecessary columns
+      2. drop bad records, i.e., nulls, invalid dates
+      3. split columns to get necessary data
+      4. rename columns
+      5. rearrange columns in dataframe to follow database table structure
+      6. add location identifier column
+      7. save new dataframe to csv file
    C. Load
-      12. Read csv files
-      13. Load csv files into dataframes
-      14. Check for integrity constraints
-      15. Drop records with column values not in reference table
-      16. Use sqlalchemy to load files into database
+      1. Read csv files
+      2. Load csv files into dataframes
+      3. Check for integrity constraints
+      4. Drop records with column values not in reference table
+      5. Use sqlalchemy to load files into database
 
 ## Discussion/Limitations/Next Steps
 
